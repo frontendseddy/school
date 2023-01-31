@@ -1,0 +1,46 @@
+zásobník (stack) = je kolekce
+    push - dává top element do stacku
+    peek - vyndavá top element bez toho, aniž by ho odstranil
+    pop - vyndavá top element ze stacku
+
+ADT - abstraktní datové typy
+Kolekce:
+•	Můžeme je:
+o	porovnávat - compare (přirozeně – abeceda, velikost, atd…), compareTo (specifikuju přesně co chci porovnávat)
+o	řadit - porovnávám a vyměňuji
+•	fronta, list, arraylist pole, stack
+    •	ADT: (fe.:)
+    o	add(); - přídat
+    o	get();
+    o	contains(); - jestli se se tam něco nachází/obsahuje (vrací jo/ne true/false)
+    
+    o	remove(): - odebere něco konkrétního
+    o	size();
+    o	isEmpty();
+    o	idexOf(); - jestli se tam nachází, tak vypiš index prvního nalezenýho, pokud neni, tak vrátí “-1”
+    
+
+Interface  (rozhraní) –  je zcela „ abstraktní třida", která se používá k seskupeni souvisejících metod s prázdnými těly
+•	Pro přístup k metodám rozhraní musí být implementováno pomocí implements
+•	Třída může implementovat více rozhraní
+
+LIFO - last in first out (poslední uložený jde první ven)
+•	Stack
+FIFO - first in first out (první uložený jde první ven)
+•	List
+•	ArrayList - dynamické pole (lze rozšiřovat, zvětšovat, škálovat)
+•	pole
+•	fronta
+
+Comparable – ze se to da porovnávat
+Comparator – podle ceho se to porovnava
+
+comparator vs comparable:
+přirozený sort - vezme a sesortí
+pokud ne tak se zeptá podle čeho
+
+generické progarmování = třída umí pracovat se všema datovýma typama (string, integer, objecty ...)
+
+podmínka generiky je že tam musí být někajý T a to T musí být object
+
+

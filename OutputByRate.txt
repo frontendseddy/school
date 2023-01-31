@@ -1,0 +1,2476 @@
+[Name : Helix | Time: 13 : 58
+Year: 2018
+Raiting : 4.5
+--------------------
+
+, Name : Nightrain | Time: 4 : 8
+Year: 1987
+Raiting : 4.51
+--------------------
+
+, Name : Monstrance Clock | Time: 4 : 9
+Year: 2013
+Raiting : 4.51
+--------------------
+
+, Name : Back from the Dead | Time: 11 : 53
+Year: 2016
+Raiting : 4.51
+--------------------
+
+, Name : Nazis auf Speed | Time: 14 : 34
+Year: 2013
+Raiting : 4.52
+--------------------
+
+, Name : Midnight Breakfast | Time: 7 : 20
+Year: 2018
+Raiting : 4.56
+--------------------
+
+, Name : Land of a Thousand Drinks | Time: 12 : 27
+Year: 2019
+Raiting : 4.57
+--------------------
+
+, Name : Powersnake | Time: 10 : 27
+Year: 2020
+Raiting : 4.59
+--------------------
+
+, Name : The Phantom Of The Opera | Time: 3 : 13
+Year: 2005
+Raiting : 4.6
+--------------------
+
+, Name : Lempo | Time: 9 : 26
+Year: 2015
+Raiting : 4.6
+--------------------
+
+, Name : Here To Save You | Time: 7 : 30
+Year: 2017
+Raiting : 4.63
+--------------------
+
+, Name : Pain | Time: 7 : 54
+Year: 2006
+Raiting : 4.64
+--------------------
+
+, Name : Sacrament Of Wilderness | Time: 7 : 7
+Year: 1998
+Raiting : 4.67
+--------------------
+
+, Name : It's Not Over | Time: 6 : 7
+Year: 2014
+Raiting : 4.68
+--------------------
+
+, Name : Anush Basement Theme | Time: 7 : 58
+Year: 2018
+Raiting : 4.68
+--------------------
+
+, Name : The Eagle Flies Alone - edit | Time: 11 : 46
+Year: 2017
+Raiting : 4.72
+--------------------
+
+, Name : Soldier Side | Time: 11 : 41
+Year: 2005
+Raiting : 4.73
+--------------------
+
+, Name : Destined Course | Time: 5 : 39
+Year: 2016
+Raiting : 4.74
+--------------------
+
+, Name : Karma | Time: 3 : 47
+Year: 2017
+Raiting : 4.74
+--------------------
+
+, Name : Nowhere | Time: 14 : 13
+Year: 2018
+Raiting : 4.74
+--------------------
+
+, Name : Dark Chest Of Wonders | Time: 15 : 7
+Year: 2004
+Raiting : 4.76
+--------------------
+
+, Name : I Want My Tears Back | Time: 10 : 10
+Year: 2011
+Raiting : 4.77
+--------------------
+
+, Name : Carolus Rex - English Version | Time: 7 : 10
+Year: 2012
+Raiting : 4.77
+--------------------
+
+, Name : Hangover (Taio Cruz Cover) | Time: 14 : 13
+Year: 2014
+Raiting : 4.77
+--------------------
+
+, Name : Kiuru | Time: 14 : 43
+Year: 2021
+Raiting : 4.77
+--------------------
+
+, Name : Anush Basement Full Theme | Time: 13 : 50
+Year: 2018
+Raiting : 4.78
+--------------------
+
+, Name : Used To Love Her | Time: 11 : 15
+Year: 1988
+Raiting : 4.79
+--------------------
+
+, Name : Miero | Time: 2 : 41
+Year: 2021
+Raiting : 4.79
+--------------------
+
+, Name : Tequila | Time: 8 : 17
+Year: 2011
+Raiting : 4.8
+--------------------
+
+, Name : Deathwatch Beetle Party | Time: 4 : 56
+Year: 2021
+Raiting : 4.8
+--------------------
+
+, Name : The Good Life | Time: 11 : 42
+Year: 2009
+Raiting : 4.85
+--------------------
+
+, Name : L.U.I. - Life Under the Influence | Time: 8 : 34
+Year: 2014
+Raiting : 4.87
+--------------------
+
+, Name : Fannybaws | Time: 10 : 10
+Year: 2020
+Raiting : 4.87
+--------------------
+
+, Name : Cirice | Time: 4 : 24
+Year: 2015
+Raiting : 4.88
+--------------------
+
+, Name : Electric Nights | Time: 13 : 29
+Year: 2004
+Raiting : 4.89
+--------------------
+
+, Name : Over The Hills And Far away | Time: 7 : 32
+Year: 2004
+Raiting : 4.89
+--------------------
+
+, Name : Sleeping Sun | Time: 2 : 12
+Year: 1998
+Raiting : 4.9
+--------------------
+
+, Name : The Siren | Time: 11 : 11
+Year: 2004
+Raiting : 4.9
+--------------------
+
+, Name : Ambiramus | Time: 2 : 20
+Year: 2019
+Raiting : 4.9
+--------------------
+
+, Name : Endless Forms Most Beautiful | Time: 8 : 17
+Year: 2015
+Raiting : 4.91
+--------------------
+
+, Name : Stay 'Til the Daylight | Time: 5 : 9
+Year: 2017
+Raiting : 4.91
+--------------------
+
+, Name : Primo Victoria | Time: 14 : 23
+Year: 2010
+Raiting : 4.94
+--------------------
+
+, Name : Spirit | Time: 9 : 2
+Year: 2016
+Raiting : 4.97
+--------------------
+
+, Name : Hayastane | Time: 12 : 17
+Year: 2020
+Raiting : 4.98
+--------------------
+
+, Name : The Great Escape | Time: 6 : 57
+Year: 2012
+Raiting : 4.99
+--------------------
+
+, Name : Fish On | Time: 2 : 43
+Year: 2015
+Raiting : 4.99
+--------------------
+
+, Name : Patience | Time: 8 : 29
+Year: 1988
+Raiting : 5.0
+--------------------
+
+, Name : Nemo | Time: 5 : 12
+Year: 2004
+Raiting : 5.0
+--------------------
+
+, Name : You Spin Me Round (Like A Record) | Time: 9 : 48
+Year: 1999
+Raiting : 5.01
+--------------------
+
+, Name : Break The Line | Time: 14 : 10
+Year: 2006
+Raiting : 5.01
+--------------------
+
+, Name : Archangel | Time: 5 : 56
+Year: 2020
+Raiting : 5.01
+--------------------
+
+, Name : Chemicals | Time: 7 : 9
+Year: 2008
+Raiting : 5.03
+--------------------
+
+, Name : Move A Little Closer - Live | Time: 12 : 3
+Year: 2003
+Raiting : 5.1
+--------------------
+
+, Name : I am Shipping Up To Boston | Time: 3 : 50
+Year: 2012
+Raiting : 5.1
+--------------------
+
+, Name : The Mountain | Time: 2 : 0
+Year: 2018
+Raiting : 5.1
+--------------------
+
+, Name : Another Brick in the Wall, Pt. 1, 2, 3 | Time: 9 : 1
+Year: 2010
+Raiting : 5.12
+--------------------
+
+, Name : Rats | Time: 10 : 46
+Year: 2018
+Raiting : 5.13
+--------------------
+
+, Name : Sweet Child O' Mine | Time: 5 : 0
+Year: 1987
+Raiting : 5.14
+--------------------
+
+, Name : Kultanainen | Time: 12 : 36
+Year: 2009
+Raiting : 5.14
+--------------------
+
+, Name : Don't Cry (Original) | Time: 7 : 1
+Year: 1991
+Raiting : 5.15
+--------------------
+
+, Name : Raw Power | Time: 8 : 5
+Year: 1993
+Raiting : 5.18
+--------------------
+
+, Name : Anolan aukeat | Time: 7 : 32
+Year: 2021
+Raiting : 5.21
+--------------------
+
+, Name : Elect the Dead | Time: 13 : 9
+Year: 2007
+Raiting : 5.23
+--------------------
+
+, Name : Lions | Time: 8 : 49
+Year: 2016
+Raiting : 5.25
+--------------------
+
+, Name : Circus for a Psycho | Time: 11 : 48
+Year: 2013
+Raiting : 5.26
+--------------------
+
+, Name : Freakshow | Time: 6 : 24
+Year: 2013
+Raiting : 5.28
+--------------------
+
+, Name : Brave | Time: 3 : 48
+Year: 2017
+Raiting : 5.29
+--------------------
+
+, Name : Home | Time: 11 : 29
+Year: 2007
+Raiting : 5.3
+--------------------
+
+, Name : Defenders of Valhalla | Time: 9 : 30
+Year: 2017
+Raiting : 5.3
+--------------------
+
+, Name : Forget Me Knot | Time: 5 : 27
+Year: 2012
+Raiting : 5.31
+--------------------
+
+, Name : DEUTSCHLAND | Time: 3 : 33
+Year: 2019
+Raiting : 5.32
+--------------------
+
+, Name : Peace Be Revenged | Time: 8 : 10
+Year: 2010
+Raiting : 5.35
+--------------------
+
+, Name : Living in a Lie | Time: 2 : 25
+Year: 2006
+Raiting : 5.36
+--------------------
+
+, Name : Do or Die | Time: 6 : 34
+Year: 2020
+Raiting : 5.36
+--------------------
+
+, Name : You and Not Me | Time: 10 : 33
+Year: 2013
+Raiting : 5.38
+--------------------
+
+, Name : SECULAR HAZE | Time: 5 : 50
+Year: 2013
+Raiting : 5.38
+--------------------
+
+, Name : Amaranth | Time: 8 : 9
+Year: 2007
+Raiting : 5.39
+--------------------
+
+, Name : Absolution | Time: 12 : 9
+Year: 2016
+Raiting : 5.39
+--------------------
+
+, Name : This Is the Kingdom | Time: 2 : 38
+Year: 2019
+Raiting : 5.39
+--------------------
+
+, Name : For the Swarm | Time: 9 : 51
+Year: 2016
+Raiting : 5.4
+--------------------
+
+, Name : Silverseal | Time: 14 : 4
+Year: 2019
+Raiting : 5.4
+--------------------
+
+, Name : Money & Milk | Time: 7 : 8
+Year: 2000
+Raiting : 5.42
+--------------------
+
+, Name : Stand By Him | Time: 13 : 35
+Year: 2010
+Raiting : 5.42
+--------------------
+
+, Name : Not Gonna Die | Time: 9 : 8
+Year: 2013
+Raiting : 5.42
+--------------------
+
+, Name : Rebirthing | Time: 9 : 31
+Year: 2006
+Raiting : 5.45
+--------------------
+
+, Name : Feel Invincible | Time: 2 : 35
+Year: 2016
+Raiting : 5.46
+--------------------
+
+, Name : Ching Chime | Time: 12 : 49
+Year: 2012
+Raiting : 5.48
+--------------------
+
+, Name : Terrify the Dark - Reimagined | Time: 5 : 56
+Year: 2020
+Raiting : 5.49
+--------------------
+
+, Name : When Legends Rise | Time: 3 : 57
+Year: 2018
+Raiting : 5.5
+--------------------
+
+, Name : Kotikonnut | Time: 6 : 46
+Year: 2018
+Raiting : 5.5
+--------------------
+
+, Name : Painkiller | Time: 11 : 14
+Year: 2015
+Raiting : 5.51
+--------------------
+
+, Name : Cowboy | Time: 13 : 42
+Year: 2015
+Raiting : 5.55
+--------------------
+
+, Name : Rock in the City | Time: 12 : 35
+Year: 2020
+Raiting : 5.56
+--------------------
+
+, Name : Mr. Brownstone | Time: 14 : 29
+Year: 1987
+Raiting : 5.57
+--------------------
+
+, Name : Fallen Angel | Time: 12 : 41
+Year: 2015
+Raiting : 5.57
+--------------------
+
+, Name : You Ain't Ready | Time: 8 : 44
+Year: 2019
+Raiting : 5.57
+--------------------
+
+, Name : Goodbye - Gate 21 - Rock Remix | Time: 12 : 38
+Year: 2010
+Raiting : 5.58
+--------------------
+
+, Name : What I Believe | Time: 13 : 57
+Year: 2013
+Raiting : 5.58
+--------------------
+
+, Name : Borders Are... | Time: 6 : 17
+Year: 2010
+Raiting : 5.62
+--------------------
+
+, Name : Satan Prayer | Time: 11 : 40
+Year: 2010
+Raiting : 5.67
+--------------------
+
+, Name : Oh What A Night | Time: 10 : 4
+Year: 2011
+Raiting : 5.67
+--------------------
+
+, Name : Juuret | Time: 5 : 23
+Year: 2021
+Raiting : 5.67
+--------------------
+
+, Name : Reality TV | Time: 13 : 19
+Year: 2012
+Raiting : 5.68
+--------------------
+
+, Name : Descendants of Those Who Survived 1915 | Time: 10 : 31
+Year: 2016
+Raiting : 5.7
+--------------------
+
+, Name : It's Not Me, It's You | Time: 14 : 43
+Year: 2009
+Raiting : 5.72
+--------------------
+
+, Name : Infra-Red | Time: 5 : 45
+Year: 2018
+Raiting : 5.74
+--------------------
+
+, Name : Per Aspera Ad Inferi | Time: 10 : 14
+Year: 2013
+Raiting : 5.75
+--------------------
+
+, Name : Chinese Democracy | Time: 4 : 28
+Year: 2008
+Raiting : 5.78
+--------------------
+
+, Name : Unbreakable Heart | Time: 8 : 44
+Year: 2012
+Raiting : 5.79
+--------------------
+
+, Name : Fanman | Time: 12 : 24
+Year: 2011
+Raiting : 5.83
+--------------------
+
+, Name : Die, Die My Darling | Time: 12 : 6
+Year: 1998
+Raiting : 5.84
+--------------------
+
+, Name : Suden joiku | Time: 2 : 48
+Year: 2008
+Raiting : 5.88
+--------------------
+
+, Name : Turn Loose The Mermaids | Time: 5 : 45
+Year: 2011
+Raiting : 5.88
+--------------------
+
+, Name : It's So Easy | Time: 5 : 10
+Year: 1987
+Raiting : 5.89
+--------------------
+
+, Name : Aallon alla | Time: 12 : 24
+Year: 2018
+Raiting : 5.89
+--------------------
+
+, Name : Sanaton maa | Time: 9 : 53
+Year: 2020
+Raiting : 5.89
+--------------------
+
+, Name : Inside A Lullaby | Time: 11 : 20
+Year: 2017
+Raiting : 5.9
+--------------------
+
+, Name : Straight Out the Gate: (The Scott Stevens Remix) - Bonus Track | Time: 3 : 56
+Year: 2014
+Raiting : 5.91
+--------------------
+
+, Name : Living In A Lie - Unplugged Version | Time: 7 : 24
+Year: 2000
+Raiting : 5.92
+--------------------
+
+, Name : The Longing | Time: 5 : 25
+Year: 2016
+Raiting : 5.92
+--------------------
+
+, Name : Frenchy | Time: 9 : 54
+Year: 2020
+Raiting : 5.92
+--------------------
+
+, Name : Tell Me Why | Time: 4 : 31
+Year: 2015
+Raiting : 5.94
+--------------------
+
+, Name : Letter To Myself | Time: 13 : 43
+Year: 2017
+Raiting : 5.95
+--------------------
+
+, Name : You Get Me High | Time: 2 : 32
+Year: 2017
+Raiting : 5.95
+--------------------
+
+, Name : The Devil in I | Time: 12 : 20
+Year: 2014
+Raiting : 5.96
+--------------------
+
+, Name : Stars - The Shack Film Version | Time: 7 : 18
+Year: 2017
+Raiting : 5.99
+--------------------
+
+, Name : Con Clavi Con Dio | Time: 7 : 18
+Year: 2010
+Raiting : 6.0
+--------------------
+
+, Name : Kumba Yo ! | Time: 7 : 38
+Year: 2006
+Raiting : 6.01
+--------------------
+
+, Name : Butterfly | Time: 9 : 26
+Year: 2012
+Raiting : 6.02
+--------------------
+
+, Name : Korpikuusen kyynel | Time: 7 : 8
+Year: 2018
+Raiting : 6.02
+--------------------
+
+, Name : Sorry | Time: 11 : 31
+Year: 2008
+Raiting : 6.03
+--------------------
+
+, Name : Dead To The World | Time: 5 : 13
+Year: 2008
+Raiting : 6.04
+--------------------
+
+, Name : November Rain | Time: 10 : 56
+Year: 1991
+Raiting : 6.06
+--------------------
+
+, Name : The Call of the Mountains | Time: 3 : 47
+Year: 2014
+Raiting : 6.11
+--------------------
+
+, Name : Bring Us Pints of Beer | Time: 10 : 46
+Year: 2009
+Raiting : 6.12
+--------------------
+
+, Name : Occupied Tears | Time: 8 : 33
+Year: 2012
+Raiting : 6.12
+--------------------
+
+, Name : Finish Line | Time: 6 : 44
+Year: 2019
+Raiting : 6.12
+--------------------
+
+, Name : Lords of the Nords | Time: 7 : 57
+Year: 2006
+Raiting : 6.13
+--------------------
+
+, Name : Njord | Time: 15 : 17
+Year: 2020
+Raiting : 6.13
+--------------------
+
+, Name : Big in Japan | Time: 10 : 45
+Year: 2000
+Raiting : 6.14
+--------------------
+
+, Name : Sahti | Time: 7 : 50
+Year: 2015
+Raiting : 6.14
+--------------------
+
+, Name : Help Is On The Way | Time: 3 : 9
+Year: 2017
+Raiting : 6.14
+--------------------
+
+, Name : If You Have Ghosts | Time: 9 : 6
+Year: 2013
+Raiting : 6.15
+--------------------
+
+, Name : Drop Dead Cynical | Time: 4 : 40
+Year: 2014
+Raiting : 6.17
+--------------------
+
+, Name : No Grave but the Sea | Time: 5 : 18
+Year: 2017
+Raiting : 6.18
+--------------------
+
+, Name : Luontoni | Time: 9 : 10
+Year: 2015
+Raiting : 6.2
+--------------------
+
+, Name : Killed 2 Deth by Bugs | Time: 3 : 37
+Year: 2018
+Raiting : 6.22
+--------------------
+
+, Name : New Rose | Time: 8 : 29
+Year: 1993
+Raiting : 6.23
+--------------------
+
+, Name : Dead Inside | Time: 15 : 6
+Year: 2009
+Raiting : 6.24
+--------------------
+
+, Name : Augen auf! | Time: 13 : 43
+Year: 2006
+Raiting : 6.25
+--------------------
+
+, Name : Gate 21 | Time: 3 : 18
+Year: 2010
+Raiting : 6.25
+--------------------
+
+, Name : Mittelfinger Richtung Zukunft | Time: 11 : 42
+Year: 2020
+Raiting : 6.25
+--------------------
+
+, Name : The Islander | Time: 3 : 22
+Year: 2008
+Raiting : 6.26
+--------------------
+
+, Name : Forsaken | Time: 5 : 58
+Year: 2003
+Raiting : 6.27
+--------------------
+
+, Name : Bitter Taste | Time: 9 : 31
+Year: 2009
+Raiting : 6.28
+--------------------
+
+, Name : Weave On | Time: 8 : 50
+Year: 2012
+Raiting : 6.29
+--------------------
+
+, Name : Figure It Out | Time: 15 : 0
+Year: 2012
+Raiting : 6.29
+--------------------
+
+, Name : Zombie | Time: 6 : 28
+Year: 1994
+Raiting : 6.31
+--------------------
+
+, Name : When the Ships Arrive | Time: 9 : 56
+Year: 2011
+Raiting : 6.31
+--------------------
+
+, Name : Lempo | Time: 11 : 0
+Year: 2015
+Raiting : 6.31
+--------------------
+
+, Name : So What | Time: 5 : 59
+Year: 2015
+Raiting : 6.31
+--------------------
+
+, Name : Heartrage | Time: 7 : 55
+Year: 2017
+Raiting : 6.32
+--------------------
+
+, Name : Ieva'S Polka | Time: 8 : 45
+Year: 2012
+Raiting : 6.33
+--------------------
+
+, Name : A Rose for Epona | Time: 2 : 16
+Year: 2012
+Raiting : 6.34
+--------------------
+
+, Name : Straight Out the Gate | Time: 3 : 23
+Year: 2013
+Raiting : 6.35
+--------------------
+
+, Name : Sudenmorsian | Time: 12 : 23
+Year: 2020
+Raiting : 6.36
+--------------------
+
+, Name : Gor Climbing | Time: 8 : 45
+Year: 2018
+Raiting : 6.38
+--------------------
+
+, Name : Godzilla (feat. Serj Tankian) | Time: 13 : 4
+Year: 2019
+Raiting : 6.38
+--------------------
+
+, Name : Nancy the Tavern Wench | Time: 13 : 31
+Year: 2018
+Raiting : 6.4
+--------------------
+
+, Name : If The World | Time: 5 : 30
+Year: 2008
+Raiting : 6.41
+--------------------
+
+, Name : We Use the Pain | Time: 14 : 22
+Year: 2009
+Raiting : 6.42
+--------------------
+
+, Name : Zombie | Time: 4 : 57
+Year: 2018
+Raiting : 6.42
+--------------------
+
+, Name : Kiss the dawn | Time: 12 : 49
+Year: 2007
+Raiting : 6.47
+--------------------
+
+, Name : Forever | Time: 10 : 32
+Year: 2018
+Raiting : 6.47
+--------------------
+
+, Name : Legendary | Time: 9 : 25
+Year: 2019
+Raiting : 6.47
+--------------------
+
+, Name : Blow Me Away - Soundtrack Version | Time: 14 : 33
+Year: 2004
+Raiting : 6.48
+--------------------
+
+, Name : Vaarinpolkka | Time: 3 : 58
+Year: 2011
+Raiting : 6.49
+--------------------
+
+, Name : Tuonelan Tuvilla | Time: 8 : 39
+Year: 2012
+Raiting : 6.49
+--------------------
+
+, Name : Sleepwalker | Time: 11 : 11
+Year: 2013
+Raiting : 6.49
+--------------------
+
+, Name : Dead Man Walking | Time: 2 : 8
+Year: 2020
+Raiting : 6.49
+--------------------
+
+, Name : The Riddler | Time: 3 : 34
+Year: 1998
+Raiting : 6.5
+--------------------
+
+, Name : Never born | Time: 2 : 40
+Year: 2001
+Raiting : 6.5
+--------------------
+
+, Name : Forgiven | Time: 14 : 14
+Year: 2009
+Raiting : 6.51
+--------------------
+
+, Name : Lose Yourself | Time: 9 : 13
+Year: 2017
+Raiting : 6.51
+--------------------
+
+, Name : Rainbow | Time: 2 : 8
+Year: 2014
+Raiting : 6.53
+--------------------
+
+, Name : Storytime | Time: 12 : 7
+Year: 2011
+Raiting : 6.54
+--------------------
+
+, Name : Falling Inside the Black | Time: 14 : 58
+Year: 2006
+Raiting : 6.56
+--------------------
+
+, Name : Chop the Head Off | Time: 11 : 19
+Year: 2016
+Raiting : 6.57
+--------------------
+
+, Name : Riot | Time: 2 : 38
+Year: 2006
+Raiting : 6.58
+--------------------
+
+, Name : Monster | Time: 11 : 8
+Year: 2009
+Raiting : 6.58
+--------------------
+
+, Name : Last Of The Wilds | Time: 14 : 11
+Year: 2007
+Raiting : 6.6
+--------------------
+
+, Name : Cream Over Moon | Time: 9 : 35
+Year: 2004
+Raiting : 6.62
+--------------------
+
+, Name : The High Road | Time: 7 : 9
+Year: 2012
+Raiting : 6.62
+--------------------
+
+, Name : Candy Love | Time: 4 : 49
+Year: 2004
+Raiting : 6.63
+--------------------
+
+, Name : Square Hammer | Time: 5 : 22
+Year: 2016
+Raiting : 6.64
+--------------------
+
+, Name : Just Like You | Time: 2 : 14
+Year: 2007
+Raiting : 6.65
+--------------------
+
+, Name : Theme from a Beans Album | Time: 9 : 39
+Year: 2018
+Raiting : 6.66
+--------------------
+
+, Name : Napisten Hava | Time: 9 : 14
+Year: 2012
+Raiting : 6.7
+--------------------
+
+, Name : Harvest | Time: 5 : 49
+Year: 2020
+Raiting : 6.7
+--------------------
+
+, Name : EverDream | Time: 15 : 9
+Year: 2008
+Raiting : 6.71
+--------------------
+
+, Name : Demons Are A Girl's Best Friend | Time: 4 : 52
+Year: 2018
+Raiting : 6.71
+--------------------
+
+, Name : Savior | Time: 3 : 50
+Year: 2003
+Raiting : 6.72
+--------------------
+
+, Name : For Better Or For Worse | Time: 6 : 55
+Year: 2014
+Raiting : 6.72
+--------------------
+
+, Name : Are You Ready | Time: 13 : 47
+Year: 2007
+Raiting : 6.73
+--------------------
+
+, Name : Chariot of Fire | Time: 13 : 52
+Year: 2020
+Raiting : 6.73
+--------------------
+
+, Name : Underwear | Time: 8 : 56
+Year: 2004
+Raiting : 6.74
+--------------------
+
+, Name : Comatose | Time: 11 : 6
+Year: 2006
+Raiting : 6.74
+--------------------
+
+, Name : The Poet And The Pendulum - Remastered | Time: 7 : 50
+Year: 2018
+Raiting : 6.75
+--------------------
+
+, Name : Last Ride Of The Day | Time: 12 : 46
+Year: 2011
+Raiting : 6.77
+--------------------
+
+, Name : The Rains of Castamere | Time: 2 : 59
+Year: 2019
+Raiting : 6.78
+--------------------
+
+, Name : Dodel Up | Time: 5 : 55
+Year: 2000
+Raiting : 6.79
+--------------------
+
+, Name : Awake and Alive | Time: 5 : 52
+Year: 2009
+Raiting : 6.79
+--------------------
+
+, Name : Louhen Yhdeksas Poika | Time: 5 : 6
+Year: 2011
+Raiting : 6.79
+--------------------
+
+, Name : Heart Full Of fire | Time: 14 : 46
+Year: 2012
+Raiting : 6.79
+--------------------
+
+, Name : Estranged | Time: 11 : 44
+Year: 1991
+Raiting : 6.8
+--------------------
+
+, Name : Neito | Time: 2 : 56
+Year: 2018
+Raiting : 6.81
+--------------------
+
+, Name : Where the Angels Fly | Time: 2 : 32
+Year: 2020
+Raiting : 6.81
+--------------------
+
+, Name : Out Ta Get Me | Time: 2 : 38
+Year: 1987
+Raiting : 6.83
+--------------------
+
+, Name : The Beautiful people | Time: 12 : 16
+Year: 2004
+Raiting : 6.85
+--------------------
+
+, Name : Gone Forever | Time: 6 : 38
+Year: 2006
+Raiting : 6.86
+--------------------
+
+, Name : She Is My Sin - Live at Wacken 2013 | Time: 14 : 13
+Year: 2013
+Raiting : 6.87
+--------------------
+
+, Name : Yesterdays | Time: 5 : 53
+Year: 1991
+Raiting : 6.88
+--------------------
+
+, Name : Riot | Time: 10 : 29
+Year: 2006
+Raiting : 6.9
+--------------------
+
+, Name : Rauta | Time: 5 : 30
+Year: 2012
+Raiting : 6.9
+--------------------
+
+, Name : Ritual | Time: 11 : 56
+Year: 2010
+Raiting : 6.93
+--------------------
+
+, Name : Istanbul (Not Constantinople) | Time: 3 : 50
+Year: 1990
+Raiting : 6.96
+--------------------
+
+, Name : Dead Boy's Poem - Remastered | Time: 3 : 47
+Year: 2018
+Raiting : 6.96
+--------------------
+
+, Name : Pan | Time: 13 : 4
+Year: 2020
+Raiting : 6.97
+--------------------
+
+, Name : Black Flag Army | Time: 4 : 35
+Year: 2019
+Raiting : 6.98
+--------------------
+
+, Name : Set Flame to the Night | Time: 11 : 45
+Year: 2017
+Raiting : 6.99
+--------------------
+
+, Name : Saving Us | Time: 6 : 58
+Year: 2007
+Raiting : 7.0
+--------------------
+
+, Name : Surma | Time: 5 : 16
+Year: 2011
+Raiting : 7.0
+--------------------
+
+, Name : Human Race | Time: 4 : 28
+Year: 2015
+Raiting : 7.0
+--------------------
+
+, Name : Shoemaker | Time: 4 : 54
+Year: 2020
+Raiting : 7.0
+--------------------
+
+, Name : Animal I Have Become | Time: 13 : 43
+Year: 2006
+Raiting : 7.01
+--------------------
+
+, Name : We Are One | Time: 6 : 54
+Year: 2005
+Raiting : 7.02
+--------------------
+
+, Name : Astral Romance - Remake | Time: 6 : 9
+Year: 2001
+Raiting : 7.04
+--------------------
+
+, Name : Live Free or Let Me Die | Time: 3 : 16
+Year: 2008
+Raiting : 7.05
+--------------------
+
+, Name : Genesis | Time: 5 : 30
+Year: 2010
+Raiting : 7.06
+--------------------
+
+, Name : The Last Stand | Time: 13 : 22
+Year: 2016
+Raiting : 7.06
+--------------------
+
+, Name : Undefeated | Time: 12 : 42
+Year: 2016
+Raiting : 7.09
+--------------------
+
+, Name : Vodka | Time: 8 : 4
+Year: 2009
+Raiting : 7.1
+--------------------
+
+, Name : Right Left Wrong | Time: 11 : 12
+Year: 2018
+Raiting : 7.1
+--------------------
+
+, Name : From The Pinnacle To The Pit | Time: 11 : 57
+Year: 2015
+Raiting : 7.11
+--------------------
+
+, Name : Row Row Row | Time: 8 : 43
+Year: 2020
+Raiting : 7.11
+--------------------
+
+, Name : World so Cold | Time: 5 : 42
+Year: 2009
+Raiting : 7.12
+--------------------
+
+, Name : Hey Last Beautiful | Time: 10 : 49
+Year: 2014
+Raiting : 7.12
+--------------------
+
+, Name : Counting The Days | Time: 7 : 34
+Year: 2004
+Raiting : 7.14
+--------------------
+
+, Name : Ghost Love Score | Time: 5 : 55
+Year: 2004
+Raiting : 7.15
+--------------------
+
+, Name : Night Witches | Time: 4 : 21
+Year: 2014
+Raiting : 7.18
+--------------------
+
+, Name : Lie Lie Lie | Time: 6 : 27
+Year: 2007
+Raiting : 7.2
+--------------------
+
+, Name : Lucy | Time: 8 : 13
+Year: 2009
+Raiting : 7.2
+--------------------
+
+, Name : Misery Loves My Company | Time: 2 : 21
+Year: 2012
+Raiting : 7.22
+--------------------
+
+, Name : Mummy Dust | Time: 6 : 29
+Year: 2016
+Raiting : 7.22
+--------------------
+
+, Name : Born to the Fight | Time: 6 : 11
+Year: 1998
+Raiting : 7.23
+--------------------
+
+, Name : Son of Odin | Time: 5 : 16
+Year: 2017
+Raiting : 7.23
+--------------------
+
+, Name : Time of Dying | Time: 15 : 7
+Year: 2006
+Raiting : 7.24
+--------------------
+
+, Name : Mettanpeiton Valtiaalle | Time: 6 : 38
+Year: 2009
+Raiting : 7.24
+--------------------
+
+, Name : Empty Walls | Time: 11 : 1
+Year: 2007
+Raiting : 7.27
+--------------------
+
+, Name : Knockin' On Heaven's Door | Time: 5 : 4
+Year: 1991
+Raiting : 7.28
+--------------------
+
+, Name : Poker Face | Time: 7 : 24
+Year: 2011
+Raiting : 7.29
+--------------------
+
+, Name : For Whom the Bell Tolls - Metallica Cover | Time: 10 : 6
+Year: 2014
+Raiting : 7.29
+--------------------
+
+, Name : Turn It Up | Time: 12 : 7
+Year: 2010
+Raiting : 7.3
+--------------------
+
+, Name : There Was A Time | Time: 11 : 17
+Year: 2008
+Raiting : 7.32
+--------------------
+
+, Name : Raise Your Banner - Single Edit | Time: 8 : 15
+Year: 2019
+Raiting : 7.32
+--------------------
+
+, Name : This Is Why We Bleed | Time: 7 : 19
+Year: 2016
+Raiting : 7.34
+--------------------
+
+, Name : Brood of the Trickster | Time: 6 : 8
+Year: 2020
+Raiting : 7.35
+--------------------
+
+, Name : Uneducated Democracy | Time: 2 : 17
+Year: 2012
+Raiting : 7.36
+--------------------
+
+, Name : He Is | Time: 11 : 0
+Year: 2015
+Raiting : 7.36
+--------------------
+
+, Name : Dead To Me | Time: 11 : 27
+Year: 2017
+Raiting : 7.36
+--------------------
+
+, Name : Breaking Free (feat. Lacey Sturm) | Time: 11 : 9
+Year: 2017
+Raiting : 7.36
+--------------------
+
+, Name : Elasticity | Time: 7 : 51
+Year: 2021
+Raiting : 7.36
+--------------------
+
+, Name : Tuoppi Oltta | Time: 12 : 24
+Year: 2011
+Raiting : 7.37
+--------------------
+
+, Name : Year Zero | Time: 13 : 50
+Year: 2013
+Raiting : 7.38
+--------------------
+
+, Name : Weak Fantasy | Time: 2 : 6
+Year: 2015
+Raiting : 7.4
+--------------------
+
+, Name : Last to Know | Time: 6 : 40
+Year: 2009
+Raiting : 7.42
+--------------------
+
+, Name : Close to the Sun | Time: 9 : 30
+Year: 2014
+Raiting : 7.44
+--------------------
+
+, Name : Open Wounds | Time: 13 : 10
+Year: 2003
+Raiting : 7.46
+--------------------
+
+, Name : Better | Time: 13 : 11
+Year: 2008
+Raiting : 7.47
+--------------------
+
+, Name : Rescue Ride | Time: 7 : 39
+Year: 2017
+Raiting : 7.47
+--------------------
+
+, Name : Vulgaris Magistralis - Bonus Track | Time: 7 : 1
+Year: 2008
+Raiting : 7.48
+--------------------
+
+, Name : All Guns Blazing - Bonus | Time: 2 : 33
+Year: 2016
+Raiting : 7.49
+--------------------
+
+, Name : Jack | Time: 5 : 30
+Year: 2006
+Raiting : 7.5
+--------------------
+
+, Name : Shotgun Blues | Time: 3 : 24
+Year: 1991
+Raiting : 7.51
+--------------------
+
+, Name : Noise | Time: 4 : 14
+Year: 2020
+Raiting : 7.51
+--------------------
+
+, Name : Victorious | Time: 6 : 35
+Year: 2019
+Raiting : 7.52
+--------------------
+
+, Name : Blood of Heroes | Time: 5 : 48
+Year: 2013
+Raiting : 7.55
+--------------------
+
+, Name : Civil War | Time: 9 : 38
+Year: 1991
+Raiting : 7.57
+--------------------
+
+, Name : Suzie - 2017 Version | Time: 7 : 47
+Year: 2017
+Raiting : 7.57
+--------------------
+
+, Name : Empty Walls | Time: 11 : 36
+Year: 2007
+Raiting : 7.58
+--------------------
+
+, Name : My Michelle | Time: 2 : 0
+Year: 1987
+Raiting : 7.59
+--------------------
+
+, Name : Elan | Time: 3 : 25
+Year: 2015
+Raiting : 7.6
+--------------------
+
+, Name : Interdimensional Summit | Time: 14 : 52
+Year: 2018
+Raiting : 7.6
+--------------------
+
+, Name : Tuuleton | Time: 5 : 20
+Year: 2021
+Raiting : 7.61
+--------------------
+
+, Name : Wishmaster | Time: 2 : 28
+Year: 2000
+Raiting : 7.63
+--------------------
+
+, Name : Anonymous | Time: 10 : 14
+Year: 2012
+Raiting : 7.63
+--------------------
+
+, Name : Like Somebody | Time: 4 : 4
+Year: 2014
+Raiting : 7.63
+--------------------
+
+, Name : Alpenglow | Time: 7 : 2
+Year: 2015
+Raiting : 7.63
+--------------------
+
+, Name : Bring Us Pints of Beer | Time: 4 : 41
+Year: 2009
+Raiting : 7.64
+--------------------
+
+, Name : Jigolo Har Megiddo | Time: 14 : 30
+Year: 2013
+Raiting : 7.65
+--------------------
+
+, Name : Heaven | Time: 9 : 35
+Year: 2000
+Raiting : 7.66
+--------------------
+
+, Name : Tequila | Time: 2 : 53
+Year: 2011
+Raiting : 7.66
+--------------------
+
+, Name : Elvenpath - Remastered | Time: 8 : 19
+Year: 2018
+Raiting : 7.68
+--------------------
+
+, Name : You Could Be Mine | Time: 11 : 0
+Year: 1991
+Raiting : 7.71
+--------------------
+
+, Name : Coma | Time: 8 : 33
+Year: 1991
+Raiting : 7.71
+--------------------
+
+, Name : Fields of Verdun | Time: 4 : 28
+Year: 2019
+Raiting : 7.77
+--------------------
+
+, Name : Harmaja | Time: 10 : 2
+Year: 2018
+Raiting : 7.79
+--------------------
+
+, Name : Welcome To The Jungle | Time: 6 : 58
+Year: 1987
+Raiting : 7.81
+--------------------
+
+, Name : Majesty | Time: 11 : 57
+Year: 2016
+Raiting : 7.83
+--------------------
+
+, Name : Rain | Time: 8 : 39
+Year: 2006
+Raiting : 7.84
+--------------------
+
+, Name : Kunnia | Time: 3 : 3
+Year: 2012
+Raiting : 7.84
+--------------------
+
+, Name : Sex Metal Barbie | Time: 10 : 27
+Year: 2014
+Raiting : 7.84
+--------------------
+
+, Name : Beer Beer - Scotland | Time: 7 : 54
+Year: 2019
+Raiting : 7.84
+--------------------
+
+, Name : Ghuleh / Zombie Queen | Time: 13 : 10
+Year: 2013
+Raiting : 7.86
+--------------------
+
+, Name : A Man with a Plan | Time: 9 : 13
+Year: 2016
+Raiting : 7.88
+--------------------
+
+, Name : Gethsemane | Time: 12 : 13
+Year: 1998
+Raiting : 7.91
+--------------------
+
+, Name : Faith | Time: 5 : 44
+Year: 2018
+Raiting : 7.93
+--------------------
+
+, Name : 333 | Time: 5 : 29
+Year: 2019
+Raiting : 7.93
+--------------------
+
+, Name : Fucked with an Anchor | Time: 2 : 9
+Year: 2017
+Raiting : 7.95
+--------------------
+
+, Name : Hel | Time: 11 : 37
+Year: 2020
+Raiting : 7.95
+--------------------
+
+, Name : Never Too Late | Time: 9 : 38
+Year: 2006
+Raiting : 7.97
+--------------------
+
+, Name : Get Busy - 2017 Mix | Time: 5 : 11
+Year: 2017
+Raiting : 7.97
+--------------------
+
+, Name : Dance Macabre | Time: 7 : 15
+Year: 2018
+Raiting : 7.98
+--------------------
+
+, Name : Wish I Had An Angel | Time: 2 : 27
+Year: 2004
+Raiting : 7.99
+--------------------
+
+, Name : Mine All Mine | Time: 14 : 41
+Year: 2000
+Raiting : 8.0
+--------------------
+
+, Name : The Crow, The Owl And The Dove | Time: 5 : 9
+Year: 2011
+Raiting : 8.0
+--------------------
+
+, Name : The Resistance | Time: 15 : 5
+Year: 2016
+Raiting : 8.01
+--------------------
+
+, Name : Kunnia | Time: 2 : 29
+Year: 2012
+Raiting : 8.02
+--------------------
+
+, Name : Battle from Within | Time: 13 : 22
+Year: 2019
+Raiting : 8.02
+--------------------
+
+, Name : Paradise City | Time: 3 : 51
+Year: 1987
+Raiting : 8.03
+--------------------
+
+, Name : Precious | Time: 11 : 9
+Year: 2017
+Raiting : 8.03
+--------------------
+
+, Name : The Fairies Dance | Time: 7 : 5
+Year: 2019
+Raiting : 8.04
+--------------------
+
+, Name : Stand Up and Fight | Time: 4 : 14
+Year: 2012
+Raiting : 8.05
+--------------------
+
+, Name : Ain't It Fun | Time: 10 : 5
+Year: 1993
+Raiting : 8.06
+--------------------
+
+, Name : Happy Little Boozer | Time: 6 : 1
+Year: 2017
+Raiting : 8.16
+--------------------
+
+, Name : Deafening Silence | Time: 6 : 17
+Year: 2012
+Raiting : 8.19
+--------------------
+
+, Name : Henkselipoika | Time: 4 : 45
+Year: 2018
+Raiting : 8.19
+--------------------
+
+, Name : Sympathy For The Devil | Time: 15 : 7
+Year: 2004
+Raiting : 8.2
+--------------------
+
+, Name : I Am Machine | Time: 4 : 29
+Year: 2015
+Raiting : 8.21
+--------------------
+
+, Name : Scared | Time: 3 : 17
+Year: 2007
+Raiting : 8.22
+--------------------
+
+, Name : Mercury Gift | Time: 10 : 7
+Year: 2012
+Raiting : 8.23
+--------------------
+
+, Name : Kaunaz Dagaz | Time: 5 : 56
+Year: 2020
+Raiting : 8.23
+--------------------
+
+, Name : Out of My Life | Time: 2 : 32
+Year: 2019
+Raiting : 8.25
+--------------------
+
+, Name : Ievan Polkka | Time: 9 : 52
+Year: 2012
+Raiting : 8.26
+--------------------
+
+, Name : Ruumiinmultaa | Time: 8 : 16
+Year: 2012
+Raiting : 8.26
+--------------------
+
+, Name : Innocent Greed | Time: 4 : 13
+Year: 2000
+Raiting : 8.29
+--------------------
+
+, Name : Transcendental Bean Exploration | Time: 3 : 59
+Year: 2018
+Raiting : 8.29
+--------------------
+
+, Name : High Hopes - Live | Time: 7 : 45
+Year: 2006
+Raiting : 8.31
+--------------------
+
+, Name : Deserving? | Time: 11 : 55
+Year: 2010
+Raiting : 8.31
+--------------------
+
+, Name : Harakiri | Time: 9 : 58
+Year: 2012
+Raiting : 8.31
+--------------------
+
+, Name : The Family | Time: 5 : 9
+Year: 2017
+Raiting : 8.31
+--------------------
+
+, Name : Maximize | Time: 6 : 36
+Year: 2016
+Raiting : 8.32
+--------------------
+
+, Name : Fire Blood and Steel | Time: 7 : 17
+Year: 2017
+Raiting : 8.35
+--------------------
+
+, Name : Crucified | Time: 3 : 49
+Year: 2013
+Raiting : 8.36
+--------------------
+
+, Name : Dragula | Time: 6 : 43
+Year: 1998
+Raiting : 8.39
+--------------------
+
+, Name : Plastic Heart | Time: 3 : 46
+Year: 2017
+Raiting : 8.39
+--------------------
+
+, Name : Procession | Time: 2 : 13
+Year: 2020
+Raiting : 8.41
+--------------------
+
+, Name : Right Next Door To Hell | Time: 4 : 55
+Year: 1991
+Raiting : 8.44
+--------------------
+
+, Name : Shudder Before The Beautiful | Time: 6 : 38
+Year: 2015
+Raiting : 8.44
+--------------------
+
+, Name : Wake Up | Time: 7 : 7
+Year: 2007
+Raiting : 8.45
+--------------------
+
+, Name : Dreaming of Eden | Time: 14 : 29
+Year: 2020
+Raiting : 8.45
+--------------------
+
+, Name : Anything Goes | Time: 12 : 38
+Year: 1987
+Raiting : 8.49
+--------------------
+
+, Name : Elizabeth | Time: 9 : 21
+Year: 2010
+Raiting : 8.5
+--------------------
+
+, Name : AUSLANDER | Time: 15 : 15
+Year: 2019
+Raiting : 8.54
+--------------------
+
+, Name : Skills in Pills | Time: 13 : 27
+Year: 2015
+Raiting : 8.56
+--------------------
+
+, Name : The March of the Varangian Guard | Time: 10 : 44
+Year: 2012
+Raiting : 8.58
+--------------------
+
+, Name : How's the Heart? | Time: 6 : 17
+Year: 2020
+Raiting : 8.59
+--------------------
+
+, Name : Believe | Time: 5 : 5
+Year: 2009
+Raiting : 8.61
+--------------------
+
+, Name : Mary On A Cross | Time: 11 : 42
+Year: 2019
+Raiting : 8.62
+--------------------
+
+, Name : In My Sword I Trust | Time: 13 : 40
+Year: 2012
+Raiting : 8.65
+--------------------
+
+, Name : Open Your eyes | Time: 8 : 17
+Year: 2004
+Raiting : 8.7
+--------------------
+
+, Name : Artsakh | Time: 2 : 37
+Year: 2016
+Raiting : 8.71
+--------------------
+
+, Name : Masters of the Galaxy | Time: 7 : 44
+Year: 2019
+Raiting : 8.71
+--------------------
+
+, Name : Rasputin | Time: 7 : 27
+Year: 2007
+Raiting : 8.73
+--------------------
+
+, Name : You're Crazy | Time: 6 : 29
+Year: 1987
+Raiting : 8.76
+--------------------
+
+, Name : Tyrant's Gratitude | Time: 3 : 22
+Year: 2012
+Raiting : 8.76
+--------------------
+
+, Name : Nocturnal Me | Time: 12 : 2
+Year: 2016
+Raiting : 8.76
+--------------------
+
+, Name : Pretty Tied Up (The Perils Of Rock N' Roll Decadence) | Time: 13 : 29
+Year: 1991
+Raiting : 8.77
+--------------------
+
+, Name : Lost in You | Time: 6 : 35
+Year: 2009
+Raiting : 8.77
+--------------------
+
+, Name : Niemi | Time: 15 : 7
+Year: 2021
+Raiting : 8.77
+--------------------
+
+, Name : Wer kann segeln ohne Wind | Time: 9 : 50
+Year: 2020
+Raiting : 8.78
+--------------------
+
+, Name : This Is Not America | Time: 12 : 22
+Year: 2017
+Raiting : 8.8
+--------------------
+
+, Name : Score - 2017 Mix | Time: 15 : 17
+Year: 2017
+Raiting : 8.8
+--------------------
+
+, Name : Army Of The Night | Time: 10 : 23
+Year: 2018
+Raiting : 8.8
+--------------------
+
+, Name : Best Kept Secret | Time: 3 : 36
+Year: 2000
+Raiting : 8.81
+--------------------
+
+, Name : Hero | Time: 9 : 15
+Year: 2009
+Raiting : 8.81
+--------------------
+
+, Name : I Am An Outsider | Time: 8 : 0
+Year: 2018
+Raiting : 8.81
+--------------------
+
+, Name : Don't You Turn Your Back On Me | Time: 3 : 54
+Year: 2006
+Raiting : 8.82
+--------------------
+
+, Name : Fire In Your Eyes | Time: 2 : 56
+Year: 2011
+Raiting : 8.84
+--------------------
+
+, Name : 82nd All the Way | Time: 15 : 12
+Year: 2020
+Raiting : 8.84
+--------------------
+
+, Name : Cornucopia | Time: 12 : 41
+Year: 2012
+Raiting : 8.86
+--------------------
+
+, Name : Deus In Absentia | Time: 5 : 31
+Year: 2016
+Raiting : 8.86
+--------------------
+
+, Name : Juodaan Viinaa | Time: 2 : 47
+Year: 2009
+Raiting : 8.88
+--------------------
+
+, Name : Hair Of The Dog | Time: 13 : 40
+Year: 1993
+Raiting : 8.9
+--------------------
+
+, Name : Sunday Lover | Time: 3 : 13
+Year: 2011
+Raiting : 8.9
+--------------------
+
+, Name : This I Love | Time: 3 : 17
+Year: 2008
+Raiting : 8.91
+--------------------
+
+, Name : Wasserfliege - Demo Tape | Time: 4 : 34
+Year: 2006
+Raiting : 8.96
+--------------------
+
+, Name : Jagermeister | Time: 9 : 4
+Year: 2019
+Raiting : 8.97
+--------------------
+
+, Name : Waiting Hare | Time: 3 : 25
+Year: 2005
+Raiting : 8.99
+--------------------
+
+, Name : 82nd All the Way | Time: 5 : 25
+Year: 2019
+Raiting : 8.99
+--------------------
+
+, Name : Those Nights | Time: 11 : 46
+Year: 2006
+Raiting : 9.02
+--------------------
+
+, Name : The War We Made | Time: 13 : 42
+Year: 2020
+Raiting : 9.05
+--------------------
+
+, Name : Loewenherz | Time: 11 : 41
+Year: 2020
+Raiting : 9.05
+--------------------
+
+, Name : Save Me | Time: 6 : 24
+Year: 2019
+Raiting : 9.07
+--------------------
+
+, Name : How to be a Pirate | Time: 7 : 38
+Year: 2021
+Raiting : 9.07
+--------------------
+
+, Name : Double Talkin' Jive | Time: 6 : 55
+Year: 1991
+Raiting : 9.11
+--------------------
+
+, Name : Sky Is Over | Time: 12 : 0
+Year: 2007
+Raiting : 9.12
+--------------------
+
+, Name : I Hate Everything About You | Time: 9 : 56
+Year: 2007
+Raiting : 9.12
+--------------------
+
+, Name : Prophecy of Ragnarok | Time: 4 : 15
+Year: 2017
+Raiting : 9.12
+--------------------
+
+, Name : Night Drive | Time: 3 : 50
+Year: 2020
+Raiting : 9.12
+--------------------
+
+, Name : Mylly | Time: 9 : 29
+Year: 2020
+Raiting : 9.12
+--------------------
+
+, Name : One Day Too Late | Time: 7 : 48
+Year: 2009
+Raiting : 9.13
+--------------------
+
+, Name : Chase | Time: 12 : 4
+Year: 2020
+Raiting : 9.14
+--------------------
+
+, Name : Stay | Time: 10 : 22
+Year: 2004
+Raiting : 9.16
+--------------------
+
+, Name : The Score | Time: 9 : 6
+Year: 2018
+Raiting : 9.17
+--------------------
+
+, Name : Take the Day! | Time: 11 : 51
+Year: 2012
+Raiting : 9.2
+--------------------
+
+, Name : Dream | Time: 8 : 55
+Year: 2018
+Raiting : 9.2
+--------------------
+
+, Name : Gladiator | Time: 4 : 12
+Year: 2018
+Raiting : 9.21
+--------------------
+
+, Name : I Am The Storm | Time: 14 : 35
+Year: 2018
+Raiting : 9.23
+--------------------
+
+, Name : Sick of It | Time: 5 : 40
+Year: 2013
+Raiting : 9.24
+--------------------
+
+, Name : Numen | Time: 5 : 3
+Year: 2014
+Raiting : 9.24
+--------------------
+
+, Name : Free | Time: 7 : 35
+Year: 2003
+Raiting : 9.25
+--------------------
+
+, Name : Planet Hell | Time: 3 : 53
+Year: 2004
+Raiting : 9.28
+--------------------
+
+, Name : Coma | Time: 14 : 53
+Year: 2005
+Raiting : 9.29
+--------------------
+
+, Name : Think About You | Time: 5 : 14
+Year: 1987
+Raiting : 9.3
+--------------------
+
+, Name : Whispers in the Dark | Time: 10 : 7
+Year: 2006
+Raiting : 9.3
+--------------------
+
+, Name : Rocket Queen | Time: 5 : 57
+Year: 1987
+Raiting : 9.31
+--------------------
+
+, Name : Dust N' Bones | Time: 13 : 2
+Year: 1991
+Raiting : 9.31
+--------------------
+
+, Name : Beginning of the End | Time: 3 : 35
+Year: 2003
+Raiting : 9.31
+--------------------
+
+, Name : Chalk Outline | Time: 3 : 38
+Year: 2012
+Raiting : 9.32
+--------------------
+
+, Name : Hail to the King | Time: 12 : 3
+Year: 2013
+Raiting : 9.34
+--------------------
+
+, Name : Korvesta Liha | Time: 13 : 32
+Year: 2011
+Raiting : 9.35
+--------------------
+
+, Name : Fields of Sorrow | Time: 9 : 11
+Year: 2017
+Raiting : 9.35
+--------------------
+
+, Name : Set It Off | Time: 2 : 25
+Year: 2017
+Raiting : 9.36
+--------------------
+
+, Name : Viinameen Mies | Time: 14 : 55
+Year: 2015
+Raiting : 9.38
+--------------------
+
+, Name : The Kinslayer - Remastered | Time: 11 : 32
+Year: 2018
+Raiting : 9.38
+--------------------
+
+, Name : Heart To Stone | Time: 14 : 20
+Year: 2020
+Raiting : 9.38
+--------------------
+
+, Name : The Sunk'n Noreian | Time: 10 : 8
+Year: 2008
+Raiting : 9.39
+--------------------
+
+, Name : No Speech | Time: 8 : 54
+Year: 2006
+Raiting : 9.4
+--------------------
+
+, Name : Sick | Time: 7 : 23
+Year: 2006
+Raiting : 9.4
+--------------------
+
+, Name : Crossing the Deadline | Time: 4 : 36
+Year: 2009
+Raiting : 9.4
+--------------------
+
+, Name : Wings of Summer | Time: 4 : 3
+Year: 2010
+Raiting : 9.4
+--------------------
+
+, Name : Ievan Polkka | Time: 6 : 43
+Year: 2012
+Raiting : 9.43
+--------------------
+
+, Name : Rise | Time: 3 : 58
+Year: 2013
+Raiting : 9.44
+--------------------
+
+, Name : Last Dying Breath | Time: 11 : 47
+Year: 2016
+Raiting : 9.45
+--------------------
+
+, Name : Since I Don't Have You | Time: 8 : 19
+Year: 1993
+Raiting : 9.46
+--------------------
+
+, Name : The Unthinking Majority | Time: 12 : 14
+Year: 2007
+Raiting : 9.46
+--------------------
+
+, Name : Bye Bye Beautiful | Time: 11 : 47
+Year: 2007
+Raiting : 9.46
+--------------------
+
+, Name : Drink | Time: 12 : 27
+Year: 2014
+Raiting : 9.48
+--------------------
+
+, Name : Is There Anybody out There? | Time: 8 : 47
+Year: 2016
+Raiting : 9.48
+--------------------
+
+, Name : Verikoira | Time: 5 : 13
+Year: 2021
+Raiting : 9.48
+--------------------
+
+, Name : This Time | Time: 9 : 20
+Year: 2011
+Raiting : 9.5
+--------------------
+
+, Name : Fake | Time: 4 : 11
+Year: 2014
+Raiting : 9.5
+--------------------
+
+, Name : Your Betrayal | Time: 12 : 27
+Year: 2010
+Raiting : 9.52
+--------------------
+
+, Name : Countdown | Time: 9 : 51
+Year: 2018
+Raiting : 9.52
+--------------------
+
+, Name : Black Leather | Time: 4 : 25
+Year: 1993
+Raiting : 9.55
+--------------------
+
+, Name : The Charade - Live | Time: 7 : 4
+Year: 2010
+Raiting : 9.56
+--------------------
+
+, Name : I Want to Live | Time: 2 : 55
+Year: 2016
+Raiting : 9.56
+--------------------
+
+, Name : You Don't Get Me High Anymore | Time: 12 : 11
+Year: 2016
+Raiting : 9.58
+--------------------
+
+, Name : Yggdrasil | Time: 10 : 10
+Year: 2017
+Raiting : 9.58
+--------------------
+
+, Name : Life Eternal | Time: 10 : 49
+Year: 2018
+Raiting : 9.58
+--------------------
+
+, Name : Don't Damn Me | Time: 12 : 9
+Year: 1991
+Raiting : 9.6
+--------------------
+
+, Name : Locomotive (Complicity) | Time: 13 : 20
+Year: 1991
+Raiting : 9.64
+--------------------
+
+, Name : Moondance | Time: 13 : 27
+Year: 1998
+Raiting : 9.66
+--------------------
+
+, Name : Sick and Empty | Time: 9 : 47
+Year: 2020
+Raiting : 9.66
+--------------------
+
+, Name : Medical Emergency | Time: 13 : 20
+Year: 2018
+Raiting : 9.67
+--------------------
+
+, Name : Live And Let Die | Time: 11 : 18
+Year: 1991
+Raiting : 9.68
+--------------------
+
+, Name : My Walden | Time: 8 : 15
+Year: 2015
+Raiting : 9.68
+--------------------
+
+, Name : Ari Im Sokhag | Time: 5 : 14
+Year: 2016
+Raiting : 9.69
+--------------------
+
+, Name : Leviluhta | Time: 8 : 24
+Year: 2020
+Raiting : 9.69
+--------------------
+
+, Name : Left of Center | Time: 7 : 41
+Year: 2010
+Raiting : 9.71
+--------------------
+
+, Name : Broken Glass | Time: 11 : 27
+Year: 2012
+Raiting : 9.71
+--------------------
+
+, Name : End Of All hope | Time: 10 : 33
+Year: 2006
+Raiting : 9.72
+--------------------
+
+, Name : Boomerang | Time: 9 : 10
+Year: 2017
+Raiting : 9.73
+--------------------
+
+, Name : Never Surrender | Time: 5 : 5
+Year: 2009
+Raiting : 9.74
+--------------------
+
+, Name : I Salute You | Time: 9 : 58
+Year: 2020
+Raiting : 9.74
+--------------------
+
+, Name : 14 Years | Time: 9 : 59
+Year: 1991
+Raiting : 9.76
+--------------------
+
+, Name : Attitude | Time: 14 : 47
+Year: 1993
+Raiting : 9.76
+--------------------
+
+, Name : Bible | Time: 9 : 45
+Year: 2016
+Raiting : 9.77
+--------------------
+
+, Name : Wake Up | Time: 12 : 57
+Year: 2018
+Raiting : 9.79
+--------------------
+
+, Name : Stargazers | Time: 14 : 9
+Year: 1998
+Raiting : 9.8
+--------------------
+
+, Name : Break | Time: 10 : 50
+Year: 2009
+Raiting : 9.83
+--------------------
+
+, Name : Total Paranoia | Time: 11 : 1
+Year: 2011
+Raiting : 9.85
+--------------------
+
+, Name : Would It Matter | Time: 7 : 20
+Year: 2009
+Raiting : 9.86
+--------------------
+
+, Name : Gor Searching | Time: 5 : 33
+Year: 2018
+Raiting : 9.88
+--------------------
+
+, Name : Freak On a Leash | Time: 10 : 12
+Year: 1998
+Raiting : 9.89
+--------------------
+
+, Name : Golden Shower | Time: 15 : 13
+Year: 2015
+Raiting : 9.89
+--------------------
+
+, Name : The Last Night | Time: 12 : 10
+Year: 2006
+Raiting : 9.9
+--------------------
+
+, Name : Shadow Of Your Love | Time: 5 : 7
+Year: 2018
+Raiting : 9.91
+--------------------
+
+, Name : Great War | Time: 12 : 32
+Year: 2019
+Raiting : 9.91
+--------------------
+
+, Name : Cyanide | Time: 2 : 24
+Year: 2010
+Raiting : 9.93
+--------------------
+
+, Name : Bless The Child | Time: 14 : 23
+Year: 2006
+Raiting : 9.96
+--------------------
+
+, Name : End of an Empire | Time: 13 : 7
+Year: 2012
+Raiting : 9.96
+--------------------
+
+, Name : Ghost River | Time: 13 : 46
+Year: 2011
+Raiting : 9.97
+--------------------
+
+, Name : The Red Baron | Time: 4 : 27
+Year: 2019
+Raiting : 9.98
+--------------------
+
+]

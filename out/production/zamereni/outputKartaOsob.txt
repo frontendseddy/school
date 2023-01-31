@@ -1,0 +1,6000 @@
+--------------------
+Name: Joe Vail
+Height: 227
+Weight: 110
+Age: 35
+--------------------
+--------------------
+Name: Carl Knutson
+Height: 227
+Weight: 168
+Age: 37
+--------------------
+--------------------
+Name: George Duffman
+Height: 138
+Weight: 124
+Age: 34
+--------------------
+--------------------
+Name: Roger Bongard
+Height: 199
+Weight: 206
+Age: 27
+--------------------
+--------------------
+Name: Dan Chambers
+Height: 228
+Weight: 116
+Age: 97
+--------------------
+--------------------
+Name: Matthew Soulis
+Height: 227
+Weight: 79
+Age: 89
+--------------------
+--------------------
+Name: Jack Ramachandran
+Height: 149
+Weight: 85
+Age: 65
+--------------------
+--------------------
+Name: Paul Aikin
+Height: 179
+Weight: 179
+Age: 93
+--------------------
+--------------------
+Name: Adam Solberg
+Height: 167
+Weight: 129
+Age: 95
+--------------------
+--------------------
+Name: Otto Schwager
+Height: 141
+Weight: 141
+Age: 38
+--------------------
+--------------------
+Name: Otto Dugan
+Height: 155
+Weight: 145
+Age: 92
+--------------------
+--------------------
+Name: Carl Casal
+Height: 146
+Weight: 151
+Age: 54
+--------------------
+--------------------
+Name: Hal Moore
+Height: 155
+Weight: 107
+Age: 84
+--------------------
+--------------------
+Name: Hal Kaskel
+Height: 138
+Weight: 57
+Age: 53
+--------------------
+--------------------
+Name: Alex Kalleg
+Height: 191
+Weight: 143
+Age: 23
+--------------------
+--------------------
+Name: Jack Ferry
+Height: 149
+Weight: 71
+Age: 61
+--------------------
+--------------------
+Name: Ike Moody
+Height: 190
+Weight: 46
+Age: 84
+--------------------
+--------------------
+Name: David Anderson
+Height: 156
+Weight: 123
+Age: 31
+--------------------
+--------------------
+Name: Frank Fietzer
+Height: 159
+Weight: 96
+Age: 76
+--------------------
+--------------------
+Name: Thomas Dugelman
+Height: 206
+Weight: 52
+Age: 52
+--------------------
+--------------------
+Name: Nathan Sellon
+Height: 147
+Weight: 126
+Age: 66
+--------------------
+--------------------
+Name: Peter Cast
+Height: 205
+Weight: 85
+Age: 42
+--------------------
+--------------------
+Name: Steve Miller
+Height: 226
+Weight: 200
+Age: 38
+--------------------
+--------------------
+Name: Dan Lewis
+Height: 200
+Weight: 67
+Age: 23
+--------------------
+--------------------
+Name: Peter Cataldi
+Height: 199
+Weight: 82
+Age: 51
+--------------------
+--------------------
+Name: Thomas Darnell
+Height: 175
+Weight: 164
+Age: 13
+--------------------
+--------------------
+Name: Hank Maki
+Height: 136
+Weight: 151
+Age: 40
+--------------------
+--------------------
+Name: Ben Boyd
+Height: 173
+Weight: 206
+Age: 49
+--------------------
+--------------------
+Name: Joe Dewalt
+Height: 180
+Weight: 62
+Age: 18
+--------------------
+--------------------
+Name: Aaron Schiebel
+Height: 211
+Weight: 65
+Age: 43
+--------------------
+--------------------
+Name: Jack Bateman
+Height: 155
+Weight: 74
+Age: 41
+--------------------
+--------------------
+Name: Roger Wagle
+Height: 210
+Weight: 123
+Age: 65
+--------------------
+--------------------
+Name: Dan Sagar
+Height: 145
+Weight: 95
+Age: 80
+--------------------
+--------------------
+Name: Frank Wagner
+Height: 160
+Weight: 45
+Age: 35
+--------------------
+--------------------
+Name: Hal Myers
+Height: 223
+Weight: 185
+Age: 37
+--------------------
+--------------------
+Name: David Bateman
+Height: 200
+Weight: 98
+Age: 70
+--------------------
+--------------------
+Name: Aaron Schwager
+Height: 184
+Weight: 114
+Age: 20
+--------------------
+--------------------
+Name: Fred Miller
+Height: 218
+Weight: 96
+Age: 36
+--------------------
+--------------------
+Name: David Schuster
+Height: 142
+Weight: 150
+Age: 19
+--------------------
+--------------------
+Name: Peter Dugan
+Height: 188
+Weight: 111
+Age: 86
+--------------------
+--------------------
+Name: Ty Fletcher
+Height: 140
+Weight: 78
+Age: 30
+--------------------
+--------------------
+Name: Tim Anderson
+Height: 199
+Weight: 202
+Age: 85
+--------------------
+--------------------
+Name: Ike Ory
+Height: 177
+Weight: 149
+Age: 47
+--------------------
+--------------------
+Name: Dan Root
+Height: 138
+Weight: 124
+Age: 75
+--------------------
+--------------------
+Name: Walter Johnsen
+Height: 131
+Weight: 94
+Age: 40
+--------------------
+--------------------
+Name: Adam Moore
+Height: 146
+Weight: 100
+Age: 43
+--------------------
+--------------------
+Name: Hank Reamer
+Height: 141
+Weight: 61
+Age: 51
+--------------------
+--------------------
+Name: Larry Hydinger
+Height: 202
+Weight: 162
+Age: 24
+--------------------
+--------------------
+Name: Ike Moody
+Height: 190
+Weight: 85
+Age: 45
+--------------------
+--------------------
+Name: Steve Schickowski
+Height: 147
+Weight: 152
+Age: 49
+--------------------
+--------------------
+Name: Victor Olson
+Height: 222
+Weight: 109
+Age: 29
+--------------------
+--------------------
+Name: Matthew McGinnis
+Height: 203
+Weight: 103
+Age: 77
+--------------------
+--------------------
+Name: Frank Ramachandran
+Height: 186
+Weight: 158
+Age: 61
+--------------------
+--------------------
+Name: Monte Ebner
+Height: 166
+Weight: 74
+Age: 80
+--------------------
+--------------------
+Name: Hal Martin
+Height: 150
+Weight: 103
+Age: 32
+--------------------
+--------------------
+Name: Carl Schwager
+Height: 194
+Weight: 74
+Age: 21
+--------------------
+--------------------
+Name: Hal Haworth
+Height: 130
+Weight: 159
+Age: 21
+--------------------
+--------------------
+Name: Edward Reamer
+Height: 181
+Weight: 207
+Age: 86
+--------------------
+--------------------
+Name: Ben Tisler
+Height: 179
+Weight: 204
+Age: 94
+--------------------
+--------------------
+Name: Mark Rogers
+Height: 150
+Weight: 158
+Age: 92
+--------------------
+--------------------
+Name: Ben Chambers
+Height: 211
+Weight: 59
+Age: 61
+--------------------
+--------------------
+Name: Otto Zeller
+Height: 224
+Weight: 157
+Age: 47
+--------------------
+--------------------
+Name: David Zeaser
+Height: 165
+Weight: 188
+Age: 30
+--------------------
+--------------------
+Name: David Paiser
+Height: 132
+Weight: 72
+Age: 87
+--------------------
+--------------------
+Name: Paul Zeller
+Height: 200
+Weight: 70
+Age: 92
+--------------------
+--------------------
+Name: Ben Christensen
+Height: 156
+Weight: 193
+Age: 44
+--------------------
+--------------------
+Name: Larry Soloman
+Height: 212
+Weight: 163
+Age: 13
+--------------------
+--------------------
+Name: Frank Ventotla
+Height: 155
+Weight: 84
+Age: 96
+--------------------
+--------------------
+Name: Mark Valente
+Height: 179
+Weight: 62
+Age: 85
+--------------------
+--------------------
+Name: John Resnick
+Height: 148
+Weight: 54
+Age: 74
+--------------------
+--------------------
+Name: Jack Eastman
+Height: 220
+Weight: 136
+Age: 86
+--------------------
+--------------------
+Name: Steve Sandstrom
+Height: 130
+Weight: 197
+Age: 91
+--------------------
+--------------------
+Name: Paul Jenson
+Height: 176
+Weight: 171
+Age: 16
+--------------------
+--------------------
+Name: Mark Wakefield
+Height: 187
+Weight: 56
+Age: 40
+--------------------
+--------------------
+Name: Roger DeLorenzo
+Height: 141
+Weight: 47
+Age: 95
+--------------------
+--------------------
+Name: Ike Solberg
+Height: 212
+Weight: 191
+Age: 58
+--------------------
+--------------------
+Name: Hal Bateman
+Height: 138
+Weight: 53
+Age: 28
+--------------------
+--------------------
+Name: Jack Vail
+Height: 228
+Weight: 60
+Age: 87
+--------------------
+--------------------
+Name: Larry Orwig
+Height: 220
+Weight: 169
+Age: 14
+--------------------
+--------------------
+Name: Edward Ostrander
+Height: 140
+Weight: 197
+Age: 37
+--------------------
+--------------------
+Name: Victor Frick
+Height: 160
+Weight: 100
+Age: 74
+--------------------
+--------------------
+Name: Ty Schuster
+Height: 178
+Weight: 135
+Age: 93
+--------------------
+--------------------
+Name: Hal Lewis
+Height: 186
+Weight: 102
+Age: 98
+--------------------
+--------------------
+Name: Victor Reamer
+Height: 178
+Weight: 162
+Age: 91
+--------------------
+--------------------
+Name: Dan Ramachandran
+Height: 216
+Weight: 56
+Age: 45
+--------------------
+--------------------
+Name: Joe Rogers
+Height: 220
+Weight: 163
+Age: 45
+--------------------
+--------------------
+Name: Ike Van Zandt
+Height: 218
+Weight: 193
+Age: 38
+--------------------
+--------------------
+Name: Walter Orwig
+Height: 203
+Weight: 120
+Age: 98
+--------------------
+--------------------
+Name: Ty Uddin
+Height: 207
+Weight: 57
+Age: 23
+--------------------
+--------------------
+Name: Roger Anderson
+Height: 168
+Weight: 91
+Age: 96
+--------------------
+--------------------
+Name: Frank Napier
+Height: 163
+Weight: 159
+Age: 62
+--------------------
+--------------------
+Name: Alex Jones
+Height: 173
+Weight: 165
+Age: 40
+--------------------
+--------------------
+Name: Otto Soulis
+Height: 168
+Weight: 101
+Age: 31
+--------------------
+--------------------
+Name: Roger Schiebel
+Height: 165
+Weight: 49
+Age: 74
+--------------------
+--------------------
+Name: Aaron Baxster
+Height: 197
+Weight: 134
+Age: 21
+--------------------
+--------------------
+Name: Dan Schmitt
+Height: 194
+Weight: 59
+Age: 61
+--------------------
+--------------------
+Name: Aaron Dewalt
+Height: 202
+Weight: 130
+Age: 79
+--------------------
+--------------------
+Name: Peter Leisinger
+Height: 178
+Weight: 165
+Age: 74
+--------------------
+--------------------
+Name: Roger Chambers
+Height: 143
+Weight: 199
+Age: 28
+--------------------
+--------------------
+Name: Thomas Dugelman
+Height: 163
+Weight: 175
+Age: 83
+--------------------
+--------------------
+Name: Adam Reamer
+Height: 214
+Weight: 82
+Age: 58
+--------------------
+--------------------
+Name: Walter Hoffman
+Height: 212
+Weight: 54
+Age: 86
+--------------------
+--------------------
+Name: Tim Rogers
+Height: 137
+Weight: 150
+Age: 67
+--------------------
+--------------------
+Name: Aaron Turco
+Height: 131
+Weight: 171
+Age: 51
+--------------------
+--------------------
+Name: Carl Dugelman
+Height: 163
+Weight: 155
+Age: 56
+--------------------
+--------------------
+Name: Carl Lewis
+Height: 170
+Weight: 186
+Age: 48
+--------------------
+--------------------
+Name: Peter Casal
+Height: 147
+Weight: 95
+Age: 83
+--------------------
+--------------------
+Name: Larry Kalleg
+Height: 222
+Weight: 159
+Age: 40
+--------------------
+--------------------
+Name: Monte Schuster
+Height: 203
+Weight: 131
+Age: 35
+--------------------
+--------------------
+Name: Hal Paiser
+Height: 154
+Weight: 163
+Age: 66
+--------------------
+--------------------
+Name: Ty Casal
+Height: 201
+Weight: 92
+Age: 19
+--------------------
+--------------------
+Name: John Turco
+Height: 198
+Weight: 165
+Age: 61
+--------------------
+--------------------
+Name: Thomas Keller
+Height: 203
+Weight: 154
+Age: 78
+--------------------
+--------------------
+Name: Mark Orwig
+Height: 156
+Weight: 84
+Age: 20
+--------------------
+--------------------
+Name: John Valente
+Height: 211
+Weight: 91
+Age: 51
+--------------------
+--------------------
+Name: Otto Roberts
+Height: 133
+Weight: 163
+Age: 74
+--------------------
+--------------------
+Name: John Ripka
+Height: 210
+Weight: 60
+Age: 64
+--------------------
+--------------------
+Name: Mark Johnson
+Height: 162
+Weight: 166
+Age: 48
+--------------------
+--------------------
+Name: Hal Moody
+Height: 148
+Weight: 100
+Age: 95
+--------------------
+--------------------
+Name: Thomas Maki
+Height: 214
+Weight: 132
+Age: 92
+--------------------
+--------------------
+Name: Victor Ostrander
+Height: 176
+Weight: 99
+Age: 93
+--------------------
+--------------------
+Name: Aaron Sawyer
+Height: 213
+Weight: 70
+Age: 53
+--------------------
+--------------------
+Name: Jack Napier
+Height: 190
+Weight: 101
+Age: 65
+--------------------
+--------------------
+Name: Otto Johnsen
+Height: 181
+Weight: 210
+Age: 73
+--------------------
+--------------------
+Name: Paul LePage
+Height: 157
+Weight: 145
+Age: 53
+--------------------
+--------------------
+Name: Ben Cannon
+Height: 147
+Weight: 155
+Age: 49
+--------------------
+--------------------
+Name: George Schiebel
+Height: 186
+Weight: 137
+Age: 46
+--------------------
+--------------------
+Name: Edward Van Zandt
+Height: 167
+Weight: 161
+Age: 69
+--------------------
+--------------------
+Name: Nathan Hancock
+Height: 212
+Weight: 131
+Age: 62
+--------------------
+--------------------
+Name: Otto Maki
+Height: 204
+Weight: 167
+Age: 40
+--------------------
+--------------------
+Name: Roger Sweeney
+Height: 153
+Weight: 128
+Age: 14
+--------------------
+--------------------
+Name: Jack Ulrich
+Height: 138
+Weight: 123
+Age: 89
+--------------------
+--------------------
+Name: Victor Casal
+Height: 200
+Weight: 66
+Age: 45
+--------------------
+--------------------
+Name: Walter Johnsen
+Height: 192
+Weight: 68
+Age: 69
+--------------------
+--------------------
+Name: Mark Wagner
+Height: 194
+Weight: 93
+Age: 69
+--------------------
+--------------------
+Name: Hal Schutz
+Height: 170
+Weight: 208
+Age: 57
+--------------------
+--------------------
+Name: Ty Bauer
+Height: 192
+Weight: 51
+Age: 26
+--------------------
+--------------------
+Name: Nathan Haworth
+Height: 191
+Weight: 164
+Age: 64
+--------------------
+--------------------
+Name: Ty Schuster
+Height: 189
+Weight: 149
+Age: 61
+--------------------
+--------------------
+Name: Joe Zeller
+Height: 157
+Weight: 109
+Age: 48
+--------------------
+--------------------
+Name: Monte Ebner
+Height: 134
+Weight: 173
+Age: 17
+--------------------
+--------------------
+Name: Otto Rice
+Height: 134
+Weight: 195
+Age: 46
+--------------------
+--------------------
+Name: Ben Severson
+Height: 185
+Weight: 164
+Age: 35
+--------------------
+--------------------
+Name: Peter Davis
+Height: 214
+Weight: 64
+Age: 69
+--------------------
+--------------------
+Name: Peter Kalleg
+Height: 134
+Weight: 138
+Age: 37
+--------------------
+--------------------
+Name: Edward Jones
+Height: 210
+Weight: 91
+Age: 16
+--------------------
+--------------------
+Name: Larry Nuttle
+Height: 138
+Weight: 177
+Age: 34
+--------------------
+--------------------
+Name: George Hesch
+Height: 217
+Weight: 124
+Age: 20
+--------------------
+--------------------
+Name: Monte Martin
+Height: 210
+Weight: 165
+Age: 50
+--------------------
+--------------------
+Name: Steve Jenson
+Height: 197
+Weight: 126
+Age: 68
+--------------------
+--------------------
+Name: George Ferro
+Height: 208
+Weight: 89
+Age: 59
+--------------------
+--------------------
+Name: Peter Hoffman
+Height: 230
+Weight: 138
+Age: 50
+--------------------
+--------------------
+Name: Ty Dugan
+Height: 184
+Weight: 202
+Age: 89
+--------------------
+--------------------
+Name: Monte Norquist
+Height: 134
+Weight: 201
+Age: 29
+--------------------
+--------------------
+Name: Hank Eastman
+Height: 220
+Weight: 103
+Age: 17
+--------------------
+--------------------
+Name: Paul Hylan
+Height: 183
+Weight: 107
+Age: 76
+--------------------
+--------------------
+Name: John Wagle
+Height: 151
+Weight: 88
+Age: 17
+--------------------
+--------------------
+Name: Jack Soloman
+Height: 181
+Weight: 112
+Age: 98
+--------------------
+--------------------
+Name: Otto Hylan
+Height: 172
+Weight: 159
+Age: 51
+--------------------
+--------------------
+Name: Alex Jones
+Height: 192
+Weight: 172
+Age: 55
+--------------------
+--------------------
+Name: Otto Tapia
+Height: 133
+Weight: 159
+Age: 69
+--------------------
+--------------------
+Name: Mark Miller
+Height: 148
+Weight: 163
+Age: 93
+--------------------
+--------------------
+Name: Joe Upson
+Height: 200
+Weight: 102
+Age: 67
+--------------------
+--------------------
+Name: Hank Napier
+Height: 185
+Weight: 199
+Age: 31
+--------------------
+--------------------
+Name: Tim Pettigrew
+Height: 134
+Weight: 152
+Age: 79
+--------------------
+--------------------
+Name: Aaron Trusela
+Height: 193
+Weight: 88
+Age: 79
+--------------------
+--------------------
+Name: Frank Yates
+Height: 186
+Weight: 197
+Age: 96
+--------------------
+--------------------
+Name: Jack Eastman
+Height: 205
+Weight: 171
+Age: 39
+--------------------
+--------------------
+Name: Nathan Davidson
+Height: 209
+Weight: 127
+Age: 67
+--------------------
+--------------------
+Name: Jack Norquist
+Height: 202
+Weight: 173
+Age: 19
+--------------------
+--------------------
+Name: Monte Rogers
+Height: 142
+Weight: 124
+Age: 25
+--------------------
+--------------------
+Name: Paul Soukup
+Height: 215
+Weight: 100
+Age: 57
+--------------------
+--------------------
+Name: Ike Kalleg
+Height: 161
+Weight: 209
+Age: 57
+--------------------
+--------------------
+Name: Nathan Christensen
+Height: 144
+Weight: 83
+Age: 50
+--------------------
+--------------------
+Name: Hal Schwager
+Height: 207
+Weight: 159
+Age: 51
+--------------------
+--------------------
+Name: Matthew Nugent
+Height: 163
+Weight: 68
+Age: 99
+--------------------
+--------------------
+Name: Jack Leisinger
+Height: 203
+Weight: 91
+Age: 98
+--------------------
+--------------------
+Name: Ike Davidson
+Height: 226
+Weight: 113
+Age: 70
+--------------------
+--------------------
+Name: Joe Frick
+Height: 136
+Weight: 186
+Age: 21
+--------------------
+--------------------
+Name: Edward Mills
+Height: 205
+Weight: 104
+Age: 67
+--------------------
+--------------------
+Name: Carl Boyd
+Height: 219
+Weight: 117
+Age: 38
+--------------------
+--------------------
+Name: Joe Schickowski
+Height: 167
+Weight: 158
+Age: 75
+--------------------
+--------------------
+Name: Hank Bongard
+Height: 169
+Weight: 130
+Age: 72
+--------------------
+--------------------
+Name: Monte Jenson
+Height: 198
+Weight: 190
+Age: 20
+--------------------
+--------------------
+Name: Jack Soulis
+Height: 147
+Weight: 208
+Age: 19
+--------------------
+--------------------
+Name: Roger Schwager
+Height: 131
+Weight: 63
+Age: 78
+--------------------
+--------------------
+Name: Edward Moore
+Height: 170
+Weight: 49
+Age: 69
+--------------------
+--------------------
+Name: Hal Yates
+Height: 133
+Weight: 54
+Age: 43
+--------------------
+--------------------
+Name: Alex Chapman
+Height: 143
+Weight: 102
+Age: 90
+--------------------
+--------------------
+Name: Nathan Ripka
+Height: 223
+Weight: 205
+Age: 73
+--------------------
+--------------------
+Name: Ike Van Zandt
+Height: 220
+Weight: 137
+Age: 67
+--------------------
+--------------------
+Name: Tim Vogal
+Height: 215
+Weight: 115
+Age: 55
+--------------------
+--------------------
+Name: Mark Duffman
+Height: 143
+Weight: 50
+Age: 68
+--------------------
+--------------------
+Name: Mark Wagner
+Height: 211
+Weight: 189
+Age: 20
+--------------------
+--------------------
+Name: John Ostrander
+Height: 223
+Weight: 83
+Age: 76
+--------------------
+--------------------
+Name: Thomas Fletcher
+Height: 176
+Weight: 172
+Age: 94
+--------------------
+--------------------
+Name: Edward Shaffer
+Height: 205
+Weight: 81
+Age: 77
+--------------------
+--------------------
+Name: Edward Leisinger
+Height: 190
+Weight: 155
+Age: 19
+--------------------
+--------------------
+Name: Monte Olson
+Height: 187
+Weight: 114
+Age: 92
+--------------------
+--------------------
+Name: Larry Christensen
+Height: 207
+Weight: 209
+Age: 91
+--------------------
+--------------------
+Name: Steve Uflan
+Height: 197
+Weight: 100
+Age: 49
+--------------------
+--------------------
+Name: Walter Moore
+Height: 220
+Weight: 82
+Age: 93
+--------------------
+--------------------
+Name: Mark Trusela
+Height: 172
+Weight: 169
+Age: 27
+--------------------
+--------------------
+Name: George Paiser
+Height: 188
+Weight: 77
+Age: 54
+--------------------
+--------------------
+Name: Mark Hancock
+Height: 185
+Weight: 153
+Age: 17
+--------------------
+--------------------
+Name: Aaron Wakefield
+Height: 187
+Weight: 176
+Age: 36
+--------------------
+--------------------
+Name: Monte Turco
+Height: 173
+Weight: 209
+Age: 81
+--------------------
+--------------------
+Name: Nathan Moody
+Height: 202
+Weight: 62
+Age: 54
+--------------------
+--------------------
+Name: Tim Linde
+Height: 225
+Weight: 71
+Age: 82
+--------------------
+--------------------
+Name: Fred Van Zandt
+Height: 213
+Weight: 144
+Age: 77
+--------------------
+--------------------
+Name: Matthew Sandstrom
+Height: 158
+Weight: 186
+Age: 57
+--------------------
+--------------------
+Name: Walter Olson
+Height: 199
+Weight: 210
+Age: 54
+--------------------
+--------------------
+Name: Roger Pettigrew
+Height: 218
+Weight: 124
+Age: 38
+--------------------
+--------------------
+Name: Dan Myers
+Height: 227
+Weight: 163
+Age: 98
+--------------------
+--------------------
+Name: David LePage
+Height: 211
+Weight: 172
+Age: 95
+--------------------
+--------------------
+Name: Tim Dewalt
+Height: 159
+Weight: 164
+Age: 37
+--------------------
+--------------------
+Name: Monte Jenson
+Height: 144
+Weight: 97
+Age: 26
+--------------------
+--------------------
+Name: Roger Fletcher
+Height: 158
+Weight: 178
+Age: 79
+--------------------
+--------------------
+Name: Steve Ebner
+Height: 137
+Weight: 157
+Age: 36
+--------------------
+--------------------
+Name: Hal Hancock
+Height: 144
+Weight: 63
+Age: 66
+--------------------
+--------------------
+Name: Frank Nugent
+Height: 219
+Weight: 190
+Age: 37
+--------------------
+--------------------
+Name: Carl Pak
+Height: 141
+Weight: 182
+Age: 52
+--------------------
+--------------------
+Name: Ben Rogers
+Height: 167
+Weight: 101
+Age: 56
+--------------------
+--------------------
+Name: Adam Casal
+Height: 143
+Weight: 133
+Age: 18
+--------------------
+--------------------
+Name: Carl Schuster
+Height: 141
+Weight: 105
+Age: 94
+--------------------
+--------------------
+Name: Mark Dewalt
+Height: 152
+Weight: 203
+Age: 52
+--------------------
+--------------------
+Name: Steve Ulrich
+Height: 218
+Weight: 48
+Age: 72
+--------------------
+--------------------
+Name: Roger Wakefield
+Height: 170
+Weight: 163
+Age: 30
+--------------------
+--------------------
+Name: Carl DeLorenzo
+Height: 220
+Weight: 86
+Age: 75
+--------------------
+--------------------
+Name: Otto Jurgenson
+Height: 210
+Weight: 92
+Age: 62
+--------------------
+--------------------
+Name: Otto Mccord
+Height: 160
+Weight: 206
+Age: 99
+--------------------
+--------------------
+Name: Hank Schuster
+Height: 134
+Weight: 90
+Age: 41
+--------------------
+--------------------
+Name: George Tandy
+Height: 186
+Weight: 195
+Age: 88
+--------------------
+--------------------
+Name: Hal Uddin
+Height: 206
+Weight: 60
+Age: 50
+--------------------
+--------------------
+Name: Carl Van Zandt
+Height: 168
+Weight: 48
+Age: 54
+--------------------
+--------------------
+Name: Thomas Cataldi
+Height: 186
+Weight: 152
+Age: 48
+--------------------
+--------------------
+Name: Roger Dewalt
+Height: 172
+Weight: 204
+Age: 95
+--------------------
+--------------------
+Name: Matthew Tapia
+Height: 172
+Weight: 77
+Age: 53
+--------------------
+--------------------
+Name: Ike Hydinger
+Height: 223
+Weight: 112
+Age: 20
+--------------------
+--------------------
+Name: Jack Jagtap
+Height: 138
+Weight: 58
+Age: 63
+--------------------
+--------------------
+Name: Peter Doran
+Height: 152
+Weight: 67
+Age: 59
+--------------------
+--------------------
+Name: Ben Tandy
+Height: 182
+Weight: 82
+Age: 50
+--------------------
+--------------------
+Name: Hal Ulrich
+Height: 141
+Weight: 209
+Age: 99
+--------------------
+--------------------
+Name: Edward Haworth
+Height: 150
+Weight: 139
+Age: 44
+--------------------
+--------------------
+Name: Frank Caswell
+Height: 206
+Weight: 95
+Age: 27
+--------------------
+--------------------
+Name: Paul Stahl
+Height: 223
+Weight: 77
+Age: 45
+--------------------
+--------------------
+Name: Joe Chambers
+Height: 133
+Weight: 116
+Age: 72
+--------------------
+--------------------
+Name: John Vail
+Height: 130
+Weight: 96
+Age: 49
+--------------------
+--------------------
+Name: Alex Vogal
+Height: 138
+Weight: 74
+Age: 55
+--------------------
+--------------------
+Name: Joe Olson
+Height: 211
+Weight: 151
+Age: 43
+--------------------
+--------------------
+Name: Carl Vader
+Height: 142
+Weight: 49
+Age: 67
+--------------------
+--------------------
+Name: Peter Darnell
+Height: 213
+Weight: 95
+Age: 93
+--------------------
+--------------------
+Name: Carl Resnick
+Height: 153
+Weight: 111
+Age: 40
+--------------------
+--------------------
+Name: Edward Cast
+Height: 218
+Weight: 94
+Age: 86
+--------------------
+--------------------
+Name: Dan Lulloff
+Height: 203
+Weight: 162
+Age: 34
+--------------------
+--------------------
+Name: Larry Schwager
+Height: 136
+Weight: 95
+Age: 84
+--------------------
+--------------------
+Name: Aaron Hylan
+Height: 226
+Weight: 193
+Age: 54
+--------------------
+--------------------
+Name: Tim Mccord
+Height: 192
+Weight: 151
+Age: 44
+--------------------
+--------------------
+Name: Hank Valente
+Height: 138
+Weight: 71
+Age: 72
+--------------------
+--------------------
+Name: Joe Yocum
+Height: 152
+Weight: 49
+Age: 50
+--------------------
+--------------------
+Name: Walter Reamer
+Height: 162
+Weight: 163
+Age: 58
+--------------------
+--------------------
+Name: Adam Irwin
+Height: 228
+Weight: 109
+Age: 54
+--------------------
+--------------------
+Name: Edward Bowers
+Height: 182
+Weight: 46
+Age: 75
+--------------------
+--------------------
+Name: Matthew Cannon
+Height: 216
+Weight: 51
+Age: 74
+--------------------
+--------------------
+Name: Steve Hylan
+Height: 187
+Weight: 88
+Age: 54
+--------------------
+--------------------
+Name: Dan Nuttle
+Height: 171
+Weight: 66
+Age: 77
+--------------------
+--------------------
+Name: Thomas Roberts
+Height: 201
+Weight: 60
+Age: 91
+--------------------
+--------------------
+Name: Dan Quinn
+Height: 184
+Weight: 99
+Age: 83
+--------------------
+--------------------
+Name: Matthew McGinnis
+Height: 162
+Weight: 127
+Age: 84
+--------------------
+--------------------
+Name: Steve Bateman
+Height: 230
+Weight: 176
+Age: 90
+--------------------
+--------------------
+Name: Thomas Cannon
+Height: 219
+Weight: 176
+Age: 42
+--------------------
+--------------------
+Name: Ike Root
+Height: 131
+Weight: 150
+Age: 66
+--------------------
+--------------------
+Name: Roger Maki
+Height: 156
+Weight: 113
+Age: 73
+--------------------
+--------------------
+Name: Alex Tiernan
+Height: 165
+Weight: 153
+Age: 96
+--------------------
+--------------------
+Name: Thomas Cast
+Height: 217
+Weight: 188
+Age: 40
+--------------------
+--------------------
+Name: Hank Ory
+Height: 215
+Weight: 97
+Age: 97
+--------------------
+--------------------
+Name: George Tandy
+Height: 170
+Weight: 108
+Age: 47
+--------------------
+--------------------
+Name: Nathan Wakefield
+Height: 215
+Weight: 172
+Age: 73
+--------------------
+--------------------
+Name: Frank Celedon
+Height: 205
+Weight: 173
+Age: 29
+--------------------
+--------------------
+Name: Ben Illingsworth
+Height: 210
+Weight: 70
+Age: 33
+--------------------
+--------------------
+Name: George McGinnis
+Height: 225
+Weight: 197
+Age: 63
+--------------------
+--------------------
+Name: Roger Dugan
+Height: 147
+Weight: 178
+Age: 92
+--------------------
+--------------------
+Name: Victor Leisinger
+Height: 204
+Weight: 193
+Age: 31
+--------------------
+--------------------
+Name: Thomas Cataldi
+Height: 178
+Weight: 77
+Age: 42
+--------------------
+--------------------
+Name: Ty Ortiz
+Height: 135
+Weight: 176
+Age: 65
+--------------------
+--------------------
+Name: Larry Resnick
+Height: 162
+Weight: 188
+Age: 44
+--------------------
+--------------------
+Name: Fred Vader
+Height: 167
+Weight: 46
+Age: 45
+--------------------
+--------------------
+Name: Frank Pak
+Height: 209
+Weight: 70
+Age: 95
+--------------------
+--------------------
+Name: Steve Ory
+Height: 196
+Weight: 56
+Age: 65
+--------------------
+--------------------
+Name: David Fletcher
+Height: 230
+Weight: 67
+Age: 68
+--------------------
+--------------------
+Name: Roger Schlicht
+Height: 228
+Weight: 103
+Age: 36
+--------------------
+--------------------
+Name: Mark Eastman
+Height: 191
+Weight: 62
+Age: 76
+--------------------
+--------------------
+Name: Walter McCormack
+Height: 170
+Weight: 51
+Age: 68
+--------------------
+--------------------
+Name: Peter Irwin
+Height: 197
+Weight: 124
+Age: 59
+--------------------
+--------------------
+Name: Hank Kassing
+Height: 201
+Weight: 125
+Age: 13
+--------------------
+--------------------
+Name: Jack Pettigrew
+Height: 170
+Weight: 209
+Age: 82
+--------------------
+--------------------
+Name: Victor Ventotla
+Height: 142
+Weight: 56
+Age: 50
+--------------------
+--------------------
+Name: George Wakefield
+Height: 207
+Weight: 45
+Age: 79
+--------------------
+--------------------
+Name: Frank Thompson
+Height: 210
+Weight: 173
+Age: 42
+--------------------
+--------------------
+Name: Hank Orwig
+Height: 185
+Weight: 52
+Age: 31
+--------------------
+--------------------
+Name: Thomas Pettigrew
+Height: 206
+Weight: 77
+Age: 55
+--------------------
+--------------------
+Name: Victor Wagner
+Height: 140
+Weight: 65
+Age: 21
+--------------------
+--------------------
+Name: Peter Sonderling
+Height: 157
+Weight: 103
+Age: 61
+--------------------
+--------------------
+Name: Paul Trebil
+Height: 213
+Weight: 179
+Age: 43
+--------------------
+--------------------
+Name: Ike Keller
+Height: 146
+Weight: 116
+Age: 62
+--------------------
+--------------------
+Name: Carl Napier
+Height: 146
+Weight: 195
+Age: 59
+--------------------
+--------------------
+Name: Carl Dewalt
+Height: 149
+Weight: 96
+Age: 29
+--------------------
+--------------------
+Name: Adam Johnsen
+Height: 223
+Weight: 90
+Age: 60
+--------------------
+--------------------
+Name: Thomas Chapman
+Height: 174
+Weight: 67
+Age: 62
+--------------------
+--------------------
+Name: Mark Resnick
+Height: 216
+Weight: 64
+Age: 18
+--------------------
+--------------------
+Name: Victor Ory
+Height: 226
+Weight: 98
+Age: 22
+--------------------
+--------------------
+Name: Dan Hoffman
+Height: 199
+Weight: 138
+Age: 51
+--------------------
+--------------------
+Name: Jack Kassing
+Height: 195
+Weight: 50
+Age: 76
+--------------------
+--------------------
+Name: John Schutz
+Height: 130
+Weight: 96
+Age: 24
+--------------------
+--------------------
+Name: Ben Thompson
+Height: 130
+Weight: 60
+Age: 46
+--------------------
+--------------------
+Name: Matthew Ingram
+Height: 208
+Weight: 120
+Age: 36
+--------------------
+--------------------
+Name: Matthew Davis
+Height: 214
+Weight: 96
+Age: 28
+--------------------
+--------------------
+Name: Jack Hancock
+Height: 164
+Weight: 177
+Age: 14
+--------------------
+--------------------
+Name: Aaron Johnson
+Height: 170
+Weight: 165
+Age: 71
+--------------------
+--------------------
+Name: George Quizoz
+Height: 171
+Weight: 176
+Age: 94
+--------------------
+--------------------
+Name: Roger Anderson
+Height: 178
+Weight: 150
+Age: 44
+--------------------
+--------------------
+Name: Peter Rogers
+Height: 199
+Weight: 55
+Age: 72
+--------------------
+--------------------
+Name: Hank Vanderpoel
+Height: 167
+Weight: 142
+Age: 15
+--------------------
+--------------------
+Name: Nathan Zeller
+Height: 130
+Weight: 109
+Age: 67
+--------------------
+--------------------
+Name: Adam Dinkins
+Height: 138
+Weight: 79
+Age: 71
+--------------------
+--------------------
+Name: Victor Dugelman
+Height: 202
+Weight: 123
+Age: 70
+--------------------
+--------------------
+Name: Dan Irwin
+Height: 218
+Weight: 109
+Age: 69
+--------------------
+--------------------
+Name: Hal Baxster
+Height: 148
+Weight: 172
+Age: 75
+--------------------
+--------------------
+Name: Fred Johnson
+Height: 218
+Weight: 164
+Age: 42
+--------------------
+--------------------
+Name: Hal Frick
+Height: 139
+Weight: 169
+Age: 35
+--------------------
+--------------------
+Name: Monte Dewalt
+Height: 207
+Weight: 196
+Age: 99
+--------------------
+--------------------
+Name: Ike Myers
+Height: 218
+Weight: 80
+Age: 89
+--------------------
+--------------------
+Name: Victor Maki
+Height: 221
+Weight: 122
+Age: 99
+--------------------
+--------------------
+Name: Hank Lulloff
+Height: 193
+Weight: 149
+Age: 97
+--------------------
+--------------------
+Name: Paul Reamer
+Height: 204
+Weight: 88
+Age: 89
+--------------------
+--------------------
+Name: Walter Cataldi
+Height: 134
+Weight: 99
+Age: 74
+--------------------
+--------------------
+Name: Alex Myers
+Height: 205
+Weight: 58
+Age: 62
+--------------------
+--------------------
+Name: Nathan Hydinger
+Height: 225
+Weight: 164
+Age: 61
+--------------------
+--------------------
+Name: Steve Schwager
+Height: 207
+Weight: 128
+Age: 19
+--------------------
+--------------------
+Name: Aaron Weiss
+Height: 184
+Weight: 97
+Age: 68
+--------------------
+--------------------
+Name: Hal Ostrander
+Height: 178
+Weight: 75
+Age: 13
+--------------------
+--------------------
+Name: Hal Dugelman
+Height: 148
+Weight: 81
+Age: 69
+--------------------
+--------------------
+Name: Roger Resnick
+Height: 225
+Weight: 120
+Age: 17
+--------------------
+--------------------
+Name: Peter Darnell
+Height: 161
+Weight: 124
+Age: 61
+--------------------
+--------------------
+Name: Fred Ashwoon
+Height: 135
+Weight: 117
+Age: 91
+--------------------
+--------------------
+Name: Mark Tiernan
+Height: 195
+Weight: 148
+Age: 29
+--------------------
+--------------------
+Name: Larry Jagtap
+Height: 150
+Weight: 142
+Age: 88
+--------------------
+--------------------
+Name: Peter Lewis
+Height: 199
+Weight: 114
+Age: 42
+--------------------
+--------------------
+Name: Dan Pak
+Height: 173
+Weight: 193
+Age: 73
+--------------------
+--------------------
+Name: Edward Van Zandt
+Height: 161
+Weight: 207
+Age: 16
+--------------------
+--------------------
+Name: Larry Baxster
+Height: 150
+Weight: 70
+Age: 50
+--------------------
+--------------------
+Name: Edward Davis
+Height: 184
+Weight: 144
+Age: 52
+--------------------
+--------------------
+Name: George Knutson
+Height: 178
+Weight: 208
+Age: 94
+--------------------
+--------------------
+Name: Nathan Ortiz
+Height: 137
+Weight: 139
+Age: 79
+--------------------
+--------------------
+Name: Mark Mills
+Height: 157
+Weight: 99
+Age: 63
+--------------------
+--------------------
+Name: George Rogers
+Height: 202
+Weight: 128
+Age: 15
+--------------------
+--------------------
+Name: Mark Davis
+Height: 151
+Weight: 64
+Age: 23
+--------------------
+--------------------
+Name: David Doran
+Height: 132
+Weight: 57
+Age: 79
+--------------------
+--------------------
+Name: Alex Boyd
+Height: 196
+Weight: 124
+Age: 17
+--------------------
+--------------------
+Name: George Wagle
+Height: 198
+Weight: 187
+Age: 94
+--------------------
+--------------------
+Name: Joe Van Zandt
+Height: 203
+Weight: 171
+Age: 42
+--------------------
+--------------------
+Name: Tim Ferro
+Height: 211
+Weight: 116
+Age: 33
+--------------------
+--------------------
+Name: Alex Lawless
+Height: 217
+Weight: 160
+Age: 14
+--------------------
+--------------------
+Name: Joe Hydinger
+Height: 156
+Weight: 138
+Age: 87
+--------------------
+--------------------
+Name: Joe Mills
+Height: 180
+Weight: 153
+Age: 95
+--------------------
+--------------------
+Name: Tim Uflan
+Height: 172
+Weight: 152
+Age: 68
+--------------------
+--------------------
+Name: Ike Myers
+Height: 160
+Weight: 117
+Age: 86
+--------------------
+--------------------
+Name: Steve Orwig
+Height: 141
+Weight: 64
+Age: 91
+--------------------
+--------------------
+Name: Hal Chambers
+Height: 151
+Weight: 72
+Age: 83
+--------------------
+--------------------
+Name: Monte Weiss
+Height: 201
+Weight: 172
+Age: 20
+--------------------
+--------------------
+Name: David Thompson
+Height: 147
+Weight: 98
+Age: 41
+--------------------
+--------------------
+Name: Roger Schutz
+Height: 213
+Weight: 113
+Age: 36
+--------------------
+--------------------
+Name: Thomas Fletcher
+Height: 179
+Weight: 189
+Age: 69
+--------------------
+--------------------
+Name: Matthew Ulrich
+Height: 147
+Weight: 198
+Age: 67
+--------------------
+--------------------
+Name: Peter Dewalt
+Height: 178
+Weight: 98
+Age: 56
+--------------------
+--------------------
+Name: Jack Darnell
+Height: 202
+Weight: 125
+Age: 19
+--------------------
+--------------------
+Name: Victor Ramachandran
+Height: 147
+Weight: 205
+Age: 94
+--------------------
+--------------------
+Name: Hank Shaffer
+Height: 140
+Weight: 111
+Age: 42
+--------------------
+--------------------
+Name: Thomas Maki
+Height: 148
+Weight: 195
+Age: 45
+--------------------
+--------------------
+Name: Ty Fietzer
+Height: 212
+Weight: 202
+Age: 63
+--------------------
+--------------------
+Name: Matthew Kassing
+Height: 131
+Weight: 162
+Age: 86
+--------------------
+--------------------
+Name: Tim Christensen
+Height: 132
+Weight: 207
+Age: 13
+--------------------
+--------------------
+Name: Thomas Hydinger
+Height: 141
+Weight: 102
+Age: 88
+--------------------
+--------------------
+Name: Adam Roberts
+Height: 149
+Weight: 81
+Age: 62
+--------------------
+--------------------
+Name: Matthew Napier
+Height: 154
+Weight: 168
+Age: 44
+--------------------
+--------------------
+Name: Roger Davis
+Height: 189
+Weight: 162
+Age: 67
+--------------------
+--------------------
+Name: Matthew Ebner
+Height: 217
+Weight: 45
+Age: 84
+--------------------
+--------------------
+Name: Ike Davis
+Height: 161
+Weight: 149
+Age: 47
+--------------------
+--------------------
+Name: John Sandstrom
+Height: 135
+Weight: 81
+Age: 46
+--------------------
+--------------------
+Name: Roger Maki
+Height: 190
+Weight: 119
+Age: 88
+--------------------
+--------------------
+Name: Thomas Maki
+Height: 184
+Weight: 96
+Age: 36
+--------------------
+--------------------
+Name: Thomas Leisinger
+Height: 154
+Weight: 172
+Age: 58
+--------------------
+--------------------
+Name: Jack Nuttle
+Height: 145
+Weight: 132
+Age: 38
+--------------------
+--------------------
+Name: Hank Bauer
+Height: 181
+Weight: 59
+Age: 64
+--------------------
+--------------------
+Name: Steve Haworth
+Height: 132
+Weight: 74
+Age: 28
+--------------------
+--------------------
+Name: Aaron Shaffer
+Height: 163
+Weight: 59
+Age: 33
+--------------------
+--------------------
+Name: Frank Davidson
+Height: 227
+Weight: 162
+Age: 18
+--------------------
+--------------------
+Name: Otto Yocum
+Height: 159
+Weight: 144
+Age: 69
+--------------------
+--------------------
+Name: Steve Root
+Height: 145
+Weight: 147
+Age: 13
+--------------------
+--------------------
+Name: Nathan Yang
+Height: 166
+Weight: 47
+Age: 75
+--------------------
+--------------------
+Name: Fred Quizoz
+Height: 135
+Weight: 58
+Age: 99
+--------------------
+--------------------
+Name: Ike Trusela
+Height: 192
+Weight: 67
+Age: 53
+--------------------
+--------------------
+Name: Hal Hydinger
+Height: 134
+Weight: 199
+Age: 57
+--------------------
+--------------------
+Name: Hank Trebil
+Height: 174
+Weight: 65
+Age: 35
+--------------------
+--------------------
+Name: Jack Baxster
+Height: 176
+Weight: 202
+Age: 25
+--------------------
+--------------------
+Name: Joe Schuster
+Height: 160
+Weight: 158
+Age: 50
+--------------------
+--------------------
+Name: Hal Sagar
+Height: 151
+Weight: 202
+Age: 91
+--------------------
+--------------------
+Name: Monte Solberg
+Height: 166
+Weight: 64
+Age: 78
+--------------------
+--------------------
+Name: Roger Bauer
+Height: 192
+Weight: 72
+Age: 89
+--------------------
+--------------------
+Name: Larry Wagner
+Height: 148
+Weight: 145
+Age: 64
+--------------------
+--------------------
+Name: David Root
+Height: 145
+Weight: 182
+Age: 62
+--------------------
+--------------------
+Name: Jack Jenson
+Height: 230
+Weight: 123
+Age: 81
+--------------------
+--------------------
+Name: Otto Sellon
+Height: 159
+Weight: 205
+Age: 18
+--------------------
+--------------------
+Name: Roger Sawyer
+Height: 224
+Weight: 117
+Age: 18
+--------------------
+--------------------
+Name: George Leisinger
+Height: 178
+Weight: 98
+Age: 85
+--------------------
+--------------------
+Name: Aaron Wakefield
+Height: 216
+Weight: 116
+Age: 26
+--------------------
+--------------------
+Name: Carl Jurgenson
+Height: 223
+Weight: 143
+Age: 57
+--------------------
+--------------------
+Name: George Uddin
+Height: 223
+Weight: 56
+Age: 34
+--------------------
+--------------------
+Name: Adam Kalleg
+Height: 216
+Weight: 164
+Age: 50
+--------------------
+--------------------
+Name: Walter Deitz
+Height: 156
+Weight: 70
+Age: 34
+--------------------
+--------------------
+Name: Roger Ventotla
+Height: 137
+Weight: 101
+Age: 97
+--------------------
+--------------------
+Name: Alex Ramachandran
+Height: 209
+Weight: 62
+Age: 50
+--------------------
+--------------------
+Name: Victor Duffman
+Height: 180
+Weight: 123
+Age: 38
+--------------------
+--------------------
+Name: Aaron Ostrander
+Height: 158
+Weight: 118
+Age: 66
+--------------------
+--------------------
+Name: Otto Thompson
+Height: 211
+Weight: 48
+Age: 46
+--------------------
+--------------------
+Name: Adam Severson
+Height: 165
+Weight: 197
+Age: 98
+--------------------
+--------------------
+Name: Roger Chapman
+Height: 201
+Weight: 53
+Age: 15
+--------------------
+--------------------
+Name: Victor Cannon
+Height: 160
+Weight: 86
+Age: 72
+--------------------
+--------------------
+Name: Hal Ebner
+Height: 201
+Weight: 63
+Age: 97
+--------------------
+--------------------
+Name: Aaron Schuster
+Height: 173
+Weight: 121
+Age: 47
+--------------------
+--------------------
+Name: Dan Bowers
+Height: 212
+Weight: 160
+Age: 78
+--------------------
+--------------------
+Name: Ty Thompson
+Height: 157
+Weight: 169
+Age: 17
+--------------------
+--------------------
+Name: John Turco
+Height: 145
+Weight: 179
+Age: 53
+--------------------
+--------------------
+Name: Frank Schlicht
+Height: 160
+Weight: 65
+Age: 42
+--------------------
+--------------------
+Name: Larry Darnell
+Height: 181
+Weight: 147
+Age: 17
+--------------------
+--------------------
+Name: Ike Sweeney
+Height: 165
+Weight: 107
+Age: 77
+--------------------
+--------------------
+Name: Dan Schlicht
+Height: 167
+Weight: 148
+Age: 34
+--------------------
+--------------------
+Name: Dan Davis
+Height: 198
+Weight: 147
+Age: 30
+--------------------
+--------------------
+Name: Victor Soloman
+Height: 167
+Weight: 146
+Age: 25
+--------------------
+--------------------
+Name: Steve Reardon
+Height: 174
+Weight: 112
+Age: 38
+--------------------
+--------------------
+Name: Dan Moody
+Height: 158
+Weight: 95
+Age: 75
+--------------------
+--------------------
+Name: Otto Ashwoon
+Height: 227
+Weight: 175
+Age: 80
+--------------------
+--------------------
+Name: Ben Uflan
+Height: 190
+Weight: 84
+Age: 27
+--------------------
+--------------------
+Name: Otto Van Zandt
+Height: 134
+Weight: 100
+Age: 27
+--------------------
+--------------------
+Name: Matthew Mccord
+Height: 135
+Weight: 204
+Age: 52
+--------------------
+--------------------
+Name: Ben Woo
+Height: 190
+Weight: 146
+Age: 54
+--------------------
+--------------------
+Name: Tim Schutz
+Height: 216
+Weight: 126
+Age: 77
+--------------------
+--------------------
+Name: Larry Cast
+Height: 214
+Weight: 82
+Age: 63
+--------------------
+--------------------
+Name: Fred Sawyer
+Height: 179
+Weight: 103
+Age: 36
+--------------------
+--------------------
+Name: Fred Ory
+Height: 188
+Weight: 149
+Age: 97
+--------------------
+--------------------
+Name: Victor Olson
+Height: 223
+Weight: 85
+Age: 59
+--------------------
+--------------------
+Name: John Olson
+Height: 207
+Weight: 137
+Age: 87
+--------------------
+--------------------
+Name: John Fietzer
+Height: 132
+Weight: 185
+Age: 16
+--------------------
+--------------------
+Name: Hal Frick
+Height: 215
+Weight: 57
+Age: 96
+--------------------
+--------------------
+Name: Hank Paiser
+Height: 207
+Weight: 62
+Age: 57
+--------------------
+--------------------
+Name: Adam Myers
+Height: 194
+Weight: 202
+Age: 28
+--------------------
+--------------------
+Name: Otto Dugan
+Height: 162
+Weight: 59
+Age: 86
+--------------------
+--------------------
+Name: Walter Hylan
+Height: 181
+Weight: 165
+Age: 96
+--------------------
+--------------------
+Name: Jack Linde
+Height: 229
+Weight: 164
+Age: 22
+--------------------
+--------------------
+Name: Larry Uddin
+Height: 219
+Weight: 113
+Age: 27
+--------------------
+--------------------
+Name: Ike McGinnis
+Height: 207
+Weight: 53
+Age: 38
+--------------------
+--------------------
+Name: Dan Reyes
+Height: 225
+Weight: 125
+Age: 76
+--------------------
+--------------------
+Name: Joe Ziegler
+Height: 182
+Weight: 91
+Age: 44
+--------------------
+--------------------
+Name: Jack Eastman
+Height: 219
+Weight: 76
+Age: 74
+--------------------
+--------------------
+Name: Alex Vail
+Height: 148
+Weight: 63
+Age: 58
+--------------------
+--------------------
+Name: Aaron Rogers
+Height: 182
+Weight: 73
+Age: 84
+--------------------
+--------------------
+Name: Ben Sellon
+Height: 209
+Weight: 198
+Age: 19
+--------------------
+--------------------
+Name: Alex Dugan
+Height: 210
+Weight: 125
+Age: 19
+--------------------
+--------------------
+Name: Nathan Lawicki
+Height: 160
+Weight: 168
+Age: 51
+--------------------
+--------------------
+Name: Jack Zeller
+Height: 194
+Weight: 170
+Age: 59
+--------------------
+--------------------
+Name: Frank LePage
+Height: 201
+Weight: 127
+Age: 19
+--------------------
+--------------------
+Name: Hal Nugent
+Height: 168
+Weight: 155
+Age: 28
+--------------------
+--------------------
+Name: Paul Kaskel
+Height: 160
+Weight: 150
+Age: 29
+--------------------
+--------------------
+Name: Peter Baxster
+Height: 175
+Weight: 153
+Age: 79
+--------------------
+--------------------
+Name: Thomas Mccord
+Height: 183
+Weight: 103
+Age: 49
+--------------------
+--------------------
+Name: Hal Schiebel
+Height: 220
+Weight: 104
+Age: 33
+--------------------
+--------------------
+Name: Ben Lewis
+Height: 212
+Weight: 107
+Age: 98
+--------------------
+--------------------
+Name: Steve Ferro
+Height: 168
+Weight: 83
+Age: 50
+--------------------
+--------------------
+Name: Hal Nugent
+Height: 183
+Weight: 101
+Age: 84
+--------------------
+--------------------
+Name: Mark Tandy
+Height: 218
+Weight: 79
+Age: 68
+--------------------
+--------------------
+Name: Steve Dugan
+Height: 154
+Weight: 99
+Age: 16
+--------------------
+--------------------
+Name: Nathan Reardon
+Height: 184
+Weight: 193
+Age: 78
+--------------------
+--------------------
+Name: Nathan Kassing
+Height: 188
+Weight: 81
+Age: 78
+--------------------
+--------------------
+Name: Dan Tapia
+Height: 225
+Weight: 134
+Age: 27
+--------------------
+--------------------
+Name: Thomas Deitz
+Height: 149
+Weight: 205
+Age: 22
+--------------------
+--------------------
+Name: Mark Hancock
+Height: 197
+Weight: 94
+Age: 87
+--------------------
+--------------------
+Name: Nathan Sonderling
+Height: 223
+Weight: 152
+Age: 56
+--------------------
+--------------------
+Name: Dan Lulloff
+Height: 158
+Weight: 107
+Age: 98
+--------------------
+--------------------
+Name: Dan Frick
+Height: 170
+Weight: 176
+Age: 99
+--------------------
+--------------------
+Name: Victor Reamer
+Height: 131
+Weight: 139
+Age: 40
+--------------------
+--------------------
+Name: Roger Nelson
+Height: 221
+Weight: 134
+Age: 59
+--------------------
+--------------------
+Name: Nathan Nuttle
+Height: 186
+Weight: 138
+Age: 17
+--------------------
+--------------------
+Name: Monte Reardon
+Height: 199
+Weight: 184
+Age: 95
+--------------------
+--------------------
+Name: Tim Ferro
+Height: 200
+Weight: 72
+Age: 92
+--------------------
+--------------------
+Name: Aaron Jenson
+Height: 211
+Weight: 125
+Age: 42
+--------------------
+--------------------
+Name: David Aikin
+Height: 190
+Weight: 177
+Age: 54
+--------------------
+--------------------
+Name: Joe Irwin
+Height: 157
+Weight: 205
+Age: 21
+--------------------
+--------------------
+Name: Aaron Kaskel
+Height: 229
+Weight: 75
+Age: 91
+--------------------
+--------------------
+Name: David Duffman
+Height: 144
+Weight: 207
+Age: 53
+--------------------
+--------------------
+Name: Victor Vogal
+Height: 191
+Weight: 111
+Age: 90
+--------------------
+--------------------
+Name: Monte Severson
+Height: 219
+Weight: 98
+Age: 82
+--------------------
+--------------------
+Name: Carl Dinkins
+Height: 194
+Weight: 146
+Age: 50
+--------------------
+--------------------
+Name: Ben Davis
+Height: 198
+Weight: 135
+Age: 55
+--------------------
+--------------------
+Name: Aaron Vader
+Height: 197
+Weight: 136
+Age: 80
+--------------------
+--------------------
+Name: Walter Schiebel
+Height: 157
+Weight: 202
+Age: 16
+--------------------
+--------------------
+Name: Hal Rice
+Height: 179
+Weight: 189
+Age: 96
+--------------------
+--------------------
+Name: Alex Solberg
+Height: 224
+Weight: 58
+Age: 78
+--------------------
+--------------------
+Name: Ike Norquist
+Height: 218
+Weight: 157
+Age: 13
+--------------------
+--------------------
+Name: Larry Schutz
+Height: 219
+Weight: 185
+Age: 89
+--------------------
+--------------------
+Name: Thomas Chambers
+Height: 172
+Weight: 146
+Age: 18
+--------------------
+--------------------
+Name: Monte Trusela
+Height: 157
+Weight: 113
+Age: 57
+--------------------
+--------------------
+Name: Matthew Tapia
+Height: 230
+Weight: 69
+Age: 70
+--------------------
+--------------------
+Name: Jack Linde
+Height: 188
+Weight: 191
+Age: 51
+--------------------
+--------------------
+Name: Edward Trussel
+Height: 159
+Weight: 86
+Age: 84
+--------------------
+--------------------
+Name: Larry Ramachandran
+Height: 143
+Weight: 152
+Age: 45
+--------------------
+--------------------
+Name: Jack Ziegler
+Height: 147
+Weight: 115
+Age: 18
+--------------------
+--------------------
+Name: Hal Lawicki
+Height: 229
+Weight: 115
+Age: 20
+--------------------
+--------------------
+Name: Ty Soloman
+Height: 211
+Weight: 91
+Age: 59
+--------------------
+--------------------
+Name: Larry Soulis
+Height: 145
+Weight: 183
+Age: 16
+--------------------
+--------------------
+Name: Hal Dinkins
+Height: 151
+Weight: 45
+Age: 87
+--------------------
+--------------------
+Name: Thomas Sawyer
+Height: 143
+Weight: 55
+Age: 60
+--------------------
+--------------------
+Name: Steve Schutz
+Height: 215
+Weight: 167
+Age: 82
+--------------------
+--------------------
+Name: Hank Lawicki
+Height: 136
+Weight: 111
+Age: 80
+--------------------
+--------------------
+Name: David Ingram
+Height: 220
+Weight: 87
+Age: 40
+--------------------
+--------------------
+Name: Carl Vail
+Height: 186
+Weight: 148
+Age: 71
+--------------------
+--------------------
+Name: Carl Miller
+Height: 170
+Weight: 121
+Age: 80
+--------------------
+--------------------
+Name: Roger Norquist
+Height: 172
+Weight: 53
+Age: 13
+--------------------
+--------------------
+Name: Walter Ripka
+Height: 137
+Weight: 109
+Age: 49
+--------------------
+--------------------
+Name: Thomas Uflan
+Height: 215
+Weight: 98
+Age: 56
+--------------------
+--------------------
+Name: Steve Lewis
+Height: 184
+Weight: 204
+Age: 28
+--------------------
+--------------------
+Name: Ben Valente
+Height: 130
+Weight: 59
+Age: 41
+--------------------
+--------------------
+Name: Victor Ramachandran
+Height: 195
+Weight: 80
+Age: 49
+--------------------
+--------------------
+Name: Ben Napier
+Height: 230
+Weight: 90
+Age: 22
+--------------------
+--------------------
+Name: Alex Shaffer
+Height: 173
+Weight: 196
+Age: 58
+--------------------
+--------------------
+Name: Edward Bauer
+Height: 218
+Weight: 146
+Age: 33
+--------------------
+--------------------
+Name: Paul Sweeney
+Height: 215
+Weight: 100
+Age: 76
+--------------------
+--------------------
+Name: Alex Chapman
+Height: 198
+Weight: 93
+Age: 42
+--------------------
+--------------------
+Name: Thomas Bowers
+Height: 228
+Weight: 67
+Age: 21
+--------------------
+--------------------
+Name: Dan Wakefield
+Height: 177
+Weight: 162
+Age: 73
+--------------------
+--------------------
+Name: Aaron Soloman
+Height: 158
+Weight: 179
+Age: 38
+--------------------
+--------------------
+Name: Paul Jones
+Height: 183
+Weight: 166
+Age: 46
+--------------------
+--------------------
+Name: Hal Trussel
+Height: 212
+Weight: 204
+Age: 76
+--------------------
+--------------------
+Name: Adam Lawless
+Height: 161
+Weight: 118
+Age: 31
+--------------------
+--------------------
+Name: Paul Ziegler
+Height: 186
+Weight: 193
+Age: 17
+--------------------
+--------------------
+Name: Roger Paiser
+Height: 130
+Weight: 88
+Age: 38
+--------------------
+--------------------
+Name: Jack Jenson
+Height: 136
+Weight: 146
+Age: 46
+--------------------
+--------------------
+Name: Mark Dugan
+Height: 228
+Weight: 145
+Age: 91
+--------------------
+--------------------
+Name: Hal Duffman
+Height: 205
+Weight: 175
+Age: 81
+--------------------
+--------------------
+Name: Roger Bongard
+Height: 198
+Weight: 97
+Age: 55
+--------------------
+--------------------
+Name: Mark Roberts
+Height: 210
+Weight: 209
+Age: 76
+--------------------
+--------------------
+Name: Carl Olson
+Height: 216
+Weight: 207
+Age: 44
+--------------------
+--------------------
+Name: Steve Van Zandt
+Height: 192
+Weight: 166
+Age: 25
+--------------------
+--------------------
+Name: Edward Kassing
+Height: 186
+Weight: 145
+Age: 24
+--------------------
+--------------------
+Name: Otto Dugelman
+Height: 146
+Weight: 196
+Age: 89
+--------------------
+--------------------
+Name: Paul Cast
+Height: 175
+Weight: 123
+Age: 73
+--------------------
+--------------------
+Name: Hal Cast
+Height: 166
+Weight: 176
+Age: 18
+--------------------
+--------------------
+Name: Steve Thompson
+Height: 176
+Weight: 87
+Age: 90
+--------------------
+--------------------
+Name: Jack Vanderpoel
+Height: 222
+Weight: 83
+Age: 20
+--------------------
+--------------------
+Name: Peter Johnson
+Height: 170
+Weight: 145
+Age: 38
+--------------------
+--------------------
+Name: Peter Ashwoon
+Height: 181
+Weight: 62
+Age: 47
+--------------------
+--------------------
+Name: Carl Wagner
+Height: 210
+Weight: 46
+Age: 64
+--------------------
+--------------------
+Name: Victor Baxster
+Height: 172
+Weight: 207
+Age: 81
+--------------------
+--------------------
+Name: Otto Rice
+Height: 170
+Weight: 141
+Age: 54
+--------------------
+--------------------
+Name: John Rogers
+Height: 189
+Weight: 203
+Age: 21
+--------------------
+--------------------
+Name: Monte Trusela
+Height: 190
+Weight: 109
+Age: 33
+--------------------
+--------------------
+Name: Roger Wagle
+Height: 171
+Weight: 155
+Age: 62
+--------------------
+--------------------
+Name: Otto Ashwoon
+Height: 201
+Weight: 183
+Age: 62
+--------------------
+--------------------
+Name: Ben Eastman
+Height: 215
+Weight: 122
+Age: 60
+--------------------
+--------------------
+Name: Monte Upson
+Height: 189
+Weight: 51
+Age: 28
+--------------------
+--------------------
+Name: Hal Hylan
+Height: 154
+Weight: 123
+Age: 32
+--------------------
+--------------------
+Name: Roger LePage
+Height: 178
+Weight: 179
+Age: 15
+--------------------
+--------------------
+Name: Tim Lulloff
+Height: 151
+Weight: 206
+Age: 52
+--------------------
+--------------------
+Name: Ike Boyd
+Height: 179
+Weight: 78
+Age: 65
+--------------------
+--------------------
+Name: Hal Mills
+Height: 142
+Weight: 209
+Age: 61
+--------------------
+--------------------
+Name: Otto Johnson
+Height: 192
+Weight: 188
+Age: 28
+--------------------
+--------------------
+Name: Joe Lawless
+Height: 201
+Weight: 115
+Age: 90
+--------------------
+--------------------
+Name: Steve Johnsen
+Height: 171
+Weight: 159
+Age: 82
+--------------------
+--------------------
+Name: Monte Jurgenson
+Height: 162
+Weight: 90
+Age: 82
+--------------------
+--------------------
+Name: Walter Soloman
+Height: 146
+Weight: 81
+Age: 77
+--------------------
+--------------------
+Name: Ben Kalleg
+Height: 203
+Weight: 102
+Age: 70
+--------------------
+--------------------
+Name: Hank Tandy
+Height: 180
+Weight: 75
+Age: 95
+--------------------
+--------------------
+Name: Fred Eastman
+Height: 190
+Weight: 50
+Age: 25
+--------------------
+--------------------
+Name: Hank Keller
+Height: 174
+Weight: 118
+Age: 74
+--------------------
+--------------------
+Name: Monte Upson
+Height: 156
+Weight: 170
+Age: 55
+--------------------
+--------------------
+Name: Otto Quinn
+Height: 183
+Weight: 47
+Age: 15
+--------------------
+--------------------
+Name: Tim Mccord
+Height: 221
+Weight: 144
+Age: 96
+--------------------
+--------------------
+Name: Walter Schuster
+Height: 185
+Weight: 88
+Age: 87
+--------------------
+--------------------
+Name: Alex Ripka
+Height: 151
+Weight: 163
+Age: 44
+--------------------
+--------------------
+Name: Edward Jagtap
+Height: 228
+Weight: 133
+Age: 77
+--------------------
+--------------------
+Name: Paul Schickowski
+Height: 221
+Weight: 210
+Age: 38
+--------------------
+--------------------
+Name: Dan Illingsworth
+Height: 178
+Weight: 89
+Age: 88
+--------------------
+--------------------
+Name: Victor Cast
+Height: 138
+Weight: 148
+Age: 93
+--------------------
+--------------------
+Name: Adam Resnick
+Height: 218
+Weight: 208
+Age: 17
+--------------------
+--------------------
+Name: Nathan Ory
+Height: 230
+Weight: 109
+Age: 65
+--------------------
+--------------------
+Name: Alex Dewalt
+Height: 187
+Weight: 200
+Age: 45
+--------------------
+--------------------
+Name: Mark Bowers
+Height: 223
+Weight: 139
+Age: 43
+--------------------
+--------------------
+Name: George Pettigrew
+Height: 229
+Weight: 140
+Age: 81
+--------------------
+--------------------
+Name: Matthew Olson
+Height: 161
+Weight: 113
+Age: 25
+--------------------
+--------------------
+Name: George Shaffer
+Height: 163
+Weight: 86
+Age: 87
+--------------------
+--------------------
+Name: Monte Woo
+Height: 176
+Weight: 103
+Age: 55
+--------------------
+--------------------
+Name: Walter Trebil
+Height: 193
+Weight: 68
+Age: 62
+--------------------
+--------------------
+Name: Victor Woo
+Height: 208
+Weight: 177
+Age: 95
+--------------------
+--------------------
+Name: Roger Rogers
+Height: 147
+Weight: 112
+Age: 35
+--------------------
+--------------------
+Name: Ike Casal
+Height: 192
+Weight: 158
+Age: 33
+--------------------
+--------------------
+Name: Mark Moody
+Height: 200
+Weight: 129
+Age: 79
+--------------------
+--------------------
+Name: Paul Soukup
+Height: 133
+Weight: 169
+Age: 34
+--------------------
+--------------------
+Name: Victor Schwager
+Height: 166
+Weight: 117
+Age: 79
+--------------------
+--------------------
+Name: David Reardon
+Height: 216
+Weight: 87
+Age: 88
+--------------------
+--------------------
+Name: Ben Linde
+Height: 185
+Weight: 162
+Age: 15
+--------------------
+--------------------
+Name: Alex Casal
+Height: 180
+Weight: 51
+Age: 84
+--------------------
+--------------------
+Name: Paul Sawyer
+Height: 143
+Weight: 192
+Age: 27
+--------------------
+--------------------
+Name: Otto Schlicht
+Height: 141
+Weight: 59
+Age: 15
+--------------------
+--------------------
+Name: Thomas Dewalt
+Height: 221
+Weight: 116
+Age: 97
+--------------------
+--------------------
+Name: Hank Tisler
+Height: 173
+Weight: 50
+Age: 32
+--------------------
+--------------------
+Name: Ike Miller
+Height: 168
+Weight: 115
+Age: 13
+--------------------
+--------------------
+Name: Steve Mills
+Height: 150
+Weight: 121
+Age: 82
+--------------------
+--------------------
+Name: Thomas Ebner
+Height: 203
+Weight: 78
+Age: 33
+--------------------
+--------------------
+Name: Roger Hydinger
+Height: 188
+Weight: 182
+Age: 78
+--------------------
+--------------------
+Name: Roger Wagle
+Height: 196
+Weight: 194
+Age: 20
+--------------------
+--------------------
+Name: George Schlicht
+Height: 197
+Weight: 120
+Age: 27
+--------------------
+--------------------
+Name: Frank Knutson
+Height: 142
+Weight: 141
+Age: 45
+--------------------
+--------------------
+Name: Adam Stahl
+Height: 189
+Weight: 189
+Age: 42
+--------------------
+--------------------
+Name: Paul Sandstrom
+Height: 202
+Weight: 120
+Age: 45
+--------------------
+--------------------
+Name: Carl Bateman
+Height: 199
+Weight: 157
+Age: 30
+--------------------
+--------------------
+Name: Roger Schutz
+Height: 160
+Weight: 169
+Age: 14
+--------------------
+--------------------
+Name: Aaron Yates
+Height: 182
+Weight: 84
+Age: 71
+--------------------
+--------------------
+Name: John Keller
+Height: 221
+Weight: 62
+Age: 31
+--------------------
+--------------------
+Name: Ike Vader
+Height: 153
+Weight: 76
+Age: 79
+--------------------
+--------------------
+Name: Edward Rogers
+Height: 146
+Weight: 104
+Age: 93
+--------------------
+--------------------
+Name: Carl Linde
+Height: 139
+Weight: 172
+Age: 68
+--------------------
+--------------------
+Name: Ike Cataldi
+Height: 218
+Weight: 160
+Age: 46
+--------------------
+--------------------
+Name: Monte Sellon
+Height: 149
+Weight: 112
+Age: 70
+--------------------
+--------------------
+Name: Ben Hylan
+Height: 145
+Weight: 149
+Age: 62
+--------------------
+--------------------
+Name: Mark Vanderpoel
+Height: 140
+Weight: 167
+Age: 96
+--------------------
+--------------------
+Name: Roger Ventotla
+Height: 137
+Weight: 105
+Age: 29
+--------------------
+--------------------
+Name: Roger Moody
+Height: 193
+Weight: 136
+Age: 93
+--------------------
+--------------------
+Name: Joe Knutson
+Height: 156
+Weight: 139
+Age: 66
+--------------------
+--------------------
+Name: Edward Norquist
+Height: 163
+Weight: 165
+Age: 17
+--------------------
+--------------------
+Name: Adam Kalleg
+Height: 196
+Weight: 85
+Age: 88
+--------------------
+--------------------
+Name: Nathan Dewalt
+Height: 191
+Weight: 47
+Age: 54
+--------------------
+--------------------
+Name: Larry Lawicki
+Height: 214
+Weight: 168
+Age: 70
+--------------------
+--------------------
+Name: Fred Ventotla
+Height: 229
+Weight: 144
+Age: 29
+--------------------
+--------------------
+Name: Tim Van Zandt
+Height: 205
+Weight: 172
+Age: 66
+--------------------
+--------------------
+Name: Joe Ingram
+Height: 148
+Weight: 156
+Age: 55
+--------------------
+--------------------
+Name: Otto Cast
+Height: 143
+Weight: 192
+Age: 93
+--------------------
+--------------------
+Name: Roger Kassing
+Height: 205
+Weight: 93
+Age: 45
+--------------------
+--------------------
+Name: Nathan Anderson
+Height: 183
+Weight: 198
+Age: 96
+--------------------
+--------------------
+Name: Dan Haworth
+Height: 194
+Weight: 146
+Age: 54
+--------------------
+--------------------
+Name: Hal Christensen
+Height: 136
+Weight: 52
+Age: 79
+--------------------
+--------------------
+Name: George Hylan
+Height: 160
+Weight: 58
+Age: 87
+--------------------
+--------------------
+Name: Monte Duffman
+Height: 179
+Weight: 156
+Age: 32
+--------------------
+--------------------
+Name: John Roberts
+Height: 169
+Weight: 99
+Age: 71
+--------------------
+--------------------
+Name: Hal Hydinger
+Height: 174
+Weight: 133
+Age: 61
+--------------------
+--------------------
+Name: Ben Uflan
+Height: 217
+Weight: 174
+Age: 90
+--------------------
+--------------------
+Name: Roger Schlicht
+Height: 162
+Weight: 203
+Age: 22
+--------------------
+--------------------
+Name: Ty Illingsworth
+Height: 221
+Weight: 169
+Age: 44
+--------------------
+--------------------
+Name: Jack Fletcher
+Height: 197
+Weight: 63
+Age: 93
+--------------------
+--------------------
+Name: Frank Hylan
+Height: 160
+Weight: 46
+Age: 90
+--------------------
+--------------------
+Name: Matthew Pettigrew
+Height: 138
+Weight: 64
+Age: 35
+--------------------
+--------------------
+Name: Aaron McGinnis
+Height: 195
+Weight: 154
+Age: 41
+--------------------
+--------------------
+Name: Roger Wagner
+Height: 184
+Weight: 146
+Age: 58
+--------------------
+--------------------
+Name: Dan Jagtap
+Height: 135
+Weight: 79
+Age: 56
+--------------------
+--------------------
+Name: Paul Duffman
+Height: 210
+Weight: 199
+Age: 63
+--------------------
+--------------------
+Name: Roger Ostrander
+Height: 156
+Weight: 102
+Age: 47
+--------------------
+--------------------
+Name: Peter Ortiz
+Height: 204
+Weight: 113
+Age: 76
+--------------------
+--------------------
+Name: Paul Ulrich
+Height: 132
+Weight: 156
+Age: 79
+--------------------
+--------------------
+Name: Victor Soloman
+Height: 211
+Weight: 59
+Age: 94
+--------------------
+--------------------
+Name: Tim Wagner
+Height: 139
+Weight: 107
+Age: 76
+--------------------
+--------------------
+Name: Hal Ferro
+Height: 202
+Weight: 168
+Age: 22
+--------------------
+--------------------
+Name: Ty Chapman
+Height: 143
+Weight: 71
+Age: 26
+--------------------
+--------------------
+Name: George Davis
+Height: 192
+Weight: 186
+Age: 65
+--------------------
+--------------------
+Name: Frank Reyes
+Height: 213
+Weight: 94
+Age: 50
+--------------------
+--------------------
+Name: Nathan Nuttle
+Height: 162
+Weight: 200
+Age: 89
+--------------------
+--------------------
+Name: Hal Myers
+Height: 165
+Weight: 68
+Age: 52
+--------------------
+--------------------
+Name: Victor Sweeney
+Height: 190
+Weight: 124
+Age: 20
+--------------------
+--------------------
+Name: Mark Johnson
+Height: 142
+Weight: 57
+Age: 42
+--------------------
+--------------------
+Name: Peter Trussel
+Height: 229
+Weight: 165
+Age: 38
+--------------------
+--------------------
+Name: Victor Ferro
+Height: 185
+Weight: 160
+Age: 27
+--------------------
+--------------------
+Name: Roger Johnson
+Height: 197
+Weight: 53
+Age: 38
+--------------------
+--------------------
+Name: Edward Reamer
+Height: 143
+Weight: 171
+Age: 92
+--------------------
+--------------------
+Name: Joe Jagtap
+Height: 149
+Weight: 84
+Age: 22
+--------------------
+--------------------
+Name: Ty Ferry
+Height: 141
+Weight: 123
+Age: 72
+--------------------
+--------------------
+Name: Joe Dewalt
+Height: 132
+Weight: 178
+Age: 27
+--------------------
+--------------------
+Name: Tim Bongard
+Height: 146
+Weight: 162
+Age: 83
+--------------------
+--------------------
+Name: Frank Resnick
+Height: 159
+Weight: 124
+Age: 50
+--------------------
+--------------------
+Name: Roger Maki
+Height: 197
+Weight: 201
+Age: 76
+--------------------
+--------------------
+Name: Aaron Sellon
+Height: 213
+Weight: 82
+Age: 80
+--------------------
+--------------------
+Name: Ben Vader
+Height: 153
+Weight: 60
+Age: 23
+--------------------
+--------------------
+Name: Ike Sellon
+Height: 139
+Weight: 60
+Age: 61
+--------------------
+--------------------
+Name: Carl Napier
+Height: 137
+Weight: 98
+Age: 97
+--------------------
+--------------------
+Name: Aaron Olson
+Height: 177
+Weight: 199
+Age: 53
+--------------------
+--------------------
+Name: Otto Severson
+Height: 196
+Weight: 94
+Age: 18
+--------------------
+--------------------
+Name: Fred Roberts
+Height: 213
+Weight: 137
+Age: 58
+--------------------
+--------------------
+Name: Steve Weinstein
+Height: 154
+Weight: 56
+Age: 68
+--------------------
+--------------------
+Name: Peter Keller
+Height: 195
+Weight: 46
+Age: 40
+--------------------
+--------------------
+Name: Hal Reardon
+Height: 220
+Weight: 166
+Age: 86
+--------------------
+--------------------
+Name: Steve Vail
+Height: 212
+Weight: 93
+Age: 76
+--------------------
+--------------------
+Name: Hal Anderson
+Height: 228
+Weight: 53
+Age: 73
+--------------------
+--------------------
+Name: Ben McGinnis
+Height: 229
+Weight: 108
+Age: 19
+--------------------
+--------------------
+Name: Hank Shaffer
+Height: 175
+Weight: 122
+Age: 53
+--------------------
+--------------------
+Name: Walter Ventotla
+Height: 177
+Weight: 192
+Age: 44
+--------------------
+--------------------
+Name: Steve Shaffer
+Height: 159
+Weight: 156
+Age: 22
+--------------------
+--------------------
+Name: Joe Cataldi
+Height: 183
+Weight: 171
+Age: 37
+--------------------
+--------------------
+Name: George Trebil
+Height: 131
+Weight: 175
+Age: 44
+--------------------
+--------------------
+Name: John DeLorenzo
+Height: 131
+Weight: 86
+Age: 70
+--------------------
+--------------------
+Name: John Sweeney
+Height: 218
+Weight: 83
+Age: 18
+--------------------
+--------------------
+Name: Fred Schlicht
+Height: 181
+Weight: 59
+Age: 96
+--------------------
+--------------------
+Name: Thomas Shaffer
+Height: 226
+Weight: 119
+Age: 39
+--------------------
+--------------------
+Name: Carl Haworth
+Height: 216
+Weight: 131
+Age: 25
+--------------------
+--------------------
+Name: Roger Schlicht
+Height: 217
+Weight: 188
+Age: 18
+--------------------
+--------------------
+Name: Dan Dewalt
+Height: 161
+Weight: 123
+Age: 31
+--------------------
+--------------------
+Name: George Darnell
+Height: 225
+Weight: 200
+Age: 35
+--------------------
+--------------------
+Name: Matthew Rogers
+Height: 164
+Weight: 125
+Age: 20
+--------------------
+--------------------
+Name: Tim McCormack
+Height: 183
+Weight: 74
+Age: 63
+--------------------
+--------------------
+Name: Paul Davis
+Height: 188
+Weight: 128
+Age: 33
+--------------------
+--------------------
+Name: Peter McGinnis
+Height: 213
+Weight: 124
+Age: 98
+--------------------
+--------------------
+Name: Thomas Anderson
+Height: 187
+Weight: 149
+Age: 64
+--------------------
+--------------------
+Name: Paul Trusela
+Height: 178
+Weight: 142
+Age: 48
+--------------------
+--------------------
+Name: Roger Wagle
+Height: 172
+Weight: 208
+Age: 63
+--------------------
+--------------------
+Name: Walter Ebner
+Height: 185
+Weight: 196
+Age: 55
+--------------------
+--------------------
+Name: Roger Bateman
+Height: 186
+Weight: 71
+Age: 50
+--------------------
+--------------------
+Name: Matthew Wagner
+Height: 188
+Weight: 205
+Age: 69
+--------------------
+--------------------
+Name: Adam Uflan
+Height: 210
+Weight: 132
+Age: 42
+--------------------
+--------------------
+Name: George Knutson
+Height: 138
+Weight: 190
+Age: 87
+--------------------
+--------------------
+Name: Carl Zeller
+Height: 151
+Weight: 209
+Age: 63
+--------------------
+--------------------
+Name: Otto Chambers
+Height: 142
+Weight: 187
+Age: 33
+--------------------
+--------------------
+Name: Aaron Davis
+Height: 226
+Weight: 198
+Age: 67
+--------------------
+--------------------
+Name: Ben Ramachandran
+Height: 216
+Weight: 173
+Age: 88
+--------------------
+--------------------
+Name: Monte Deitz
+Height: 201
+Weight: 81
+Age: 35
+--------------------
+--------------------
+Name: Matthew Maki
+Height: 204
+Weight: 204
+Age: 30
+--------------------
+--------------------
+Name: Roger Ferro
+Height: 177
+Weight: 155
+Age: 99
+--------------------
+--------------------
+Name: Hal Myers
+Height: 206
+Weight: 81
+Age: 49
+--------------------
+--------------------
+Name: Aaron Mills
+Height: 185
+Weight: 155
+Age: 81
+--------------------
+--------------------
+Name: Peter Vanderpoel
+Height: 146
+Weight: 58
+Age: 73
+--------------------
+--------------------
+Name: Edward Resnick
+Height: 170
+Weight: 63
+Age: 64
+--------------------
+--------------------
+Name: Hal Ulrich
+Height: 216
+Weight: 147
+Age: 75
+--------------------
+--------------------
+Name: Steve Kassing
+Height: 163
+Weight: 174
+Age: 32
+--------------------
+--------------------
+Name: Aaron Schutz
+Height: 155
+Weight: 199
+Age: 66
+--------------------
+--------------------
+Name: Tim Trussel
+Height: 162
+Weight: 99
+Age: 92
+--------------------
+--------------------
+Name: Monte Ziegler
+Height: 190
+Weight: 90
+Age: 51
+--------------------
+--------------------
+Name: Frank Chambers
+Height: 138
+Weight: 153
+Age: 92
+--------------------
+--------------------
+Name: Hal Chapman
+Height: 186
+Weight: 139
+Age: 28
+--------------------
+--------------------
+Name: Hank Ventotla
+Height: 211
+Weight: 81
+Age: 36
+--------------------
+--------------------
+Name: Thomas Haworth
+Height: 209
+Weight: 133
+Age: 44
+--------------------
+--------------------
+Name: Carl Ferry
+Height: 172
+Weight: 190
+Age: 83
+--------------------
+--------------------
+Name: Paul Thompson
+Height: 165
+Weight: 68
+Age: 29
+--------------------
+--------------------
+Name: Nathan Bauer
+Height: 148
+Weight: 83
+Age: 66
+--------------------
+--------------------
+Name: Frank Tapia
+Height: 177
+Weight: 168
+Age: 25
+--------------------
+--------------------
+Name: John Chapman
+Height: 177
+Weight: 168
+Age: 49
+--------------------
+--------------------
+Name: Hank McCormack
+Height: 154
+Weight: 192
+Age: 28
+--------------------
+--------------------
+Name: Mark Sonderling
+Height: 190
+Weight: 46
+Age: 62
+--------------------
+--------------------
+Name: Carl Davidson
+Height: 214
+Weight: 194
+Age: 90
+--------------------
+--------------------
+Name: Otto Lawicki
+Height: 192
+Weight: 159
+Age: 45
+--------------------
+--------------------
+Name: Hal McCormack
+Height: 177
+Weight: 63
+Age: 18
+--------------------
+--------------------
+Name: Walter Moore
+Height: 133
+Weight: 88
+Age: 16
+--------------------
+--------------------
+Name: Tim Jurgenson
+Height: 161
+Weight: 201
+Age: 58
+--------------------
+--------------------
+Name: Roger Doran
+Height: 208
+Weight: 173
+Age: 92
+--------------------
+--------------------
+Name: Larry Kaskel
+Height: 175
+Weight: 170
+Age: 69
+--------------------
+--------------------
+Name: Fred Casal
+Height: 173
+Weight: 123
+Age: 60
+--------------------
+--------------------
+Name: Joe Aikin
+Height: 153
+Weight: 103
+Age: 25
+--------------------
+--------------------
+Name: Ty Lewis
+Height: 205
+Weight: 182
+Age: 29
+--------------------
+--------------------
+Name: Ben Yocum
+Height: 167
+Weight: 198
+Age: 39
+--------------------
+--------------------
+Name: Victor McCormack
+Height: 213
+Weight: 102
+Age: 69
+--------------------
+--------------------
+Name: Alex Cast
+Height: 130
+Weight: 200
+Age: 56
+--------------------
+--------------------
+Name: Ben Kaskel
+Height: 192
+Weight: 60
+Age: 65
+--------------------
+--------------------
+Name: Ike Miller
+Height: 182
+Weight: 126
+Age: 90
+--------------------
+--------------------
+Name: Peter Soulis
+Height: 199
+Weight: 142
+Age: 18
+--------------------
+--------------------
+Name: Dan Tandy
+Height: 142
+Weight: 202
+Age: 94
+--------------------
+--------------------
+Name: Victor Ashwoon
+Height: 220
+Weight: 102
+Age: 75
+--------------------
+--------------------
+Name: Peter Davidson
+Height: 188
+Weight: 72
+Age: 55
+--------------------
+--------------------
+Name: Steve Moore
+Height: 223
+Weight: 59
+Age: 26
+--------------------
+--------------------
+Name: David Nugent
+Height: 162
+Weight: 171
+Age: 48
+--------------------
+--------------------
+Name: Frank Uflan
+Height: 174
+Weight: 196
+Age: 47
+--------------------
+--------------------
+Name: Ike Root
+Height: 161
+Weight: 103
+Age: 50
+--------------------
+--------------------
+Name: Dan Knutson
+Height: 190
+Weight: 151
+Age: 37
+--------------------
+--------------------
+Name: Fred LePage
+Height: 196
+Weight: 126
+Age: 17
+--------------------
+--------------------
+Name: Monte Nugent
+Height: 164
+Weight: 133
+Age: 15
+--------------------
+--------------------
+Name: Victor Jenson
+Height: 199
+Weight: 208
+Age: 22
+--------------------
+--------------------
+Name: Paul Miller
+Height: 141
+Weight: 88
+Age: 32
+--------------------
+--------------------
+Name: Thomas Lulloff
+Height: 219
+Weight: 173
+Age: 14
+--------------------
+--------------------
+Name: Thomas Shaffer
+Height: 192
+Weight: 177
+Age: 66
+--------------------
+--------------------
+Name: Hal Ashwoon
+Height: 167
+Weight: 81
+Age: 23
+--------------------
+--------------------
+Name: Aaron Wakefield
+Height: 133
+Weight: 82
+Age: 28
+--------------------
+--------------------
+Name: Fred Lawicki
+Height: 146
+Weight: 199
+Age: 49
+--------------------
+--------------------
+Name: Ben Dinkins
+Height: 152
+Weight: 153
+Age: 44
+--------------------
+--------------------
+Name: Joe McGinnis
+Height: 167
+Weight: 187
+Age: 58
+--------------------
+--------------------
+Name: Hank Uflan
+Height: 185
+Weight: 124
+Age: 78
+--------------------
+--------------------
+Name: Aaron Sagar
+Height: 216
+Weight: 90
+Age: 26
+--------------------
+--------------------
+Name: Paul Sellon
+Height: 148
+Weight: 142
+Age: 50
+--------------------
+--------------------
+Name: Alex Reamer
+Height: 172
+Weight: 113
+Age: 70
+--------------------
+--------------------
+Name: Peter Severson
+Height: 170
+Weight: 110
+Age: 32
+--------------------
+--------------------
+Name: John Dugelman
+Height: 179
+Weight: 99
+Age: 56
+--------------------
+--------------------
+Name: Jack Thompson
+Height: 209
+Weight: 78
+Age: 13
+--------------------
+--------------------
+Name: Walter Ferry
+Height: 168
+Weight: 206
+Age: 45
+--------------------
+--------------------
+Name: Otto Tisler
+Height: 133
+Weight: 128
+Age: 51
+--------------------
+--------------------
+Name: Peter Ulrich
+Height: 200
+Weight: 195
+Age: 68
+--------------------
+--------------------
+Name: Frank McCormack
+Height: 143
+Weight: 103
+Age: 51
+--------------------
+--------------------
+Name: Steve Lulloff
+Height: 208
+Weight: 152
+Age: 35
+--------------------
+--------------------
+Name: Dan Ashwoon
+Height: 159
+Weight: 155
+Age: 80
+--------------------
+--------------------
+Name: Mark Caswell
+Height: 206
+Weight: 188
+Age: 91
+--------------------
+--------------------
+Name: Jack Johnson
+Height: 184
+Weight: 99
+Age: 29
+--------------------
+--------------------
+Name: Ty Ramachandran
+Height: 194
+Weight: 105
+Age: 68
+--------------------
+--------------------
+Name: Carl Zeller
+Height: 183
+Weight: 62
+Age: 97
+--------------------
+--------------------
+Name: Monte Chambers
+Height: 161
+Weight: 122
+Age: 89
+--------------------
+--------------------
+Name: Jack Knutson
+Height: 223
+Weight: 103
+Age: 95
+--------------------
+--------------------
+Name: Monte Sellon
+Height: 224
+Weight: 124
+Age: 87
+--------------------
+--------------------
+Name: Jack Nugent
+Height: 212
+Weight: 162
+Age: 66
+--------------------
+--------------------
+Name: Alex Davis
+Height: 134
+Weight: 165
+Age: 64
+--------------------
+--------------------
+Name: Adam Duffman
+Height: 186
+Weight: 128
+Age: 65
+--------------------
+--------------------
+Name: Adam Uddin
+Height: 157
+Weight: 80
+Age: 77
+--------------------
+--------------------
+Name: Carl Woo
+Height: 210
+Weight: 119
+Age: 77
+--------------------
+--------------------
+Name: Aaron Yang
+Height: 155
+Weight: 79
+Age: 68
+--------------------
+--------------------
+Name: Larry Napier
+Height: 177
+Weight: 199
+Age: 99
+--------------------
+--------------------
+Name: Steve Reardon
+Height: 145
+Weight: 145
+Age: 63
+--------------------
+--------------------
+Name: Hank Schuster
+Height: 198
+Weight: 209
+Age: 20
+--------------------
+--------------------
+Name: Frank Myers
+Height: 221
+Weight: 51
+Age: 48
+--------------------
+--------------------
+Name: Matthew Uddin
+Height: 219
+Weight: 144
+Age: 63
+--------------------
+--------------------
+Name: Paul Maki
+Height: 160
+Weight: 198
+Age: 47
+--------------------
+--------------------
+Name: Mark Nuttle
+Height: 183
+Weight: 98
+Age: 33
+--------------------
+--------------------
+Name: George Duffman
+Height: 136
+Weight: 157
+Age: 75
+--------------------
+--------------------
+Name: Frank Linde
+Height: 186
+Weight: 192
+Age: 22
+--------------------
+--------------------
+Name: Adam Reyes
+Height: 136
+Weight: 206
+Age: 98
+--------------------
+--------------------
+Name: Aaron Dugelman
+Height: 178
+Weight: 170
+Age: 49
+--------------------
+--------------------
+Name: Mark Anderson
+Height: 204
+Weight: 60
+Age: 64
+--------------------
+--------------------
+Name: George Lawless
+Height: 217
+Weight: 192
+Age: 47
+--------------------
+--------------------
+Name: Tim Baxster
+Height: 143
+Weight: 199
+Age: 24
+--------------------
+--------------------
+Name: Ben Schuster
+Height: 176
+Weight: 173
+Age: 47
+--------------------
+--------------------
+Name: Carl Dugan
+Height: 199
+Weight: 164
+Age: 50
+--------------------
+--------------------
+Name: Thomas Jagtap
+Height: 219
+Weight: 182
+Age: 42
+--------------------
+--------------------
+Name: Aaron Ulrich
+Height: 177
+Weight: 131
+Age: 43
+--------------------
+--------------------
+Name: Jack Aikin
+Height: 211
+Weight: 46
+Age: 36
+--------------------
+--------------------
+Name: Aaron Severson
+Height: 148
+Weight: 117
+Age: 66
+--------------------
+--------------------
+Name: Victor Linde
+Height: 187
+Weight: 166
+Age: 86
+--------------------
+--------------------
+Name: Edward Tiernan
+Height: 163
+Weight: 96
+Age: 69
+--------------------
+--------------------
+Name: Mark Schiebel
+Height: 150
+Weight: 206
+Age: 45
+--------------------
+--------------------
+Name: Walter Hydinger
+Height: 188
+Weight: 77
+Age: 37
+--------------------
+--------------------
+Name: George Hancock
+Height: 216
+Weight: 114
+Age: 19
+--------------------
+--------------------
+Name: Aaron Ostrander
+Height: 214
+Weight: 50
+Age: 33
+--------------------
+--------------------
+Name: Steve Nugent
+Height: 134
+Weight: 126
+Age: 78
+--------------------
+--------------------
+Name: Aaron Hylan
+Height: 160
+Weight: 176
+Age: 52
+--------------------
+--------------------
+Name: Mark Vail
+Height: 223
+Weight: 196
+Age: 37
+--------------------
+--------------------
+Name: Nathan Wagle
+Height: 134
+Weight: 149
+Age: 51
+--------------------
+--------------------
+Name: Alex Frick
+Height: 215
+Weight: 89
+Age: 89
+--------------------
+--------------------
+Name: Adam Bongard
+Height: 140
+Weight: 127
+Age: 25
+--------------------
+--------------------
+Name: Victor Mccord
+Height: 214
+Weight: 145
+Age: 65
+--------------------
+--------------------
+Name: Hal Fletcher
+Height: 157
+Weight: 114
+Age: 84
+--------------------
+--------------------
+Name: Fred Wakefield
+Height: 144
+Weight: 162
+Age: 37
+--------------------
+--------------------
+Name: Roger Sonderling
+Height: 153
+Weight: 160
+Age: 32
+--------------------
+--------------------
+Name: Steve Irwin
+Height: 139
+Weight: 185
+Age: 86
+--------------------
+--------------------
+Name: George Chambers
+Height: 154
+Weight: 158
+Age: 41
+--------------------
+--------------------
+Name: Aaron Schwager
+Height: 192
+Weight: 188
+Age: 79
+--------------------
+--------------------
+Name: John Boyd
+Height: 146
+Weight: 208
+Age: 85
+--------------------
+--------------------
+Name: Roger Ingram
+Height: 201
+Weight: 76
+Age: 66
+--------------------
+--------------------
+Name: Hank Sagar
+Height: 220
+Weight: 101
+Age: 93
+--------------------
+--------------------
+Name: Ike Bauer
+Height: 184
+Weight: 138
+Age: 99
+--------------------
+--------------------
+Name: Roger Trussel
+Height: 157
+Weight: 100
+Age: 73
+--------------------
+--------------------
+Name: Hal Knutson
+Height: 145
+Weight: 75
+Age: 30
+--------------------
+--------------------
+Name: Hal Miller
+Height: 186
+Weight: 46
+Age: 92
+--------------------
+--------------------
+Name: Roger Boyd
+Height: 137
+Weight: 135
+Age: 60
+--------------------
+--------------------
+Name: Otto Schiebel
+Height: 150
+Weight: 188
+Age: 16
+--------------------
+--------------------
+Name: Peter Martin
+Height: 203
+Weight: 113
+Age: 92
+--------------------
+--------------------
+Name: Ty Eastman
+Height: 222
+Weight: 70
+Age: 66
+--------------------
+--------------------
+Name: Hank Dugelman
+Height: 132
+Weight: 75
+Age: 80
+--------------------
+--------------------
+Name: Peter Norquist
+Height: 226
+Weight: 64
+Age: 19
+--------------------
+--------------------
+Name: Thomas Uddin
+Height: 156
+Weight: 136
+Age: 52
+--------------------
+--------------------
+Name: Paul DeLorenzo
+Height: 173
+Weight: 90
+Age: 20
+--------------------
+--------------------
+Name: Nathan Nuttle
+Height: 194
+Weight: 100
+Age: 23
+--------------------
+--------------------
+Name: Victor Irwin
+Height: 139
+Weight: 65
+Age: 78
+--------------------
+--------------------
+Name: Hank Stahl
+Height: 141
+Weight: 95
+Age: 19
+--------------------
+--------------------
+Name: Roger Yang
+Height: 216
+Weight: 108
+Age: 93
+--------------------
+--------------------
+Name: Ty Zeaser
+Height: 174
+Weight: 195
+Age: 98
+--------------------
+--------------------
+Name: George Schmitt
+Height: 167
+Weight: 177
+Age: 37
+--------------------
+--------------------
+Name: Otto Davis
+Height: 205
+Weight: 103
+Age: 81
+--------------------
+--------------------
+Name: Ben Hoffman
+Height: 221
+Weight: 51
+Age: 90
+--------------------
+--------------------
+Name: Adam Vogal
+Height: 174
+Weight: 63
+Age: 95
+--------------------
+--------------------
+Name: Adam Nugent
+Height: 175
+Weight: 145
+Age: 77
+--------------------
+--------------------
+Name: Frank Van Zandt
+Height: 212
+Weight: 50
+Age: 97
+--------------------
+--------------------
+Name: Roger Miller
+Height: 198
+Weight: 107
+Age: 96
+--------------------
+--------------------
+Name: Aaron Paiser
+Height: 163
+Weight: 143
+Age: 43
+--------------------
+--------------------
+Name: Mark Fietzer
+Height: 208
+Weight: 82
+Age: 43
+--------------------
+--------------------
+Name: Matthew Moody
+Height: 218
+Weight: 201
+Age: 21
+--------------------
+--------------------
+Name: Aaron Turco
+Height: 132
+Weight: 112
+Age: 70
+--------------------
+--------------------
+Name: Thomas Upson
+Height: 212
+Weight: 121
+Age: 28
+--------------------
+--------------------
+Name: Fred Trusela
+Height: 175
+Weight: 98
+Age: 92
+--------------------
+--------------------
+Name: Monte Ostrander
+Height: 179
+Weight: 133
+Age: 27
+--------------------
+--------------------
+Name: Fred Van Zandt
+Height: 210
+Weight: 167
+Age: 47
+--------------------
+--------------------
+Name: Edward Uflan
+Height: 213
+Weight: 153
+Age: 92
+--------------------
+--------------------
+Name: Otto Reamer
+Height: 166
+Weight: 63
+Age: 89
+--------------------
+--------------------
+Name: Peter Bateman
+Height: 149
+Weight: 152
+Age: 62
+--------------------
+--------------------
+Name: John Kaskel
+Height: 134
+Weight: 142
+Age: 27
+--------------------
+--------------------
+Name: Dan Kalleg
+Height: 222
+Weight: 101
+Age: 70
+--------------------
+--------------------
+Name: John Moore
+Height: 149
+Weight: 132
+Age: 40
+--------------------
+--------------------
+Name: Aaron Maki
+Height: 183
+Weight: 56
+Age: 77
+--------------------
+--------------------
+Name: Dan Dewalt
+Height: 150
+Weight: 165
+Age: 44
+--------------------
+--------------------
+Name: Steve Aikin
+Height: 197
+Weight: 142
+Age: 72
+--------------------
+--------------------
+Name: Mark Dewalt
+Height: 188
+Weight: 98
+Age: 60
+--------------------
+--------------------
+Name: Monte Schuster
+Height: 197
+Weight: 99
+Age: 22
+--------------------
+--------------------
+Name: Otto Upson
+Height: 192
+Weight: 109
+Age: 14
+--------------------
+--------------------
+Name: David Turco
+Height: 149
+Weight: 108
+Age: 97
+--------------------
+--------------------
+Name: Steve Duffman
+Height: 146
+Weight: 78
+Age: 39
+--------------------
+--------------------
+Name: Thomas Reyes
+Height: 202
+Weight: 138
+Age: 22
+--------------------
+--------------------
+Name: Hank Bateman
+Height: 153
+Weight: 174
+Age: 96
+--------------------
+--------------------
+Name: Joe Johnson
+Height: 131
+Weight: 169
+Age: 51
+--------------------
+--------------------
+Name: Ike Ory
+Height: 192
+Weight: 139
+Age: 24
+--------------------
+--------------------
+Name: John Schlicht
+Height: 145
+Weight: 132
+Age: 16
+--------------------
+--------------------
+Name: Ben Kaskel
+Height: 209
+Weight: 72
+Age: 77
+--------------------
+--------------------
+Name: Mark Sellon
+Height: 221
+Weight: 178
+Age: 69
+--------------------
+--------------------
+Name: Ike Dugelman
+Height: 162
+Weight: 206
+Age: 17
+--------------------
+--------------------
+Name: Fred Yates
+Height: 218
+Weight: 188
+Age: 73
+--------------------
+--------------------
+Name: Otto Ventotla
+Height: 197
+Weight: 166
+Age: 19
+--------------------
+--------------------
+Name: Hal Jones
+Height: 159
+Weight: 173
+Age: 24
+--------------------
+--------------------
+Name: Tim Van Zandt
+Height: 200
+Weight: 144
+Age: 68
+--------------------
+--------------------
+Name: Steve Martin
+Height: 209
+Weight: 107
+Age: 39
+--------------------
+--------------------
+Name: Roger Upson
+Height: 176
+Weight: 167
+Age: 27
+--------------------
+--------------------
+Name: David Wagner
+Height: 196
+Weight: 96
+Age: 32
+--------------------
+--------------------
+Name: Larry Root
+Height: 218
+Weight: 149
+Age: 54
+--------------------
+--------------------
+Name: Ike Schuster
+Height: 181
+Weight: 78
+Age: 70
+--------------------
+--------------------
+Name: Carl Kalleg
+Height: 149
+Weight: 117
+Age: 25
+--------------------
+--------------------
+Name: George Davidson
+Height: 177
+Weight: 185
+Age: 43
+--------------------
+--------------------
+Name: Roger Rogers
+Height: 158
+Weight: 68
+Age: 41
+--------------------
+--------------------
+Name: Paul Tisler
+Height: 161
+Weight: 186
+Age: 41
+--------------------
+--------------------
+Name: John Sagar
+Height: 195
+Weight: 91
+Age: 30
+--------------------
+--------------------
+Name: Hank Johnsen
+Height: 209
+Weight: 127
+Age: 23
+--------------------
+--------------------
+Name: Ben Trusela
+Height: 220
+Weight: 160
+Age: 34
+--------------------
+--------------------
+Name: Jack Wagle
+Height: 171
+Weight: 145
+Age: 25
+--------------------
+--------------------
+Name: Victor Uddin
+Height: 170
+Weight: 200
+Age: 17
+--------------------
+--------------------
+Name: George Tisler
+Height: 171
+Weight: 154
+Age: 30
+--------------------
+--------------------
+Name: John Reardon
+Height: 193
+Weight: 94
+Age: 90
+--------------------
+--------------------
+Name: Matthew Yocum
+Height: 188
+Weight: 209
+Age: 30
+--------------------
+--------------------
+Name: Jack Wakefield
+Height: 195
+Weight: 88
+Age: 89
+--------------------
+--------------------
+Name: Dan Jurgenson
+Height: 147
+Weight: 138
+Age: 24
+--------------------
+--------------------
+Name: Victor Sagar
+Height: 134
+Weight: 176
+Age: 42
+--------------------
+--------------------
+Name: Walter Weinstein
+Height: 189
+Weight: 208
+Age: 50
+--------------------
+--------------------
+Name: Otto Chambers
+Height: 220
+Weight: 94
+Age: 46
+--------------------
+--------------------
+Name: Larry Shaffer
+Height: 146
+Weight: 200
+Age: 49
+--------------------
+--------------------
+Name: Walter McCormack
+Height: 135
+Weight: 59
+Age: 98
+--------------------
+--------------------
+Name: Roger Napier
+Height: 190
+Weight: 71
+Age: 74
+--------------------
+--------------------
+Name: Paul Doran
+Height: 226
+Weight: 186
+Age: 53
+--------------------
+--------------------
+Name: Edward Tandy
+Height: 185
+Weight: 113
+Age: 20
+--------------------
+--------------------
+Name: Nathan Chapman
+Height: 165
+Weight: 161
+Age: 62
+--------------------
+--------------------
+Name: Ike Wakefield
+Height: 148
+Weight: 62
+Age: 34
+--------------------
+--------------------
+Name: Otto Ory
+Height: 149
+Weight: 170
+Age: 70
+--------------------
+--------------------
+Name: Hank Caswell
+Height: 166
+Weight: 146
+Age: 52
+--------------------
+--------------------
+Name: Alex Yang
+Height: 212
+Weight: 106
+Age: 90
+--------------------
+--------------------
+Name: George Fietzer
+Height: 224
+Weight: 136
+Age: 60
+--------------------
+--------------------
+Name: Hal Anderson
+Height: 196
+Weight: 122
+Age: 96
+--------------------
+--------------------
+Name: Mark Linde
+Height: 188
+Weight: 102
+Age: 34
+--------------------
+--------------------
+Name: Alex Kaskel
+Height: 205
+Weight: 110
+Age: 76
+--------------------
+--------------------
+Name: Joe Haworth
+Height: 135
+Weight: 171
+Age: 18
+--------------------
+--------------------
+Name: Nathan Chambers
+Height: 171
+Weight: 183
+Age: 29
+--------------------
+--------------------
+Name: Alex Uflan
+Height: 142
+Weight: 89
+Age: 15
+--------------------
+--------------------
+Name: Nathan Sonderling
+Height: 191
+Weight: 99
+Age: 97
+--------------------
+--------------------
+Name: Larry Woo
+Height: 163
+Weight: 119
+Age: 72
+--------------------
+--------------------
+Name: Edward Quinn
+Height: 181
+Weight: 88
+Age: 29
+--------------------
+--------------------
+Name: Dan Darnell
+Height: 156
+Weight: 54
+Age: 24
+--------------------
+--------------------
+Name: Alex Reamer
+Height: 193
+Weight: 119
+Age: 58
+--------------------
+--------------------
+Name: David Duffman
+Height: 155
+Weight: 174
+Age: 14
+--------------------
+--------------------
+Name: George Aikin
+Height: 130
+Weight: 137
+Age: 88
+--------------------
+--------------------
+Name: Tim Jurgenson
+Height: 140
+Weight: 97
+Age: 40
+--------------------
+--------------------
+Name: Tim Schickowski
+Height: 137
+Weight: 81
+Age: 37
+--------------------
+--------------------
+Name: Fred Wagner
+Height: 212
+Weight: 201
+Age: 62
+--------------------
+--------------------
+Name: Paul Deitz
+Height: 221
+Weight: 185
+Age: 56
+--------------------
+--------------------
+Name: Aaron Martin
+Height: 162
+Weight: 138
+Age: 97
+--------------------
+--------------------
+Name: Alex Sonderling
+Height: 215
+Weight: 133
+Age: 41
+--------------------
+--------------------
+Name: Walter Bowers
+Height: 195
+Weight: 161
+Age: 86
+--------------------
+--------------------
+Name: Jack Wakefield
+Height: 229
+Weight: 205
+Age: 91
+--------------------
+--------------------
+Name: Hal Van Zandt
+Height: 183
+Weight: 208
+Age: 81
+--------------------
+--------------------
+Name: Ty Haworth
+Height: 201
+Weight: 67
+Age: 52
+--------------------
+--------------------
+Name: Otto Dugan
+Height: 205
+Weight: 64
+Age: 97
+--------------------
+--------------------
+Name: Matthew Napier
+Height: 188
+Weight: 125
+Age: 57
+--------------------
+--------------------
+Name: George Turco
+Height: 204
+Weight: 88
+Age: 23
+--------------------
+--------------------
+Name: Peter Wagner
+Height: 213
+Weight: 45
+Age: 50
+--------------------
+--------------------
+Name: George Bauer
+Height: 154
+Weight: 95
+Age: 14
+--------------------
+--------------------
+Name: Fred Illingsworth
+Height: 176
+Weight: 119
+Age: 36
+--------------------
+--------------------
+Name: Carl Cannon
+Height: 184
+Weight: 85
+Age: 36
+--------------------
+--------------------
+Name: David Ferry
+Height: 144
+Weight: 199
+Age: 70
+--------------------
+--------------------
+Name: Carl LePage
+Height: 177
+Weight: 202
+Age: 42
+--------------------
+--------------------
+Name: Edward Sonderling
+Height: 199
+Weight: 128
+Age: 71
+--------------------
+--------------------
+Name: Victor Valente
+Height: 191
+Weight: 97
+Age: 95
+--------------------
+--------------------
+Name: Dan Ingram
+Height: 206
+Weight: 162
+Age: 46
+--------------------
+--------------------
+Name: Carl Ingram
+Height: 151
+Weight: 87
+Age: 13
+--------------------
+--------------------
+Name: David Van Zandt
+Height: 165
+Weight: 161
+Age: 64
+--------------------
+--------------------
+Name: Peter Lulloff
+Height: 223
+Weight: 51
+Age: 93
+--------------------
+--------------------
+Name: George Reamer
+Height: 206
+Weight: 140
+Age: 45
+--------------------
+--------------------
+Name: Paul Doran
+Height: 182
+Weight: 109
+Age: 17
+--------------------
+--------------------
+Name: Hank Schlicht
+Height: 180
+Weight: 178
+Age: 52
+--------------------
+--------------------
+Name: Fred Schlicht
+Height: 217
+Weight: 203
+Age: 19
+--------------------
+--------------------
+Name: Adam Weiss
+Height: 220
+Weight: 138
+Age: 57
+--------------------
+--------------------
+Name: Mark Ulrich
+Height: 171
+Weight: 132
+Age: 20
+--------------------
+--------------------
+Name: Fred Ramachandran
+Height: 196
+Weight: 94
+Age: 54
+--------------------
+--------------------
+Name: Alex Tapia
+Height: 156
+Weight: 148
+Age: 14
+--------------------
+--------------------
+Name: Fred Stahl
+Height: 219
+Weight: 139
+Age: 27
+--------------------
+--------------------
+Name: Ike Wakefield
+Height: 205
+Weight: 109
+Age: 16
+--------------------
+--------------------
+Name: Otto Trusela
+Height: 139
+Weight: 142
+Age: 52
+--------------------
+--------------------
+Name: Paul Turco
+Height: 195
+Weight: 130
+Age: 18
+--------------------
+--------------------
+Name: Jack Rogers
+Height: 194
+Weight: 130
+Age: 79
+--------------------
+--------------------
+Name: Carl Bongard
+Height: 132
+Weight: 134
+Age: 57
+--------------------
+--------------------
+Name: Hank Olson
+Height: 195
+Weight: 74
+Age: 70
+--------------------
+--------------------
+Name: Larry Trebil
+Height: 132
+Weight: 181
+Age: 83
+--------------------
+--------------------
+Name: Ty Yang
+Height: 159
+Weight: 84
+Age: 82
+--------------------

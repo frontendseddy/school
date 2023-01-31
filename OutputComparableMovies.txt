@@ -1,0 +1,1857 @@
+------
+Name: Youngblood; 
+Year: 1986; 
+Rating: 9.6/10
+ ------
+Name: Working Girl; 
+Year: 1988; 
+Rating: 7.5/10
+ ------
+Name: Winter's Bone; 
+Year: 2010; 
+Rating: 5.7/10
+ ------
+Name: Wild at Heart; 
+Year: 1990; 
+Rating: 3.0/10
+ ------
+Name: Wild; 
+Year: 2014; 
+Rating: 5.1/10
+ ------
+Name: Wicker Park; 
+Year: 2004; 
+Rating: 4.6/10
+ ------
+Name: Who Framed Roger Rabbit; 
+Year: 1988; 
+Rating: 5.8/10
+ ------
+Name: White Oleander; 
+Year: 2002; 
+Rating: 6.0/10
+ ------
+Name: Whiplash; 
+Year: 2014; 
+Rating: 8.6/10
+ ------
+Name: What's Eating Gilbert Grape; 
+Year: 1993; 
+Rating: 6.0/10
+ ------
+Name: What Ever Happened to Baby Jane?; 
+Year: 1962; 
+Rating: 1.9/10
+ ------
+Name: What Dreams May Come; 
+Year: 1998; 
+Rating: 3.4/10
+ ------
+Name: Welcome Home Roxy Carmichael; 
+Year: 1990; 
+Rating: 9.3/10
+ ------
+Name: Water for Elephants; 
+Year: 2011; 
+Rating: 3.4/10
+ ------
+Name: Wanted; 
+Year: 2008; 
+Rating: 7.0/10
+ ------
+Name: Walk the Line; 
+Year: 2005; 
+Rating: 5.7/10
+ ------
+Name: Volver; 
+Year: 2006; 
+Rating: 9.7/10
+ ------
+Name: Vicky Cristina Barcelona; 
+Year: 2008; 
+Rating: 4.8/10
+ ------
+Name: Vanity Fair; 
+Year: 2004; 
+Rating: 2.7/10
+ ------
+Name: Vanilla Sky; 
+Year: 2001; 
+Rating: 3.4/10
+ ------
+Name: V for Vendetta; 
+Year: 2007; 
+Rating: 8.4/10
+ ------
+Name: Uptown Girls; 
+Year: 2003; 
+Rating: 8.4/10
+ ------
+Name: Unfaithful; 
+Year: 2002; 
+Rating: 5.9/10
+ ------
+Name: U Turn; 
+Year: 1997; 
+Rating: 7.7/10
+ ------
+Name: Twilight; 
+Year: 2008; 
+Rating: 4.4/10
+ ------
+Name: Twelve Monkeys; 
+Year: 1995; 
+Rating: 1.5/10
+ ------
+Name: True Romance; 
+Year: 1993; 
+Rating: 9.0/10
+ ------
+Name: Trouble With the Curve; 
+Year: 2012; 
+Rating: 5.4/10
+ ------
+Name: Transamerica; 
+Year: 2005; 
+Rating: 7.7/10
+ ------
+Name: Trainspotting; 
+Year: 1996; 
+Rating: 5.9/10
+ ------
+Name: Traffic; 
+Year: 2000; 
+Rating: 6.2/10
+ ------
+Name: Top Gun; 
+Year: 1986; 
+Rating: 5.4/10
+ ------
+Name: Tootsie; 
+Year: 1982; 
+Rating: 3.5/10
+ ------
+Name: Too Young to Die?; 
+Year: 1990; 
+Rating: 9.2/10
+ ------
+Name: Tomorrowland; 
+Year: 2015; 
+Rating: 2.2/10
+ ------
+Name: Titanic; 
+Year: 1997; 
+Rating: 9.6/10
+ ------
+Name: This Is the End; 
+Year: 2013; 
+Rating: 8.0/10
+ ------
+Name: This Is Spinal Tap; 
+Year: 1984; 
+Rating: 1.8/10
+ ------
+Name: This Boy'S Life; 
+Year: 1993; 
+Rating: 3.5/10
+ ------
+Name: Thirteen; 
+Year: 2003; 
+Rating: 8.2/10
+ ------
+Name: There's Something About Mary; 
+Year: 1998; 
+Rating: 7.4/10
+ ------
+Name: Thelma & Louise; 
+Year: 1991; 
+Rating: 6.2/10
+ ------
+Name: The grades.Reader; 
+Year: 2008; 
+Rating: 4.0/10
+ ------
+Name: The grades.Book of Eli; 
+Year: 2010; 
+Rating: 6.6/10
+ ------
+Name: The Wrestler; 
+Year: 2008; 
+Rating: 9.9/10
+ ------
+Name: The Wolf of Wall Street; 
+Year: 2013; 
+Rating: 2.4/10
+ ------
+Name: The Witches of Eastwick; 
+Year: 1987; 
+Rating: 4.0/10
+ ------
+Name: The Vow; 
+Year: 2012; 
+Rating: 2.3/10
+ ------
+Name: The Virgin Suicides; 
+Year: 1999; 
+Rating: 8.9/10
+ ------
+Name: The Truman Show; 
+Year: 1998; 
+Rating: 5.3/10
+ ------
+Name: The Tree of Life; 
+Year: 2011; 
+Rating: 2.8/10
+ ------
+Name: The Town; 
+Year: 2010; 
+Rating: 2.9/10
+ ------
+Name: The Tourist; 
+Year: 2010; 
+Rating: 6.5/10
+ ------
+Name: The Thing; 
+Year: 1982; 
+Rating: 9.7/10
+ ------
+Name: The Theory of Everything; 
+Year: 2014; 
+Rating: 4.2/10
+ ------
+Name: The Terminal; 
+Year: 2004; 
+Rating: 7.6/10
+ ------
+Name: The Talented Mr. Ripley; 
+Year: 1999; 
+Rating: 5.6/10
+ ------
+Name: The Social Network; 
+Year: 2010; 
+Rating: 6.6/10
+ ------
+Name: The Sixth Sense; 
+Year: 1999; 
+Rating: 4.9/10
+ ------
+Name: The Silence of the Lambs; 
+Year: 1991; 
+Rating: 6.9/10
+ ------
+Name: The Shining; 
+Year: 1980; 
+Rating: 2.7/10
+ ------
+Name: The Shawshank Redemption; 
+Year: 1994; 
+Rating: 2.6/10
+ ------
+Name: The Royal Tenenbaums; 
+Year: 2001; 
+Rating: 3.9/10
+ ------
+Name: The Road; 
+Year: 2009; 
+Rating: 4.3/10
+ ------
+Name: The Pursuit of Happyness; 
+Year: 2006; 
+Rating: 1.7/10
+ ------
+Name: The Prestige; 
+Year: 2006; 
+Rating: 4.5/10
+ ------
+Name: The Place Beyond the Pines; 
+Year: 2013; 
+Rating: 7.9/10
+ ------
+Name: The Others; 
+Year: 2001; 
+Rating: 8.8/10
+ ------
+Name: The Other Boleyn Girl; 
+Year: 2008; 
+Rating: 9.1/10
+ ------
+Name: The Notebook; 
+Year: 2004; 
+Rating: 4.1/10
+ ------
+Name: The Neverending Story; 
+Year: 1984; 
+Rating: 1.9/10
+ ------
+Name: The Martian; 
+Year: 2015; 
+Rating: 8.0/10
+ ------
+Name: The Magdalene Sisters; 
+Year: 2002; 
+Rating: 2.6/10
+ ------
+Name: The Machinist; 
+Year: 2004; 
+Rating: 4.2/10
+ ------
+Name: The Lord of the Rings: The Two Towers; 
+Year: 2002; 
+Rating: 11.0/10
+ ------
+Name: The Lord of the Rings: The Return of the King; 
+Year: 2003; 
+Rating: 11.0/10
+ ------
+Name: The Lord of the Rings: The Fellowship of the Ring; 
+Year: 2001; 
+Rating: 11.0/10
+ ------
+Name: The Life Aquatic With Steve Zissou; 
+Year: 2004; 
+Rating: 2.2/10
+ ------
+Name: The Killer Inside Me; 
+Year: 2010; 
+Rating: 2.5/10
+ ------
+Name: The Juror; 
+Year: 1996; 
+Rating: 2.3/10
+ ------
+Name: The Joneses; 
+Year: 2009; 
+Rating: 2.7/10
+ ------
+Name: The Island; 
+Year: 2005; 
+Rating: 6.6/10
+ ------
+Name: The Intern; 
+Year: 2015; 
+Rating: 6.6/10
+ ------
+Name: The Informers; 
+Year: 2008; 
+Rating: 8.1/10
+ ------
+Name: The Imitation Game; 
+Year: 2014; 
+Rating: 9.1/10
+ ------
+Name: The Illusionist; 
+Year: 2006; 
+Rating: 4.6/10
+ ------
+Name: The Iceman; 
+Year: 2012; 
+Rating: 4.5/10
+ ------
+Name: The Ice Storm; 
+Year: 1997; 
+Rating: 8.9/10
+ ------
+Name: The Hunger Games; 
+Year: 2012; 
+Rating: 7.0/10
+ ------
+Name: The House of the Spirits; 
+Year: 1993; 
+Rating: 6.7/10
+ ------
+Name: The Hangover; 
+Year: 2009; 
+Rating: 7.0/10
+ ------
+Name: The Green Mile; 
+Year: 1999; 
+Rating: 8.3/10
+ ------
+Name: The Greatest; 
+Year: 2009; 
+Rating: 2.2/10
+ ------
+Name: The Grand Budapest Hotel; 
+Year: 2014; 
+Rating: 5.8/10
+ ------
+Name: The Graduate; 
+Year: 1967; 
+Rating: 3.5/10
+ ------
+Name: The Girl With the Dragon Tattoo; 
+Year: 2011; 
+Rating: 1.9/10
+ ------
+Name: The Game; 
+Year: 1997; 
+Rating: 7.4/10
+ ------
+Name: The Fighter; 
+Year: 2010; 
+Rating: 4.8/10
+ ------
+Name: The Family Stone; 
+Year: 2005; 
+Rating: 1.8/10
+ ------
+Name: The Faculty; 
+Year: 1998; 
+Rating: 6.2/10
+ ------
+Name: The Equalizer; 
+Year: 2014; 
+Rating: 4.4/10
+ ------
+Name: The English Patient; 
+Year: 1996; 
+Rating: 7.6/10
+ ------
+Name: The Elephant Man; 
+Year: 1980; 
+Rating: 1.5/10
+ ------
+Name: The Doors; 
+Year: 1991; 
+Rating: 8.7/10
+ ------
+Name: The Devil's Advocate; 
+Year: 1997; 
+Rating: 9.0/10
+ ------
+Name: The Devil Wears Prada; 
+Year: 2006; 
+Rating: 7.0/10
+ ------
+Name: The Descendants; 
+Year: 2011; 
+Rating: 7.0/10
+ ------
+Name: The Deep End of the Ocean; 
+Year: 1999; 
+Rating: 7.2/10
+ ------
+Name: The Dark Knight Rises; 
+Year: 2012; 
+Rating: 3.2/10
+ ------
+Name: The Dark Knight; 
+Year: 2008; 
+Rating: 2.7/10
+ ------
+Name: The Curious Case of Benjamin Button; 
+Year: 2008; 
+Rating: 7.9/10
+ ------
+Name: The Crush; 
+Year: 1993; 
+Rating: 1.5/10
+ ------
+Name: The Color Purple; 
+Year: 1985; 
+Rating: 6.8/10
+ ------
+Name: The Client; 
+Year: 1994; 
+Rating: 2.6/10
+ ------
+Name: The Burning Plain; 
+Year: 2008; 
+Rating: 2.5/10
+ ------
+Name: The Breakfast Club; 
+Year: 1985; 
+Rating: 8.5/10
+ ------
+Name: The Break Up; 
+Year: 2006; 
+Rating: 9.8/10
+ ------
+Name: The Box; 
+Year: 2009; 
+Rating: 9.1/10
+ ------
+Name: The Bone Collector; 
+Year: 1999; 
+Rating: 6.6/10
+ ------
+Name: The Bodyguard; 
+Year: 1992; 
+Rating: 5.0/10
+ ------
+Name: The Blue Lagoon; 
+Year: 1980; 
+Rating: 5.9/10
+ ------
+Name: The Blind Side; 
+Year: 2009; 
+Rating: 5.3/10
+ ------
+Name: The Birds; 
+Year: 1963; 
+Rating: 7.0/10
+ ------
+Name: The Big Lebowski; 
+Year: 1998; 
+Rating: 4.3/10
+ ------
+Name: The Believer; 
+Year: 2001; 
+Rating: 5.3/10
+ ------
+Name: The Astronaut's Wife; 
+Year: 1999; 
+Rating: 9.2/10
+ ------
+Name: The Associate; 
+Year: 1996; 
+Rating: 6.6/10
+ ------
+Name: The Artist; 
+Year: 2011; 
+Rating: 4.7/10
+ ------
+Name: The Age of Innocence; 
+Year: 1993; 
+Rating: 4.2/10
+ ------
+Name: The Addams Family; 
+Year: 1991; 
+Rating: 2.3/10
+ ------
+Name: The Accused; 
+Year: 1988; 
+Rating: 9.7/10
+ ------
+Name: Terminator; 
+Year: 1984; 
+Rating: 7.5/10
+ ------
+Name: Ted; 
+Year: 2012; 
+Rating: 5.6/10
+ ------
+Name: Taxi Driver; 
+Year: 1976; 
+Rating: 7.9/10
+ ------
+Name: Tank Girl; 
+Year: 1995; 
+Rating: 6.7/10
+ ------
+Name: Taking Lives; 
+Year: 2004; 
+Rating: 5.6/10
+ ------
+Name: Taken; 
+Year: 2008; 
+Rating: 6.3/10
+ ------
+Name: Take This Waltz; 
+Year: 2011; 
+Rating: 9.3/10
+ ------
+Name: Sweet November; 
+Year: 2001; 
+Rating: 5.1/10
+ ------
+Name: Superbad; 
+Year: 2007; 
+Rating: 9.6/10
+ ------
+Name: Still Alice; 
+Year: 2014; 
+Rating: 7.5/10
+ ------
+Name: Stigmata; 
+Year: 1999; 
+Rating: 9.7/10
+ ------
+Name: Steel Magnolias; 
+Year: 1989; 
+Rating: 2.7/10
+ ------
+Name: Stealing Beauty; 
+Year: 1996; 
+Rating: 5.2/10
+ ------
+Name: Star Wars; 
+Year: 1977; 
+Rating: 9.5/10
+ ------
+Name: Stand by Me; 
+Year: 1986; 
+Rating: 6.6/10
+ ------
+Name: Squatters; 
+Year: 2014; 
+Rating: 9.0/10
+ ------
+Name: Spun; 
+Year: 2002; 
+Rating: 5.3/10
+ ------
+Name: Spread; 
+Year: 2009; 
+Rating: 8.2/10
+ ------
+Name: Splash; 
+Year: 1984; 
+Rating: 3.3/10
+ ------
+Name: Speed; 
+Year: 1994; 
+Rating: 3.0/10
+ ------
+Name: Southpaw; 
+Year: 2015; 
+Rating: 6.7/10
+ ------
+Name: Some Like It Hot; 
+Year: 1959; 
+Rating: 6.8/10
+ ------
+Name: Slumdog Millionaire; 
+Year: 2008; 
+Rating: 8.2/10
+ ------
+Name: Sleepy Hollow; 
+Year: 1999; 
+Rating: 9.3/10
+ ------
+Name: Sleepless in Seattle; 
+Year: 1993; 
+Rating: 6.8/10
+ ------
+Name: Sleepers; 
+Year: 1996; 
+Rating: 5.1/10
+ ------
+Name: Sixteen Candles; 
+Year: 1984; 
+Rating: 6.0/10
+ ------
+Name: Sister Act; 
+Year: 1992; 
+Rating: 8.3/10
+ ------
+Name: Sin City; 
+Year: 2005; 
+Rating: 7.6/10
+ ------
+Name: Simone; 
+Year: 2002; 
+Rating: 3.9/10
+ ------
+Name: Silver Linings Playbook; 
+Year: 2012; 
+Rating: 4.8/10
+ ------
+Name: Sideways; 
+Year: 2004; 
+Rating: 7.6/10
+ ------
+Name: Shutter Island; 
+Year: 2010; 
+Rating: 3.7/10
+ ------
+Name: She's the One; 
+Year: 1996; 
+Rating: 5.2/10
+ ------
+Name: Shaun of the Dead; 
+Year: 2004; 
+Rating: 2.7/10
+ ------
+Name: Shame; 
+Year: 2011; 
+Rating: 6.1/10
+ ------
+Name: Sex Lies and Videotape; 
+Year: 1989; 
+Rating: 2.1/10
+ ------
+Name: Seven; 
+Year: 1995; 
+Rating: 9.8/10
+ ------
+Name: Secretary; 
+Year: 2002; 
+Rating: 2.4/10
+ ------
+Name: Secret Window; 
+Year: 2004; 
+Rating: 3.1/10
+ ------
+Name: Scream; 
+Year: 1996; 
+Rating: 3.3/10
+ ------
+Name: Scoop; 
+Year: 2006; 
+Rating: 8.6/10
+ ------
+Name: Schindler's List; 
+Year: 1993; 
+Rating: 2.3/10
+ ------
+Name: Scent of a Woman; 
+Year: 1992; 
+Rating: 6.6/10
+ ------
+Name: Scarface; 
+Year: 1983; 
+Rating: 8.1/10
+ ------
+Name: Saving Private Ryan; 
+Year: 1998; 
+Rating: 3.3/10
+ ------
+Name: Salt; 
+Year: 2010; 
+Rating: 4.1/10
+ ------
+Name: Rounders; 
+Year: 1998; 
+Rating: 2.5/10
+ ------
+Name: Rosemary's Baby; 
+Year: 1968; 
+Rating: 5.1/10
+ ------
+Name: Roman Holiday; 
+Year: 1953; 
+Rating: 3.9/10
+ ------
+Name: Rocky; 
+Year: 1976; 
+Rating: 9.1/10
+ ------
+Name: Riding in Cars With Boys; 
+Year: 2001; 
+Rating: 7.1/10
+ ------
+Name: Revolutionary Road; 
+Year: 2008; 
+Rating: 5.1/10
+ ------
+Name: Reservoir Dogs; 
+Year: 1992; 
+Rating: 9.2/10
+ ------
+Name: Requiem for a Dream; 
+Year: 2000; 
+Rating: 7.2/10
+ ------
+Name: Remember Me; 
+Year: 2010; 
+Rating: 7.0/10
+ ------
+Name: Reality Bites; 
+Year: 1994; 
+Rating: 2.6/10
+ ------
+Name: Pulp Fiction; 
+Year: 1994; 
+Rating: 6.3/10
+ ------
+Name: Public Enemies; 
+Year: 2009; 
+Rating: 2.9/10
+ ------
+Name: Private Benjamin; 
+Year: 1980; 
+Rating: 4.5/10
+ ------
+Name: Prime; 
+Year: 2005; 
+Rating: 6.6/10
+ ------
+Name: Pretty Woman; 
+Year: 1990; 
+Rating: 3.8/10
+ ------
+Name: Precious; 
+Year: 2009; 
+Rating: 7.9/10
+ ------
+Name: Poison Ivy; 
+Year: 1992; 
+Rating: 3.1/10
+ ------
+Name: Point Break; 
+Year: 1991; 
+Rating: 5.8/10
+ ------
+Name: Pleasantville; 
+Year: 1998; 
+Rating: 7.8/10
+ ------
+Name: Playing God; 
+Year: 1997; 
+Rating: 5.0/10
+ ------
+Name: Pirates of the Caribbean: The Curse of the Black Pearl; 
+Year: 2003; 
+Rating: 3.1/10
+ ------
+Name: Pineapple Express; 
+Year: 2008; 
+Rating: 6.5/10
+ ------
+Name: Picture Perfect; 
+Year: 1997; 
+Rating: 3.6/10
+ ------
+Name: Philadelphia; 
+Year: 1993; 
+Rating: 5.4/10
+ ------
+Name: Permanent Vacation; 
+Year: 1980; 
+Rating: 7.0/10
+ ------
+Name: Peggy Sue Got Married; 
+Year: 1986; 
+Rating: 5.8/10
+ ------
+Name: Pay It Forward; 
+Year: 2000; 
+Rating: 2.4/10
+ ------
+Name: Patch Adams; 
+Year: 1998; 
+Rating: 2.8/10
+ ------
+Name: Panic Room; 
+Year: 2002; 
+Rating: 6.3/10
+ ------
+Name: Open Your Eyes; 
+Year: 1997; 
+Rating: 4.2/10
+ ------
+Name: Only God Forgives; 
+Year: 2013; 
+Rating: 1.9/10
+ ------
+Name: One Flew Over the Cuckoo's Nest; 
+Year: 1975; 
+Rating: 3.2/10
+ ------
+Name: One Fine Day; 
+Year: 1996; 
+Rating: 6.0/10
+ ------
+Name: Once; 
+Year: 2007; 
+Rating: 7.6/10
+ ------
+Name: Ocean's Eleven; 
+Year: 2001; 
+Rating: 2.0/10
+ ------
+Name: Now and Then; 
+Year: 1995; 
+Rating: 6.7/10
+ ------
+Name: Now You See Me; 
+Year: 2013; 
+Rating: 5.7/10
+ ------
+Name: Notting Hill; 
+Year: 1999; 
+Rating: 9.3/10
+ ------
+Name: North Country; 
+Year: 2005; 
+Rating: 2.6/10
+ ------
+Name: No Country for Old Men; 
+Year: 2007; 
+Rating: 5.8/10
+ ------
+Name: Nightcrawler; 
+Year: 2014; 
+Rating: 7.5/10
+ ------
+Name: Night on Earth; 
+Year: 1991; 
+Rating: 2.7/10
+ ------
+Name: Nick and Norah's Infinite Playlist; 
+Year: 2008; 
+Rating: 3.6/10
+ ------
+Name: Nell; 
+Year: 1994; 
+Rating: 3.2/10
+ ------
+Name: Natural Born Killers; 
+Year: 1994; 
+Rating: 9.7/10
+ ------
+Name: Napoleon Dynamite; 
+Year: 2004; 
+Rating: 4.6/10
+ ------
+Name: Mystic River; 
+Year: 2003; 
+Rating: 7.7/10
+ ------
+Name: Mystic Pizza; 
+Year: 1988; 
+Rating: 1.7/10
+ ------
+Name: My Week With Marilyn; 
+Year: 2011; 
+Rating: 4.3/10
+ ------
+Name: My Sister's Keeper; 
+Year: 2009; 
+Rating: 6.7/10
+ ------
+Name: My Own Private Idaho; 
+Year: 1991; 
+Rating: 8.8/10
+ ------
+Name: My Girl; 
+Year: 1991; 
+Rating: 8.2/10
+ ------
+Name: My Blueberry Nights; 
+Year: 2007; 
+Rating: 1.6/10
+ ------
+Name: My Best Friend's Wedding; 
+Year: 1997; 
+Rating: 9.2/10
+ ------
+Name: Mulholland Drive; 
+Year: 2001; 
+Rating: 4.1/10
+ ------
+Name: Mud; 
+Year: 2013; 
+Rating: 9.1/10
+ ------
+Name: Mrs. Doubtfire; 
+Year: 1993; 
+Rating: 4.6/10
+ ------
+Name: Moonrise Kingdom; 
+Year: 2012; 
+Rating: 1.9/10
+ ------
+Name: Monster's Ball; 
+Year: 2001; 
+Rating: 5.5/10
+ ------
+Name: Monster; 
+Year: 2003; 
+Rating: 3.4/10
+ ------
+Name: Million Dollar Baby; 
+Year: 2004; 
+Rating: 6.5/10
+ ------
+Name: Milk; 
+Year: 2008; 
+Rating: 3.9/10
+ ------
+Name: Midnight in Paris; 
+Year: 2011; 
+Rating: 8.8/10
+ ------
+Name: Michael; 
+Year: 1996; 
+Rating: 7.3/10
+ ------
+Name: Mermaids; 
+Year: 1990; 
+Rating: 3.7/10
+ ------
+Name: Memoirs of a Geisha; 
+Year: 2005; 
+Rating: 6.4/10
+ ------
+Name: Memento; 
+Year: 2000; 
+Rating: 9.1/10
+ ------
+Name: Meet Joe Black; 
+Year: 1998; 
+Rating: 5.2/10
+ ------
+Name: Match Point; 
+Year: 2005; 
+Rating: 8.4/10
+ ------
+Name: Mask; 
+Year: 1985; 
+Rating: 1.7/10
+ ------
+Name: Marvin's Room; 
+Year: 1996; 
+Rating: 8.1/10
+ ------
+Name: Marie Antoinette; 
+Year: 2006; 
+Rating: 5.0/10
+ ------
+Name: Man on Fire; 
+Year: 2004; 
+Rating: 5.3/10
+ ------
+Name: Mallrats; 
+Year: 1995; 
+Rating: 6.5/10
+ ------
+Name: Malena; 
+Year: 2000; 
+Rating: 6.4/10
+ ------
+Name: Magic Mike; 
+Year: 2012; 
+Rating: 5.0/10
+ ------
+Name: Made in America; 
+Year: 1993; 
+Rating: 7.8/10
+ ------
+Name: Mad Max: Fury Road; 
+Year: 2015; 
+Rating: 6.9/10
+ ------
+Name: Mad Love; 
+Year: 1995; 
+Rating: 9.0/10
+ ------
+Name: Lovely by Surprise; 
+Year: 2007; 
+Rating: 7.2/10
+ ------
+Name: Lovelace; 
+Year: 2013; 
+Rating: 3.7/10
+ ------
+Name: Love and Death on Long Island; 
+Year: 1997; 
+Rating: 2.2/10
+ ------
+Name: Lost in Translation; 
+Year: 2003; 
+Rating: 1.5/10
+ ------
+Name: Look for the Silver Lining; 
+Year: 1949; 
+Rating: 5.7/10
+ ------
+Name: Look Who's Talking; 
+Year: 1989; 
+Rating: 5.5/10
+ ------
+Name: Little Miss Sunshine; 
+Year: 2006; 
+Rating: 3.8/10
+ ------
+Name: Leon: The Professional; 
+Year: 1994; 
+Rating: 6.2/10
+ ------
+Name: Legally Blonde; 
+Year: 2001; 
+Rating: 5.4/10
+ ------
+Name: Leaving Las Vegas; 
+Year: 1995; 
+Rating: 8.4/10
+ ------
+Name: La Vie En Rose; 
+Year: 2007; 
+Rating: 4.4/10
+ ------
+Name: Kramer Vs. Kramer; 
+Year: 1979; 
+Rating: 8.6/10
+ ------
+Name: Knocked Up; 
+Year: 2007; 
+Rating: 5.6/10
+ ------
+Name: Kill Bill: Vol. 2; 
+Year: 2004; 
+Rating: 3.6/10
+ ------
+Name: Kill Bill: Vol. 1; 
+Year: 2003; 
+Rating: 7.9/10
+ ------
+Name: Kalifornia; 
+Year: 1993; 
+Rating: 2.5/10
+ ------
+Name: Just Married; 
+Year: 2003; 
+Rating: 4.3/10
+ ------
+Name: Jurassic Park; 
+Year: 1993; 
+Rating: 6.9/10
+ ------
+Name: Juno; 
+Year: 2007; 
+Rating: 8.9/10
+ ------
+Name: Julie & Julia; 
+Year: 2009; 
+Rating: 6.0/10
+ ------
+Name: Jerry Maguire (1996); 
+Year: 1996; 
+Rating: 2.9/10
+ ------
+Name: Jennifer's Body; 
+Year: 2009; 
+Rating: 1.5/10
+ ------
+Name: Jeepers Creepers; 
+Year: 2001; 
+Rating: 7.1/10
+ ------
+Name: Jay and Silent Bob Strike Back; 
+Year: 2001; 
+Rating: 9.3/10
+ ------
+Name: Jaws; 
+Year: 1975; 
+Rating: 9.2/10
+ ------
+Name: It Could Happen to You; 
+Year: 1994; 
+Rating: 8.0/10
+ ------
+Name: Inventing the Abbotts; 
+Year: 1997; 
+Rating: 7.9/10
+ ------
+Name: Into the Wild; 
+Year: 2007; 
+Rating: 2.5/10
+ ------
+Name: Interview With the Vampire; 
+Year: 1994; 
+Rating: 1.9/10
+ ------
+Name: Interstellar; 
+Year: 2014; 
+Rating: 3.2/10
+ ------
+Name: Insomnia; 
+Year: 2002; 
+Rating: 3.5/10
+ ------
+Name: Inglourious Basterds; 
+Year: 2009; 
+Rating: 8.5/10
+ ------
+Name: Indecent Proposal; 
+Year: 1993; 
+Rating: 3.1/10
+ ------
+Name: Inception; 
+Year: 2010; 
+Rating: 9.0/10
+ ------
+Name: In Her Shoes; 
+Year: 2005; 
+Rating: 2.3/10
+ ------
+Name: If These Walls Could Talk; 
+Year: 1996; 
+Rating: 5.6/10
+ ------
+Name: How to Make an American Quilt; 
+Year: 1995; 
+Rating: 9.5/10
+ ------
+Name: Hook; 
+Year: 1991; 
+Rating: 4.1/10
+ ------
+Name: Homefront; 
+Year: 2013; 
+Rating: 9.9/10
+ ------
+Name: Home Alone; 
+Year: 1990; 
+Rating: 5.8/10
+ ------
+Name: Hitchcock; 
+Year: 2012; 
+Rating: 5.4/10
+ ------
+Name: High Fidelity; 
+Year: 2000; 
+Rating: 2.9/10
+ ------
+Name: Her; 
+Year: 2013; 
+Rating: 3.8/10
+ ------
+Name: Heathers; 
+Year: 1988; 
+Rating: 7.0/10
+ ------
+Name: Half Nelson; 
+Year: 2006; 
+Rating: 2.4/10
+ ------
+Name: Hackers; 
+Year: 1995; 
+Rating: 8.1/10
+ ------
+Name: Grease; 
+Year: 1978; 
+Rating: 9.8/10
+ ------
+Name: Gravity; 
+Year: 2013; 
+Rating: 6.3/10
+ ------
+Name: Gran Torino; 
+Year: 2008; 
+Rating: 9.6/10
+ ------
+Name: Gothika; 
+Year: 2003; 
+Rating: 2.8/10
+ ------
+Name: Goodfellas; 
+Year: 1990; 
+Rating: 7.0/10
+ ------
+Name: Good Will Hunting; 
+Year: 1997; 
+Rating: 5.0/10
+ ------
+Name: Gone in Sixty Seconds; 
+Year: 2000; 
+Rating: 5.0/10
+ ------
+Name: Gone Girl; 
+Year: 2014; 
+Rating: 6.0/10
+ ------
+Name: Gone Baby Gone; 
+Year: 2007; 
+Rating: 8.7/10
+ ------
+Name: Going the Distance; 
+Year: 2010; 
+Rating: 7.4/10
+ ------
+Name: Gladiator; 
+Year: 2000; 
+Rating: 7.5/10
+ ------
+Name: Girl Interrupted; 
+Year: 1999; 
+Rating: 2.1/10
+ ------
+Name: Girl With a Pearl Earring; 
+Year: 2003; 
+Rating: 8.6/10
+ ------
+Name: Gigi; 
+Year: 1958; 
+Rating: 1.9/10
+ ------
+Name: Gia; 
+Year: 1998; 
+Rating: 1.5/10
+ ------
+Name: Ghost Dog: The Way of the Samurai; 
+Year: 1999; 
+Rating: 9.3/10
+ ------
+Name: Ghost; 
+Year: 1990; 
+Rating: 9.0/10
+ ------
+Name: Gentlemen Prefer Blondes; 
+Year: 1953; 
+Rating: 9.1/10
+ ------
+Name: Garden State; 
+Year: 2004; 
+Rating: 3.6/10
+ ------
+Name: G.I. Jane; 
+Year: 1997; 
+Rating: 9.1/10
+ ------
+Name: From Hell; 
+Year: 2001; 
+Rating: 1.6/10
+ ------
+Name: From Dusk Till Dawn; 
+Year: 1996; 
+Rating: 3.5/10
+ ------
+Name: Friends With Benefits; 
+Year: 2011; 
+Rating: 4.7/10
+ ------
+Name: Fried Green Tomatoes; 
+Year: 1991; 
+Rating: 3.2/10
+ ------
+Name: Frida; 
+Year: 2002; 
+Rating: 6.6/10
+ ------
+Name: Freeway; 
+Year: 1996; 
+Rating: 2.7/10
+ ------
+Name: Frankie and Johnny; 
+Year: 1991; 
+Rating: 8.4/10
+ ------
+Name: Four Rooms; 
+Year: 1995; 
+Rating: 2.1/10
+ ------
+Name: Forgetting Sarah Marshall; 
+Year: 2008; 
+Rating: 7.2/10
+ ------
+Name: Focus; 
+Year: 2015; 
+Rating: 5.8/10
+ ------
+Name: Flashdance; 
+Year: 1983; 
+Rating: 5.7/10
+ ------
+Name: Fight Club; 
+Year: 1999; 
+Rating: 4.2/10
+ ------
+Name: Fear and Loathing in Las Vegas; 
+Year: 1998; 
+Rating: 5.0/10
+ ------
+Name: Fear; 
+Year: 1996; 
+Rating: 5.5/10
+ ------
+Name: Factory Girl; 
+Year: 2006; 
+Rating: 6.0/10
+ ------
+Name: Eyes Wide Shut; 
+Year: 1999; 
+Rating: 7.2/10
+ ------
+Name: Ex Machina; 
+Year: 2015; 
+Rating: 3.0/10
+ ------
+Name: Eternal Sunshine of the Spotless Mind; 
+Year: 2004; 
+Rating: 6.7/10
+ ------
+Name: Escape From New York; 
+Year: 1981; 
+Rating: 2.2/10
+ ------
+Name: Erin Brockovich; 
+Year: 2000; 
+Rating: 8.0/10
+ ------
+Name: Empire of the Sun; 
+Year: 1987; 
+Rating: 5.8/10
+ ------
+Name: Edward Scissorhands; 
+Year: 1990; 
+Rating: 3.0/10
+ ------
+Name: Easy Rider; 
+Year: 1969; 
+Rating: 4.1/10
+ ------
+Name: E.T. the Extra-Terrestrial; 
+Year: 1982; 
+Rating: 8.7/10
+ ------
+Name: Duplex; 
+Year: 2003; 
+Rating: 2.2/10
+ ------
+Name: Drop Dead Gorgeous; 
+Year: 1999; 
+Rating: 8.5/10
+ ------
+Name: Driving Miss Daisy; 
+Year: 1989; 
+Rating: 4.9/10
+ ------
+Name: Drive; 
+Year: 2011; 
+Rating: 6.8/10
+ ------
+Name: Dracula; 
+Year: 1992; 
+Rating: 7.4/10
+ ------
+Name: Donnie Darko; 
+Year: 2001; 
+Rating: 3.1/10
+ ------
+Name: Donnie Brasco; 
+Year: 1997; 
+Rating: 5.1/10
+ ------
+Name: Don't Tell Mom the Babysitter's Dead; 
+Year: 1991; 
+Rating: 5.1/10
+ ------
+Name: Don't Say a Word; 
+Year: 2001; 
+Rating: 3.9/10
+ ------
+Name: Don Jon; 
+Year: 2013; 
+Rating: 6.0/10
+ ------
+Name: Dog Day Afternoon; 
+Year: 1975; 
+Rating: 9.7/10
+ ------
+Name: Django Unchained; 
+Year: 2012; 
+Rating: 7.7/10
+ ------
+Name: Dirty Dancing; 
+Year: 1987; 
+Rating: 5.9/10
+ ------
+Name: Die Hard; 
+Year: 1988; 
+Rating: 8.6/10
+ ------
+Name: Desperado; 
+Year: 1995; 
+Rating: 7.5/10
+ ------
+Name: Derailed; 
+Year: 2005; 
+Rating: 9.7/10
+ ------
+Name: Death Proof; 
+Year: 2007; 
+Rating: 5.9/10
+ ------
+Name: Death Becomes Her; 
+Year: 1992; 
+Rating: 5.2/10
+ ------
+Name: Dead Poets Society; 
+Year: 1989; 
+Rating: 6.2/10
+ ------
+Name: Dead Man Walking; 
+Year: 1995; 
+Rating: 7.6/10
+ ------
+Name: Dark Shadows; 
+Year: 2012; 
+Rating: 9.1/10
+ ------
+Name: Dangerous Minds; 
+Year: 1995; 
+Rating: 9.7/10
+ ------
+Name: Dangerous Liaisons; 
+Year: 1988; 
+Rating: 9.0/10
+ ------
+Name: Dallas Buyers Club; 
+Year: 2013; 
+Rating: 6.3/10
+ ------
+Name: Curly Sue; 
+Year: 1991; 
+Rating: 5.8/10
+ ------
+Name: Cruel Intentions; 
+Year: 1999; 
+Rating: 8.4/10
+ ------
+Name: Crazy Stupid Love.; 
+Year: 2011; 
+Rating: 2.1/10
+ ------
+Name: Crash; 
+Year: 2005; 
+Rating: 2.1/10
+ ------
+Name: Contagion; 
+Year: 2011; 
+Rating: 1.7/10
+ ------
+Name: Con Air; 
+Year: 1997; 
+Rating: 8.7/10
+ ------
+Name: Coming to America; 
+Year: 1988; 
+Rating: 9.2/10
+ ------
+Name: Clueless; 
+Year: 1995; 
+Rating: 2.8/10
+ ------
+Name: Closer; 
+Year: 2004; 
+Rating: 6.6/10
+ ------
+Name: Cliffhanger; 
+Year: 1993; 
+Rating: 4.3/10
+ ------
+Name: Clara's Heart; 
+Year: 1988; 
+Rating: 7.8/10
+ ------
+Name: City of Joy; 
+Year: 1992; 
+Rating: 4.5/10
+ ------
+Name: Chocolat; 
+Year: 2000; 
+Rating: 9.4/10
+ ------
+Name: Chloe; 
+Year: 2009; 
+Rating: 2.6/10
+ ------
+Name: Chasing Amy; 
+Year: 1997; 
+Rating: 7.1/10
+ ------
+Name: Changeling; 
+Year: 2008; 
+Rating: 2.5/10
+ ------
+Name: Catch Me If You Can; 
+Year: 2002; 
+Rating: 5.8/10
+ ------
+Name: Casualties of War; 
+Year: 1989; 
+Rating: 3.9/10
+ ------
+Name: Cast Away; 
+Year: 2000; 
+Rating: 6.7/10
+ ------
+Name: Carrie; 
+Year: 1976; 
+Rating: 4.2/10
+ ------
+Name: Carlito's Way; 
+Year: 1993; 
+Rating: 2.7/10
+ ------
+Name: Buffalo '66; 
+Year: 1998; 
+Rating: 9.7/10
+ ------
+Name: Brokeback Mountain; 
+Year: 2005; 
+Rating: 4.9/10
+ ------
+Name: Bridesmaids; 
+Year: 2011; 
+Rating: 2.4/10
+ ------
+Name: Breakfast at Tiffany's; 
+Year: 1961; 
+Rating: 8.2/10
+ ------
+Name: Boys on the Side; 
+Year: 1995; 
+Rating: 5.0/10
+ ------
+Name: Boys Don't Cry; 
+Year: 1999; 
+Rating: 2.5/10
+ ------
+Name: Boyhood; 
+Year: 2014; 
+Rating: 7.3/10
+ ------
+Name: Boogie Woogie; 
+Year: 2009; 
+Rating: 6.2/10
+ ------
+Name: Boogie Nights; 
+Year: 1997; 
+Rating: 3.1/10
+ ------
+Name: Blue Valentine; 
+Year: 2010; 
+Rating: 5.5/10
+ ------
+Name: Blue Jasmine; 
+Year: 2013; 
+Rating: 7.0/10
+ ------
+Name: Blow; 
+Year: 2001; 
+Rating: 7.6/10
+ ------
+Name: Blood Diamond; 
+Year: 2006; 
+Rating: 2.1/10
+ ------
+Name: Black Swan; 
+Year: 2010; 
+Rating: 5.4/10
+ ------
+Name: Black Snake Moan; 
+Year: 2006; 
+Rating: 7.0/10
+ ------
+Name: Black Hawk Down; 
+Year: 2001; 
+Rating: 7.4/10
+ ------
+Name: Big Eyes; 
+Year: 2014; 
+Rating: 4.3/10
+ ------
+Name: Big; 
+Year: 1988; 
+Rating: 7.1/10
+ ------
+Name: Beyond Borders; 
+Year: 2003; 
+Rating: 3.6/10
+ ------
+Name: Being John Malkovich; 
+Year: 1999; 
+Rating: 7.7/10
+ ------
+Name: Beetlejuice; 
+Year: 1988; 
+Rating: 5.9/10
+ ------
+Name: Batman Returns; 
+Year: 1992; 
+Rating: 9.9/10
+ ------
+Name: Batman Begins; 
+Year: 2005; 
+Rating: 7.5/10
+ ------
+Name: Batman; 
+Year: 1989; 
+Rating: 1.8/10
+ ------
+Name: Basic Instinct; 
+Year: 1992; 
+Rating: 5.4/10
+ ------
+Name: Back to the Future; 
+Year: 1985; 
+Rating: 9.5/10
+ ------
+Name: Awake; 
+Year: 2007; 
+Rating: 4.8/10
+ ------
+Name: Arizona Dream; 
+Year: 1993; 
+Rating: 8.8/10
+ ------
+Name: Argo; 
+Year: 2012; 
+Rating: 8.5/10
+ ------
+Name: Anything for Her; 
+Year: 2008; 
+Rating: 3.6/10
+ ------
+Name: Another Day in Paradise; 
+Year: 1998; 
+Rating: 3.0/10
+ ------
+Name: Animal Kingdom; 
+Year: 2010; 
+Rating: 8.1/10
+ ------
+Name: American Psycho; 
+Year: 2000; 
+Rating: 9.8/10
+ ------
+Name: American Pie; 
+Year: 1999; 
+Rating: 7.0/10
+ ------
+Name: American History X; 
+Year: 1998; 
+Rating: 9.0/10
+ ------
+Name: American Beauty; 
+Year: 1999; 
+Rating: 8.5/10
+ ------
+Name: Amelie; 
+Year: 2001; 
+Rating: 4.0/10
+ ------
+Name: Alpha Dog; 
+Year: 2006; 
+Rating: 7.1/10
+ ------
+Name: Almost Famous; 
+Year: 2000; 
+Rating: 2.9/10
+ ------
+Name: All Good Things; 
+Year: 2010; 
+Rating: 7.1/10
+ ------
+Name: Addicted to Love; 
+Year: 1997; 
+Rating: 5.1/10
+ ------
+Name: Accused; 
+Year: 2014; 
+Rating: 1.9/10
+ ------
+Name: A Walk Among the Tombstones; 
+Year: 2014; 
+Rating: 4.2/10
+ ------
+Name: A Time to Kill; 
+Year: 1996; 
+Rating: 5.1/10
+ ------
+Name: A Thousand Acres; 
+Year: 1997; 
+Rating: 9.3/10
+ ------
+Name: A Mighty Heart; 
+Year: 2007; 
+Rating: 6.4/10
+ ------
+Name: A League of Their Own; 
+Year: 1992; 
+Rating: 1.5/10
+ ------
+Name: A Few Good Men; 
+Year: 1992; 
+Rating: 7.7/10
+ ------
+Name: A Beautiful Mind; 
+Year: 2001; 
+Rating: 9.3/10
+ ------
+Name: 8 Mile; 
+Year: 2002; 
+Rating: 2.2/10
+ ------
+Name: 50/50; 
+Year: 2011; 
+Rating: 1.5/10
+ ------
+Name: 40 Days and 40 Nights; 
+Year: 2002; 
+Rating: 4.6/10
+ ------
+Name: 30 Days of Night; 
+Year: 2007; 
+Rating: 7.1/10
+ ------
+Name: 28 Days Later; 
+Year: 2002; 
+Rating: 7.6/10
+ ------
+Name: 21 Grams; 
+Year: 2003; 
+Rating: 2.5/10
+ ------
+Name: 127 Hours; 
+Year: 2010; 
+Rating: 9.2/10
+ ------
+Name: 12 Years a Slave; 
+Year: 2013; 
+Rating: 7.4/10
+ ------
+Name: (500) Days of Summer; 
+Year: 2009; 
+Rating: 7.4/10
+
+Nejstarsi: ------
+Name: Look for the Silver Lining; 
+Year: 1949; 
+Rating: 5.7/10
+
+TOP 10: 
+------
+Name: The Lord of the Rings: The Fellowship of the Ring; 
+Year: 2001; 
+Rating: 11.0/10
+
+------
+Name: The Lord of the Rings: The Two Towers; 
+Year: 2002; 
+Rating: 11.0/10
+
+------
+Name: The Lord of the Rings: The Return of the King; 
+Year: 2003; 
+Rating: 11.0/10
+
+------
+Name: Batman Returns; 
+Year: 1992; 
+Rating: 9.9/10
+
+------
+Name: The Wrestler; 
+Year: 2008; 
+Rating: 9.9/10
+
+------
+Name: Homefront; 
+Year: 2013; 
+Rating: 9.9/10
+
+------
+Name: Grease; 
+Year: 1978; 
+Rating: 9.8/10
+
+------
+Name: Seven; 
+Year: 1995; 
+Rating: 9.8/10
+
+------
+Name: American Psycho; 
+Year: 2000; 
+Rating: 9.8/10
+
+------
+Name: The Break Up; 
+Year: 2006; 
+Rating: 9.8/10
+
