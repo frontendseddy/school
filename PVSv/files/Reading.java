@@ -47,11 +47,14 @@ public class Reading {
 //        FileReader fr = new FileReader(new File("filesResources\\Tracks.txt"));
 //        int character = fr.read();
 //        while (character != -1) {
-//            System.out.print((char) character); //pretypovani na char, jinak to vypise pouze cisla
+//            System.out.print((char) character); //pretypovani na char, jinak to vypise pouze cisla (int)
 //            character = fr.read();
 //        }
 //        fr.close();
 
+        //bufferedreader umi neco vic nez filereader
+        //zapisovani po castech do pameti
+        //cte po radcich
 //        BufferedReader br = new BufferedReader(new FileReader(new File("filesResources\\Tracks.txt")));
 //        String line = br.readLine();
 //        while (line != null) {
@@ -60,9 +63,17 @@ public class Reading {
 //        }
 //        br.close();
 
+        // arraylsit umivic nez pole
+
+        //vytvori velkej string, kde jsou všechny radky a je ulozen v listu
         List<String> lines = Files.readAllLines(Paths.get("filesResources\\Tracks.txt"));
         for (String line : lines) {
             System.out.println(line);
         }
+
+
+
+
+
     }
 }
