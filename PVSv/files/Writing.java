@@ -57,7 +57,7 @@ public class Writing {
                 System.out.print((char) ('a' + rd.nextInt(alphabet.length())));
             }
             //System.out.print(" "); // slovo mezera
-            System.out.println(); // slovo odradkovani 
+            System.out.println(); // slovo odradkovani
         }
         //System.out.println(randomNum);
         //pw.println(randomStrings);
