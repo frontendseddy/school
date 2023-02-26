@@ -12,7 +12,7 @@ public class Writing {
 //        de.writeLine("New line, new text");// prilepi '\n'
 //        de.writeString("Hello");
 //        de.writeString(" World!");
-//        de.writeNewLine();// (\n)
+//        de.writeNewLine();// (\n);
 //        de.writeString("And another niew line");
 //        de.finishExport();
 
