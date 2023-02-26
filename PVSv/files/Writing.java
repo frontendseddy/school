@@ -3,6 +3,8 @@ package PVSv.files;
 import fileworks.DataExport;
 
 import java.io.*;
+import java.util.Random;
+import java.util.concurrent.ThreadLocalRandom;
 
 public class Writing {
     public static void main(String[] args) throws IOException {
@@ -31,7 +33,34 @@ public class Writing {
 
         // umi to same jako bufferedwriter, ale jinak
         PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter(new File("filesResources\\output\\out.txt"))));
-        pw.println("Hello world!");
+//        int wordLength = 12;
+//        Random random = new Random();
+//        StringBuilder sb = new StringBuilder(wordLength);
+//        for(int i = 0; i < wordLength; i++) {
+//            char pom = (char) ('a' + random.nextInt('z' - 'a'));
+//            sb.append(pom);
+//        }
+//        System.out.println(sb.toString());
+        //random number
+        int length = 5;
+        for (int i = 0; i < 5; i++) { //pocet radku
+            System.out.println(ThreadLocalRandom.current().nextInt(0, 10000));
+        }
+
+        System.out.println("---|||---");
+        Random rd = new Random();
+        String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
+        int length1 = 3;
+        int length2 = 7;
+        for (int i = 0; i < length1; i++) { //pocet radku
+            for (int j = 0; j < length2; j++) { //pocet pismen
+                System.out.print((char) ('a' + rd.nextInt(alphabet.length())));
+            }
+            //System.out.print(" "); // slovo mezera
+            System.out.println(); // slovo odradkovani 
+        }
+        //System.out.println(randomNum);
+        //pw.println(randomStrings);
         pw.close();
     }
 }
