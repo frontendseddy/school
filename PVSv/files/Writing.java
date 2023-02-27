@@ -47,6 +47,7 @@ public class Writing {
             System.out.println(ThreadLocalRandom.current().nextInt(0, 10000));
         }
 
+        //random word
         System.out.println("---|||---");
         Random rd = new Random();
         String alphabet = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
