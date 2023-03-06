@@ -16,7 +16,7 @@ public class Writing {
 //        de.writeString("And another niew line");
 //        de.finishExport();
 
-        //vypisuje po radkach
+        //vypisuje po znacích
 //        FileWriter fw = new FileWriter(new File("filesResources\\output\\out.txt"));
 //        fw.write("Hello world text\n");
 //        for (int i = 0; i < 100; i++) {
