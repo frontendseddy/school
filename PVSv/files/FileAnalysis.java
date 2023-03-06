@@ -27,6 +27,7 @@ public class FileAnalysis {
         pw.println("Words: " + wordCount);
         pw.println("Char: " + charCount);
         pw.close();
+
         System.out.println("Line: " + lines.size());
         System.out.println("Words: " + wordCount);
         System.out.println("Char: " + charCount);
