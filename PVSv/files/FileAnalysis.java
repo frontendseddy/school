@@ -9,8 +9,8 @@ public class FileAnalysis {
     public static void main(String[] args) throws IOException {
         //lines, word, char
         List<String> lines = Files.readAllLines(Paths.get("filesResources\\poem.txt"));
-        int charCount = 0, wordCount = 0;
 
+        int charCount = 0, wordCount = 0;
         for (String line : lines) {
             charCount += line.length();
         }
