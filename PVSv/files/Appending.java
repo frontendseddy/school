@@ -15,7 +15,8 @@ public class Appending {
         sc.nextInt();
         pw = new PrintWriter(new BufferedWriter(new FileWriter(new File("filesResources\\output\\AppendingOut.txt"), true)));
         for (int i = 100; i < 200; i++) {
-            pw.println("line num:" + (i+1) + "\n");
+//            pw.println("line num:" + (i+1) + "\n");
+            pw.append("line num: ").append(String.valueOf(i+1)).append("\n");
         }
         pw.close();
         System.out.println("Appended another 100 lines");
