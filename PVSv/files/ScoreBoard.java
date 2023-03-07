@@ -21,7 +21,7 @@ public class ScoreBoard {
         int headLosingChance = 1;
         boolean alive = true;
         System.out.println("Roulette: 1 to risk, otherwise to concede");
-        int input = sc.nextInt(); 
+        int input = sc.nextInt();
         while (alive && input == 1)  {
             System.out.println("Your chance is 1:" + (6-headLosingChance));
             if (r <= headLosingChance) {
