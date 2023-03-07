@@ -7,4 +7,14 @@ cuspic
 chabr
 krystof
 pvs
+xpvsadded words from appendData1.txt: 
+cuspic
+chabr
+krystof
+pvs
+xpvsadded words from appendData1.txt: 
+cuspic
+chabr
+krystof
+pvs
 xpvs
