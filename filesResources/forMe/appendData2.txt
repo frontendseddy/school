@@ -1,0 +1,10 @@
+ahoj
+more
+vole
+gadzo
+added words from appendData1.txt: 
+cuspic
+chabr
+krystof
+pvs
+xpvs
