@@ -7,7 +7,7 @@ import java.util.List;
 
 public class TwoFoldersPractise {
     public static void main(String[] args) throws IOException {
-        //stejne slova
+        //stejne slova a pocet stejnych slov
 //        List<String> line0 = Files.readAllLines(Paths.get("filesResources\\forMe\\data1.txt"));
 //        List<String> line1 = Files.readAllLines(Paths.get("filesResources\\forMe\\data2.txt"));
 //        PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter(new File("filesResources\\forMe\\dataOUT.txt"))));
