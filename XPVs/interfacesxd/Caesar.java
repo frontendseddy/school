@@ -17,7 +17,6 @@ public class Caesar implements Cipher {
                 encrypted += alphabet.charAt(alphabet.indexOf(message[i])+key);
             }
         }
-
         return encrypted;
     }
 
