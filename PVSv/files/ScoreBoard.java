@@ -35,8 +35,6 @@ public class ScoreBoard {
                 System.out.println("Risk again?");
                 input = sc.nextInt();
             }
-
-
         }
         return score;
     }
