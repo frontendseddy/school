@@ -1,3 +1,4 @@
+filesResources\logins\loginAttempts1.txt
 IdreesLandry;modena
 RhyseRollins;1001
 CaolainGolden;19791979
@@ -732,6 +733,7 @@ HendriHurley;30051985
 SylvainCross;dfktynbyf
 MalachaiCase;rambler
 AbubakarJoyce;49ers
+filesResources\logins\loginAttempts2.txt
 KillianPeck;krypton
 FikretFleming;123456789qwe
 BoabHopper;catherin
@@ -1456,6 +1458,7 @@ AreebWaller;maggot
 JoseseBartlett;history
 KarlJoseph;zxcvbnm1
 ChristyBrowning;warhamme
+filesResources\logins\loginAttempts3.txt
 KillianPeck;krypton
 Chang-HaValdez;cyclone
 HoneyEdwards;butterfly
@@ -2202,6 +2205,7 @@ JoseseBartlett;history
 LeeRivas;1956
 AbubakarJoyce;49ers
 Sean-RayByrd;10293847
+filesResources\logins\loginAttempts4.txt
 KillianPeck;krypton
 GuthrieLott;ivan
 TalhaRush;everlast
