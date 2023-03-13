@@ -21,7 +21,7 @@ public class namesTest {
                     max = line;
                 }
             }
-            pw.println(max);
+            pw.println(Paths.get("filesResources\\imputUkol\\names" + (i + 1) + ".txt") + " " + max);
         }
         pw.close();
     }
