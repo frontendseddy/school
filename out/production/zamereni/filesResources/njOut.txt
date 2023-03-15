@@ -1,50 +1,52 @@
-řasa - die Wimper
-čelo - die Stirn
-ústa - der Mund
-záda - der Rücken
-zub - der Zahn
-zdraví - die Gesundheit
-zadek - der Po
-vousy - der Bart
-vlas - das Haar
-ucho - das Ohr
-u lékaře - beim Arzt
-tělo - der Körper
-tvář - die Wange
-ret, rty - die Lippe
-rameno - die Schulter
-pálit - brennen
-prst na noze - der Zeh
-prst - der Finger
-pleš - die Glatze
-piha - die Sommersprosse
-paže - der Arm
-oko - das Auge
-obličej - das Gesicht
-nos - die Nase
-noha - das Bein
-nemoc - die Kranheit 
-lékař - der Arzt
-loket - der Ellbogen
-lidské tělo - menschlicher Körper
-lenoch - das Faultier
-kulatý - rund
-krk - der Hals
-koleno - das Knie
-jizva - die Narbe
-jazyk - die Zunge
-hustý - dicht
-hubený - dünn
-hrát na počítači - am Computer spielen
-hrudník, prsa - die Brust
-hlava - der Kopf 
-hladký - glatt
-cítit se - sich fühlen
-břicho - der Bauch
-brada - das Kinn
-bolet - weh tun
-bolest - der Schmerz
-To pálilo. - Es hat gebrannt.
-Teče mi z nosu. (mám rýmu) - Meine Nase läuft.
-Bolí mě v krku. - Ich habe Halsschmerzen.
 Bolela mě hlava. - Mein Kopf hat wehgetan.
+Bolí mě v krku. - Ich habe Halsschmerzen.
+Teče mi z nosu. (mám rýmu) - Meine Nase läuft.
+To pálilo. - Es hat gebrannt.
+bolest - der Schmerz
+bolet - weh tun
+brada - das Kinn
+břicho - der Bauch
+cítit se - sich fühlen
+hladký - glatt
+hlava - der Kopf 
+hrudník, prsa - die Brust
+hrát na počítači - am Computer spielen
+hubený - dünn
+hustý - dicht
+jazyk - die Zunge
+jizva - die Narbe
+
+koleno - das Knie
+krk - der Hals
+kulatý - rund
+lenoch - das Faultier
+lidské tělo - menschlicher Körper
+loket - der Ellbogen
+lékař - der Arzt
+nemoc - die Kranheit 
+noha - das Bein
+nos - die Nase
+obličej - das Gesicht
+oko - das Auge
+paže - der Arm
+piha - die Sommersprosse
+pleš - die Glatze
+prst - der Finger
+prst na noze - der Zeh
+
+pálit - brennen
+rameno - die Schulter
+ret, rty - die Lippe
+tvář - die Wange
+tělo - der Körper
+u lékaře - beim Arzt
+ucho - das Ohr
+vlas - das Haar
+vousy - der Bart
+zadek - der Po
+zdraví - die Gesundheit
+zub - der Zahn
+záda - der Rücken
+ústa - der Mund
+čelo - die Stirn
+řasa - die Wimper

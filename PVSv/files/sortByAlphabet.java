@@ -13,7 +13,20 @@ public class sortByAlphabet {
         Collections.sort(lines); // by alphabet
 //        Collections.reverse(lines); // reverse
 
-        for (String line : lines ) {
+
+//        int count = 0;
+//        int rows = 17;
+//
+//        for (String line : lines ) {
+//            pw.println(line);
+//            count++;
+//            if(count == rows){
+//                pw.println();
+//                count -= rows;
+//            }
+//        }
+
+        for (String line : lines) {
             pw.println(line);
         }
 
