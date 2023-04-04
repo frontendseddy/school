@@ -15,7 +15,6 @@ hubený - dünn
 hustý - dicht
 jazyk - die Zunge
 jizva - die Narbe
-
 koleno - das Knie
 krk - der Hals
 kulatý - rund
@@ -33,7 +32,6 @@ piha - die Sommersprosse
 pleš - die Glatze
 prst - der Finger
 prst na noze - der Zeh
-
 pálit - brennen
 rameno - die Schulter
 ret, rty - die Lippe
