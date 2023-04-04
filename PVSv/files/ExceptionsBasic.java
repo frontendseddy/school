@@ -19,7 +19,7 @@ public class ExceptionsBasic {
     public static void main(String[] args) throws IOException {
         int[] arr = {1,24,79,87};
         System.out.println(arr[1]);
-        
+
 //        FileReader fr = new FileReader("won't find me.txt");
 
 //        Scanner sc = new Scanner(System.in);
