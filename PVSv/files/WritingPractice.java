@@ -1,14 +1,20 @@
 package PVSv.files;
 
-import java.io.IOException;
-import java.io.PrintWriter;
+import java.io.*;
+import java.nio.file.Files;
+import java.nio.file.Paths;
+import java.util.List;
 
 public class WritingPractice {
     /**
      * Vezme soubor a smaze z nej vsechny i/y a nahradi je _
      */
-    static void removeGrammar() throws IOException{
-
+    static void removeGrammar() throws IOException {
+        List<String> lines = Files.readAllLines(Paths.get("filesResources\\practice\\Grammar.txt"));
+        for (String line : lines) {
+            line.replace("i", "_");
+            System.out.println(line);
+        }
     }
 
     /**
@@ -16,6 +22,15 @@ public class WritingPractice {
      * Pro ucely ukazky spoji vsechny soubory names1-30 do AllNames.txt
      */
     static void mergeFiles() throws IOException {
+        List<String> lines;
+        PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter(new File("filesResources\\practice\\AllNames.txt"), true)));
+        for (int i = 0; i < 30; i++) {
+            lines = Files.readAllLines(Paths.get("filesResources\\practice\\names" + (i + 1) + ".txt"));
+            for (String line : lines) {
+                pw.append("\n").append(line);
+            }
+        }
+        pw.close();
     }
 
     /**
@@ -33,7 +48,7 @@ public class WritingPractice {
 
     public static void main(String[] args) throws IOException{
 //        mergeFiles();
-//        removeGrammar();
+       removeGrammar();
 //        fileReport();
     }
 }
