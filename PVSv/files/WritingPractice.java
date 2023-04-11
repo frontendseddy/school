@@ -11,10 +11,13 @@ public class WritingPractice {
      */
     static void removeGrammar() throws IOException {
         List<String> lines = Files.readAllLines(Paths.get("filesResources\\practice\\Grammar.txt"));
+        PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter(new File("filesResources\\practice\\Grammar.txt"))));
+        String change;
         for (String line : lines) {
-            line.replace("i", "_");
-            System.out.println(line);
+            change = line.replaceAll("[iyíý]", "_");
+            pw.println(change);
         }
+        pw.close();
     }
 
     /**
@@ -48,7 +51,7 @@ public class WritingPractice {
 
     public static void main(String[] args) throws IOException{
 //        mergeFiles();
-       removeGrammar();
+//        removeGrammar();
 //        fileReport();
     }
 }
