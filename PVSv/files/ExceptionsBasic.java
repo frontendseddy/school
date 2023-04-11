@@ -31,5 +31,13 @@ public class ExceptionsBasic {
 //        System.out.println(a.toLowerCase());
         recursive(0);
         System.out.println("Happy ending");
+
+        try {
+            recursive(0);
+        }
+        catch (Error error) {
+            System.out.println("out of stack");
+        }
+        System.out.println("happy ending");
     }
 }
