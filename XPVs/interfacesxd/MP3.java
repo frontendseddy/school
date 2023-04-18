@@ -29,7 +29,7 @@ public class MP3 {
 
     public static void main(String[] args) {
         ArrayList<Track> tracks = loadTracks("Tracks.txt");
-        Collections.sort(tracks, new CompareMoviesByYear());
+        Collections.sort(tracks, new CompareTracksByYear());
         for (Track t: tracks) {
             t.printTrack();
         }
@@ -44,9 +44,9 @@ class Track implements Comparable<Track>{
     double rating;
     int duration;
 
-    public static final Comparator<Track> BY_YEAR = new CompareTracksByYear() {
-
-    }
+//    public static final Comparator<Track> BY_YEAR = new CompareTracksByYear() {
+//
+//    }
 
     public Track(String name, int yearOfRelease, double rating, int duration) {
         this.name = name;
