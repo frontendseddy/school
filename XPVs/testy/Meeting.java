@@ -32,9 +32,12 @@ public class Meeting {
     }
 
     boolean addMeeting(Meeting another) {
-        meetings.add(another);
+        if (meetings.isEmpty()) {
+            meetings.add(another);
+            return true;
+        }
         for (Meeting meeting : meetings) {
-            if (!(meeting.getDate().getDayOfWeek().equals(DayOfWeek.SATURDAY)) || !(meeting.getDate().getDayOfWeek().equals(DayOfWeek.SUNDAY)) && another.getDate().isAfter(meeting.getDate().plusDays(10)) && meeting.getDate().getMonth().equals(Month.AUGUST)) {
+            if (isNotWeekend(meeting) && tenDaysApart(another, meeting) && isNotAugust(meeting)) {
                 meetings.add(meeting);
                 return true;
             }
@@ -48,6 +51,18 @@ public class Meeting {
 
     public String getLocation() {
         return location;
+    }
+
+    boolean tenDaysApart(Meeting another, Meeting meeting) {
+        return another.getDate().isAfter(meeting.getDate().plusDays(10));
+    }
+
+    boolean isNotWeekend(Meeting meeting) {
+        return !(meeting.getDate().getDayOfWeek().equals(DayOfWeek.SATURDAY)) || !(meeting.getDate().getDayOfWeek().equals(DayOfWeek.SUNDAY));
+    }
+
+    boolean isNotAugust(Meeting meeting) {
+        return !meeting.getDate().getMonth().equals(Month.AUGUST);
     }
 }
 
