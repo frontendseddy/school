@@ -25,8 +25,7 @@ public class EventScheduler {
         Meeting meeting1 = new Meeting(LocalDate.of(2023, 5, 14), LocalTime.of(12, 30), 60);
         Meeting meeting2 = new Meeting(LocalDate.of(2023, 5, 14), LocalTime.of(13, 45), 60);
         Meeting meeting3 = new Meeting(LocalDate.of(2023, 5, 14), LocalTime.of(14, 50), 60);
-
-
+        
         System.out.println(scheduler.addMeeting(meeting1));
         System.out.println(scheduler.addMeeting(meeting2));
         System.out.println(scheduler.addMeeting(meeting3));
