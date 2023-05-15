@@ -2,9 +2,7 @@ package PVSv.files.time;
 
 import java.time.LocalDate;
 import java.time.LocalTime;
-import java.time.Month;
 import java.util.ArrayList;
-import java.util.EventListener;
 //Vytvořit třídu eventScheduler{}
 //        > má v sobě atribut ArrayList<Meeting>
 //Třída Meeting:
@@ -16,77 +14,67 @@ import java.util.EventListener;
 //        Meetingy se nemohou překrývat.
 
 public class EventScheduler {
-   ArrayList<Meeting> schedule;
+    ArrayList<Meeting> schedule;
 
-   public EventScheduler(ArrayList<Meeting> schedule) {
-       this.schedule = schedule;
-   }
-   boolean addDefult(Meeting meeting){
-       //přidá první zápis
-       schedule.add(meeting);
-       System.out.println("Proběhlo úspěšně");
-       return true;
-   }
+    public EventScheduler(ArrayList<Meeting> schedule) {
+        this.schedule = schedule;
+    }
 
-   boolean addMeeting(Meeting meeting) {
+    public static void main(String[] args) {
+        EventScheduler scheduler = new EventScheduler(new ArrayList<Meeting>());
 
-       if (meeting.begin.isAfter(LocalTime.NOON) && coverage(meeting) && isNotTwoPerDay(meeting)) {
-           schedule.add(meeting);
-           return true;
-       }
-       return coverage(meeting);
-   }
+        Meeting meeting1 = new Meeting(LocalDate.of(2023, 5, 14), LocalTime.of(12, 30), 60);
+        Meeting meeting2 = new Meeting(LocalDate.of(2023, 5, 14), LocalTime.of(13, 45), 60);
+        Meeting meeting3 = new Meeting(LocalDate.of(2023, 5, 14), LocalTime.of(14, 50), 60);
 
-   boolean coverage(Meeting another) {
 
-       for (Meeting meeting : schedule) {
-           if (another.begin.isAfter(meeting.getEnd()) && another.begin.isBefore(meeting.getEnd())) {
-               return true;
-           }
-       }
-       return false;
-   }
+        System.out.println(scheduler.addMeeting(meeting1));
+        System.out.println(scheduler.addMeeting(meeting2));
+        System.out.println(scheduler.addMeeting(meeting3));
+    }
 
-   boolean isNotTwoPerDay(Meeting another) {
-       int counter = 0;
-       for (Meeting meeting : schedule) {
+    boolean addMeeting(Meeting meeting) {
+        if (meeting.begin.isAfter(LocalTime.NOON) && maxTwoPerDay(meeting) && coverage(meeting)) {
+            schedule.add(meeting);
+            return true;
+        }
+        return false;
+    }
+
+    boolean coverage(Meeting another) {
+        schedule.add(another);
+        for (Meeting meeting : schedule) {
+            LocalTime start1 = meeting.begin;
+            LocalTime end1 = start1.plusMinutes(meeting.durationMin);
+            LocalTime start2 = another.begin;
+            LocalTime end2 = start2.plusMinutes(another.durationMin);
+            if (start1.isBefore(end2) && start2.isBefore(end1)) {
+                return true;
+            }
+        }
+        return false;
+    }
+
+    boolean maxTwoPerDay(Meeting another) {
+        int counter = 0;
+        for (Meeting meeting : schedule) {
             if (meeting.date.equals(another.date)) {
                 counter++;
-                System.out.println(counter);
             }
-       }
-       return counter <= 2;
-   }
+        }
+
+        return counter <= 2;
+    }
 
     static class Meeting {
-       LocalDate date;
-       LocalTime begin;
-       int durationMin;
+        LocalDate date;
+        LocalTime begin;
+        int durationMin;
 
         public Meeting(LocalDate date, LocalTime begin, int durationMin) {
             this.date = date;
             this.begin = begin;
             this.durationMin = durationMin;
         }
-
-        LocalTime getEnd() {
-            return begin.plusMinutes(durationMin);
-        }
     }
-
-    public static void main(String[] args) {
-       EventScheduler scheduler = new EventScheduler(new ArrayList<Meeting>());
-
-
-
-        Meeting meeting1 = new Meeting(LocalDate.of(2023, 5, 14), LocalTime.of(12, 30), 60);
-        Meeting meeting2 = new Meeting(LocalDate.of(2023, 5, 14), LocalTime.of(13, 45), 60);
-        Meeting meeting3 = new Meeting(LocalDate.of(2023, 5, 14), LocalTime.of(14, 50), 60);
-        Meeting meeting4 = new Meeting(LocalDate.of(2023, 5, 14), LocalTime.of(15, 55), 60);
-        Meeting meeting5 = new Meeting(LocalDate.of(2023, 5, 14), LocalTime.of(17, 01), 60);
-        scheduler.addDefult(meeting1);
-
-        System.out.println(scheduler.addMeeting(meeting2));
-    }
-
 }
