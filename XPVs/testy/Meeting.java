@@ -55,6 +55,7 @@ public class Meeting {
 
     boolean tenDaysApart(Meeting another, Meeting meeting) {
         return another.getDate().isAfter(meeting.getDate().plusDays(10));
+
     }
 
     boolean isNotWeekend(Meeting meeting) {
