@@ -1,6 +1,8 @@
 package XPVs.testy;
 
+import java.time.DayOfWeek;
 import java.time.LocalDateTime;
+import java.time.Month;
 import java.util.ArrayList;
 
 public class Meeting {
@@ -27,13 +29,12 @@ public class Meeting {
         System.out.println(idk.addMeeting(meeting1));
         System.out.println(idk.addMeeting(meeting2));
         System.out.println(idk.addMeeting(meeting3));
-
     }
 
     boolean addMeeting(Meeting another) {
         meetings.add(another);
         for (Meeting meeting : meetings) {
-            if (!meeting.getDate().getDayOfWeek().toString().startsWith("S") && another.getDate().isAfter(meeting.getDate().plusDays(10)) && meeting.getDate().getMonthValue() != 8 ) {
+            if (!(meeting.getDate().getDayOfWeek().equals(DayOfWeek.SATURDAY)) || !(meeting.getDate().getDayOfWeek().equals(DayOfWeek.SUNDAY)) && another.getDate().isAfter(meeting.getDate().plusDays(10)) && meeting.getDate().getMonth().equals(Month.AUGUST)) {
                 meetings.add(meeting);
                 return true;
             }
