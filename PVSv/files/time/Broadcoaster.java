@@ -13,7 +13,7 @@ import java.util.Random;
 public class Broadcoaster {
     public static void main(String[] args) throws IOException {
         List<String> lines = Files.readAllLines(Paths.get("Tracks.txt"));
-        PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter("Tracks.txt")));
+        PrintWriter pw = new PrintWriter(new BufferedWriter(new FileWriter("Tracks-Broadcoaster.txt")));
         String randomDate = "";
         LocalDate date;
         Random random = new Random();
