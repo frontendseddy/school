@@ -19,7 +19,7 @@ public class Broadcoaster {
         Random random = new Random();
         random.nextInt();
         for (String line : lines) {
-            date = LocalDate.of(2023, random.nextInt(1, 13), )
+            date = LocalDate.of(2023, random.nextInt(1, 13), random.nextInt(1, 30));
             pw.println(line + ";");
         }
         pw.close();
