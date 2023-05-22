@@ -19,8 +19,9 @@ public class BroadCastReader {
             attributes = line.split(";");
             tracks = new DatedTracks(attributes[0], Integer.parseInt(attributes[1]), Integer.parseInt(attributes[3]), Double.parseDouble(attributes[2]), LocalDate.parse(attributes[4]));
             tracks.printBroadCast();
+            datedTracks.add(tracks);
         }
-        datedTracks.add(tracks);
+
         Collections.sort(datedTracks, DatedTracks.BY_DATE);
         for (DatedTracks datedTracks1 : datedTracks) {
             datedTracks1.printBroadCast();
