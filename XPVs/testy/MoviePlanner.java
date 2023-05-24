@@ -16,6 +16,7 @@ public class MoviePlanner {
         String[] attributes;
         ArrayList<Movie> Movie = new ArrayList<>();
         for (String line : lines) {
+
             attributes = line.split(";");
             movie = new Movie(attributes[0], Integer.parseInt(attributes[1]), Integer.parseInt(attributes[3]), Double.parseDouble(attributes[2]), LocalDate.parse(attributes[4]));
             Movie.add(movie);
