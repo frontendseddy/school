@@ -20,6 +20,14 @@ public class Movies {
                 + "Year: " + year + "; \n"
                 + "Rating: " + rating + "/10\n";
     }
+    @Override
+    public boolean equals(Object obj){
+        Movie m = (Movie) obj;
+        if (m.name.equals(this.name) && m.yearOfRelease == this.year) {
+            return true;
+        }
+        return false;
+    }
 
     public static Comparator<Movies> BY_NAME = new Comparator<Movies>() {
         @Override
