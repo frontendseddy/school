@@ -1,9 +1,10 @@
 package XPVs.interfacesxd;
 
 import java.time.LocalTime;
+import java.util.Arrays;
 
 public class InterfaceSummary {
-    //nemusi se pouzivat
+    //musi se pouzivat spolecne s 2/2
     static void printDuration(Playable something){
         something.printDuration();
     }
@@ -16,13 +17,14 @@ public class InterfaceSummary {
 //        song.printDuration();
 //        movie.play();
 //        movie.printDuration();
+
         // nebo se pouziva tohle 2/2
         Playable[] playables = {movie, song};
         for (Playable playable : playables) {
             playable.play();
             printDuration(playable);
         }
-        //Arrays.sort(playables);
+//        Arrays.sort(playables);
     }
 }
 class Track implements Playable, Comparable<Track01>{
