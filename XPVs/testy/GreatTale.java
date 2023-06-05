@@ -23,9 +23,9 @@ public class GreatTale {
 
     static void init() {
         ArrayList<String> LOTR = new ArrayList<>();
-        LOTR.add("One Ring to rule them all. "); //stranka #1
-        LOTR.add("Folk takes their peril with them into Lorien. ");
-        LOTR.add("Hinder me? Thou fool. No living man may hinder me! ");
+        LOTR.add("One Ring to rule them all."); //stranka #1
+        LOTR.add("Folk takes their peril with them into Lorien.");
+        LOTR.add("Hinder me? Thou fool. No living man may hinder me!");
         LOTR.add("Don’t the great tales never end?"); //stranka #4
 
         TextMsg msg = new TextMsg("Johnny", "27-06-2003", "Oh, Hi Mark!");
@@ -83,9 +83,9 @@ class Book implements Readable, Comparable<Book> {
         System.out.println("Written by: " + auhtor);
         System.out.println(yearOfRelease);
 
-        for (int i = 1; i <= pages.size(); i++) {
-            System.out.println("Page " + i + "/" + pages.size());
-            System.out.println(pages.get(i - 1));
+        for (int i = 0; i < pages.size(); i++) {
+            System.out.println("Page " + (i+1) + "/" + pages.size());
+            System.out.println(pages.get(i));
         }
     }
 
@@ -93,7 +93,8 @@ class Book implements Readable, Comparable<Book> {
     public String getText() {
         StringBuilder sb = new StringBuilder();
         for (String pg : pages) {
-            sb.append(pg + "\n");
+            sb.append(pg);
+            sb.append(" ");
         }
         return sb.toString();
     }
