@@ -23,6 +23,7 @@ public class InterfaceSummary {
         for (Playable playable : playables) {
             playable.play();
             printDuration(playable);
+            System.out.println();
         }
 //        Arrays.sort(playables);
     }
