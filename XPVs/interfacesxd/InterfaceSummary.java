@@ -90,5 +90,15 @@ interface Playable {
     void play();
     void printDuration();
 }
+//word count
+//for (String line : lines) {
+//        for (int i = 0; i < line.length(); i++) {
+//        if (line.charAt(i) == ' ') {
+//        wordCount++;
+//        }
+//        }
+//        wordCount++;
+//        }
+//        pw.println("Words: " + wordCount);
 
 
