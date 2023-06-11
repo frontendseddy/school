@@ -19,7 +19,7 @@ public class Properties {
     static void printDirectory(File file) {
         if (file.isDirectory()) {
             File[] files = file.listFiles();
-//            for (int i = 0; i < files.length; i++) {            tezsi pro pocitat
+//            for (int i = 0; i < files.length; i++) {            tezsi pro pocitac
 //                if (files[i].isFile()) {
 //                    System.out.println("Soubor: " + files[i].getName());
 //                }
