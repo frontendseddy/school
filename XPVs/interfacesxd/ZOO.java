@@ -8,6 +8,7 @@ public class ZOO {
         dog.makeSound();
         Cat cat = new Cat();
         Fish fish = new Fish();
+        cat.makeSound();
         // Animal dog2 = new Dog();
         Animal[] zoo = new Animal[] {cat, dog, fish};
         zoo[2].makeSound();
@@ -29,6 +30,6 @@ class Cat implements Animal {
 class Fish implements Animal {
     @Override
     public void makeSound() {
-        System.out.println("bubble");
+        System.out.println("Bubble");
     }
 }
