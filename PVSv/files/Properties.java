@@ -11,8 +11,33 @@ public class Properties {
             }
             else {
                 System.out.println("Slozka: " + file.getName());
-                tree(file);
+
+//                tree(file);
             }
+        }
+    }
+    static void printTree(File file, String indent) {
+        System.out.println(indent + "+-- " + file.getName());
+        if (file.isDirectory()) {
+            File[] files = file.listFiles();
+            if (files != null) {
+                for (int i = 0; i < files.length; i++) {
+                    if (i == files.length - 1) {
+                        printTree(files[i], indent + "    ");
+                    } else {
+                        printTree(files[i], indent + "|   ");
+                    }
+                }
+            }
+        }
+    }
+    static void smh(){
+        File directory = new File("path_to_your_directory_here");
+        if (directory.exists()) {
+            System.out.println(directory.getName());
+            printTree(directory, "");
+        } else {
+            System.out.println("Directory not found.");
         }
     }
 
@@ -69,6 +94,8 @@ public class Properties {
         File vypis = new File("filesResources");
         System.out.println("---output---");
         tree(vypis);
+
+        smh();
     }
 }
 
